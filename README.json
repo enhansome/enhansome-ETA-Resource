@@ -1,0 +1,1392 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Digital Cybersecurity Expert: How Far Have We Come?",
+          "description": ". Dawei Wang. . [Report] [BenchMark]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-21T06:18:41Z",
+            "owner": "NASP-THU",
+            "repo": "CSEBenchmark",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SECURE: Benchmarking Large Language Models for Cybersecurity",
+          "description": ". Dipkamal Bhusal. . [BenchMark]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-28T14:01:30Z",
+            "owner": "aiforsec",
+            "repo": "SECURE",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Demystifying Network Foundation Models",
+          "description": ". Sylee Beltiukov. . [BenchMark]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-20T04:27:41Z",
+            "owner": "maybe-hello-world",
+            "repo": "demystifying-networks",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CTIBench: A Benchmark for Evaluating LLMs in Cyber Threat Intelligence",
+          "description": ". Md Tanvirul Alam. . [Evaluation] [BenchMark]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-17T00:57:15Z",
+            "owner": "aiforsec",
+            "repo": "cti-bench",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Benchmark"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "General Encrypted Traffic Classification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification",
+          "description": ". Xinjie Lin. . [code] [Reproduce]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T09:04:52Z",
+            "owner": "linwhitehat",
+            "repo": "ET-BERT",
+            "stars": 670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba",
+          "description": ". Tongze Wang. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-05T09:15:50Z",
+            "owner": "wangtz19",
+            "repo": "NetMamba",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yet Another Traffic Classifier: A Masked Autoencoder Based Traffic Transformer with Multi-Level Flow Representation",
+          "description": ". Ruijie Zhao. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-29T17:05:07Z",
+            "owner": "NSSL-SJTU",
+            "repo": "YaTC",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TrafficFormer: An Efficient Pre-trained Model for Traffic Data",
+          "description": ". Guangmeng Zhou. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-18T02:09:54Z",
+            "owner": "IDP-code",
+            "repo": "TrafficFormer",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BTRFormer: Hierarchical Learning of Encrypted Traffic Using a Masked Autoencoder with Block-Based Traffic Representation",
+          "description": ". Junnan Yin. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-21T07:49:07Z",
+            "owner": "yyyjn",
+            "repo": "BTRFormer",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Applied Pre-training/LLMs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Trafic Classification",
+          "description": ". Haozhen Zhang. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-08T03:21:36Z",
+            "owner": "ViktorAxelsen",
+            "repo": "TFE-GNN",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FS-Net: A Flow Sequence Network For Encrypted Traffic Classification",
+          "description": ". Chang Liu. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-09T02:38:50Z",
+            "owner": "WSPTTH",
+            "repo": "FS-Net",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revolutionizing Encrypted Traffic Classification with MH-Net: A Multi-View Heterogeneous Graph Model",
+          "description": ". Haozhen Zhang. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-07T06:48:48Z",
+            "owner": "ViktorAxelsen",
+            "repo": "MH-Net",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "New Directions in Automated Traffic Analysis",
+          "description": ". Jordan Holland. . [code] [nPrint Project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-24T13:40:59Z",
+            "owner": "nprint",
+            "repo": "nprintml",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An Input-Agnostic Hierarchical Deep Learning Framework for Traffic Fingerprinting",
+          "description": ". Jian Qu. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-16T10:11:25Z",
+            "owner": "shashadehuajiang",
+            "repo": "trace_classifier",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enabling Efficient Flow Classification for ML-based Network Security Applications",
+          "description": ". Diogo Barradas. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-16T19:12:04Z",
+            "owner": "dmbb",
+            "repo": "FlowLens",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Packet Representation Learning for Traffic Classification",
+          "description": ". Xuying Meng. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-19T07:23:21Z",
+            "owner": "ict-net",
+            "repo": "PacRep",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaMPF: Encrypted Traffic Classification Based on Multi-Attribute Markov Probability Fingerprints",
+          "description": ". Chang Liu. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-09T02:44:39Z",
+            "owner": "WSPTTH",
+            "repo": "MaMPF",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Applied Machine Learning/Deep Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Network Traffic Simulation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NetLLM: Adapting Large Language Models for Networking",
+          "description": ". Duo Wu. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-07T15:42:59Z",
+            "owner": "duowuyms",
+            "repo": "NetLLM",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NetDiffusion: Network Data Augmentation Through Protocol-Constrained Traffic Generation",
+          "description": ". Xi Jiang. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-20T22:52:55Z",
+            "owner": "noise-lab",
+            "repo": "NetDiffusion",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Making Logic a First-Class Citizen in Generative ML for Networking",
+          "description": ". Hongyu Hè. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-09T18:34:40Z",
+            "owner": "HongyuHe",
+            "repo": "NetNomos",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Resolving Packets from Counters: Enabling Multi-scale Network Traffic Super Resolution via Composable Large Traffic Model",
+          "description": ". Xizheng Wang. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-08T16:28:13Z",
+            "owner": "wxzisk",
+            "repo": "ZoomSynth_NSDI2025",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Applied PT/LLMs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Network Intrusion Detection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AOC-IDS: Autonomous Online Framework with Contrastive Learning for Intrusion Detection",
+          "description": ". Xinchen Zhang. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-06T12:47:18Z",
+            "owner": "xinchen930",
+            "repo": "AOC-IDS",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trident: A Universal Framework for Fine-Grained and Class-Incremental Unknown Traffic Detection",
+          "description": ". Secbrain. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-10T17:27:05Z",
+            "owner": "Secbrain",
+            "repo": "Trident",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flow-MAE: Leveraging Masked AutoEncoder for Accurate, Efficient and Robust Malicious Traffic Classification",
+          "description": ". Zijun Hang. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-10-14T08:18:48Z",
+            "owner": "NLear",
+            "repo": "Flow-MAE",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mateen: Adaptive Ensemble Learning for Network Anomaly Detection",
+          "description": ". Fahad Alotaibi. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-27T01:48:17Z",
+            "owner": "ICL-ml4csec",
+            "repo": "Mateen",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interactive Anomaly Detection in Dynamic Communication Networks",
+          "description": ". Xuying Meng. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-25T09:55:09Z",
+            "owner": "ict-net",
+            "repo": "HADDN",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "General Threat Detection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Detecting Unknown Encrypted Malicious Traffic in Real Time via Flow Interaction Graph Analysis",
+          "description": ". Chuanpu Fu. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-06T02:27:58Z",
+            "owner": "fuchuanpu",
+            "repo": "HyperVision",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Detecting Tunneled Flooding Traffic via Deep Semantic Analysis of Packet Length Patterns",
+          "description": ". Chuanpu Fu. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-03T22:45:05Z",
+            "owner": "fuchuanpu",
+            "repo": "Exosphere",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Point Cloud Analysis for ML-Based Malicious Traffic Detection: Reducing Majorities of False Positive Alarms",
+          "description": ". Chuanpu Fu. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-06T00:48:17Z",
+            "owner": "fuchuanpu",
+            "repo": "pVoxel",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PETNet: Plaintext-aware encrypted traffic detection network for identifying Cobalt Strike HTTPS traffics",
+          "description": ". Xiaodu Yang. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-20T05:02:37Z",
+            "owner": "CN-PETNet",
+            "repo": "PETNet",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Malware/C2 Traffic Detection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "WFP and AFP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HOLMES & WATSON: A Robust and Lightweight HTTPS Website Fingerprinting through HTTP Version Parallelism",
+          "description": ". Yifei Cheng. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-30T10:57:10Z",
+            "owner": "2654400439",
+            "repo": "H123-Website-Fingerprinting",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting",
+          "description": ". Yifei Cheng. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T08:05:56Z",
+            "owner": "2654400439",
+            "repo": "STAR-Website-Fingerprinting",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "General Fingerprinting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Tunnel and VPN",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Website Fingerprinting on Encrypted Proxies: A Flow-Context-Aware Approach and Countermeasures",
+              "description": ". Xiaobo Ma. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-02-15T09:32:46Z",
+                "owner": "sevensmith",
+                "repo": "context-aware-wfp",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Causality Correlation and Context Learning Aided Robust Lightweight Multi-Tab Website Fingerprinting Over Encrypted Tunnel",
+              "description": ". Siyang Chen. . [code] [data]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-07-29T14:08:03Z",
+                "owner": "chenxiailian",
+                "repo": "robustweb",
+                "stars": 7
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Tor",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Deep Fingerprinting: Undermining Website Fingerprinting Defenses with Deep Learning",
+              "description": ". Payap Sirinam. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-03-25T00:07:38Z",
+                "owner": "deep-fingerprinting",
+                "repo": "df",
+                "stars": 205
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis",
+              "description": ". Xinhao Deng. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-06T15:06:19Z",
+                "owner": "FIND-Lab",
+                "repo": "Website-Fingerprinting-Library",
+                "stars": 179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Automated Website Fingerprinting through Deep Learning",
+              "description": ". Vera Rimmer. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-10-09T14:12:45Z",
+                "owner": "DistriNet",
+                "repo": "DLWF",
+                "stars": 115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tik-Tok: The Utility of Packet Timing in Website Fingerprinting Attacks",
+              "description": ". Mohammad Saidur Rahman. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-16T15:31:56Z",
+                "owner": "msrocean",
+                "repo": "Tik_Tok",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning",
+              "description": ". Payap Sirinam. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-12-31T01:54:05Z",
+                "owner": "triplet-fingerprinting",
+                "repo": "tf",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Towards Robust Multi-tab Website Fingerprinting",
+              "description": ". Xinhao Deng. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-01-26T02:29:32Z",
+                "owner": "Xinhao-Deng",
+                "repo": "Multitab-WF-Datasets",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Realistic Website Fingerprinting By Augmenting Network Trace",
+              "description": ". Alireza Bahramali. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-09-20T13:52:34Z",
+                "owner": "SPIN-UMass",
+                "repo": "Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Countmamba: A Generalized Website Fingerprinting Attack via Coarse-Grained Representation and Fine-Grained Prediction",
+              "description": ". Xianwen Deng. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-08T01:03:32Z",
+                "owner": "SJTU-dxw",
+                "repo": "CountMamba-WF",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Transformer-based Model for Multi-tab Website Fingerprinting Attack",
+              "description": ". Zhaoxin Jin. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-11-22T12:54:03Z",
+                "owner": "jzx-bupt",
+                "repo": "TMWF",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swallow: A Transfer-Robust Website Fingerprinting Attack via Consistent Feature Learning",
+              "description": ". Meng Shen. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-22T02:53:37Z",
+                "owner": "wujinhe0814",
+                "repo": "Swallow",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Beyond Single Tabs: A Transformative Few-Shot Approach to Multi-Tab Website Fingerprinting Attacks",
+              "description": ". Wenwen Meng. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-01-17T14:34:09Z",
+                "owner": "WW-Meng",
+                "repo": "FMWF",
+                "stars": 9
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Website Fingerprinting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Tunnel and VPN",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AppSniffer: Towards Robust Mobile App Fingerprinting Against VPN",
+              "description": ". Sanghak Oh. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-10-07T11:30:50Z",
+                "owner": "sanghakoh",
+                "repo": "AppSniffer",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DecETT: Accurate App Fingerprinting Under Encrypted Tunnels via Dual Decouple-based Semantic Enhancement",
+              "description": ". Zheyuan Gu. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-10-29T01:29:22Z",
+                "owner": "DecETT",
+                "repo": "DecETT",
+                "stars": 12
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Mobile App",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FlowPrint: Semi-Supervised Mobile-App Fingerprinting on Encrypted Network Traffic",
+              "description": ". Thijs van Ede. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-02-08T00:44:36Z",
+                "owner": "Thijsvanede",
+                "repo": "FlowPrint",
+                "stars": 133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Robust Smartphone App Identification via Encrypted Network Traffic Analysis",
+              "description": ". Vincent F. Taylor. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "OpenEdge ABL",
+                "last_commit": "2017-07-03T09:48:15Z",
+                "owner": "vftaylor",
+                "repo": "appscanner",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AppScanner: Automatic Fingerprinting of Smartphone Apps from Encrypted Network Traffic",
+              "description": ". Vincent F. Taylor. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "OpenEdge ABL",
+                "last_commit": "2017-07-03T09:48:15Z",
+                "owner": "vftaylor",
+                "repo": "appscanner",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Packet-Level Open-World App Fingerprinting on Wireless Traffic",
+              "description": ". Jianfeng Li. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2022-05-15T13:07:24Z",
+                "owner": "jflixjtu",
+                "repo": "PacketPrint",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adaptive encrypted traffic fingerprinting with bi-directional dependence",
+              "description": ". Khaled Al-Naami. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-11-25T01:31:18Z",
+                "owner": "khaled-alnaami",
+                "repo": "NetworkTrafficFingerprinting",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LLMs Privacy Analysis",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Whisper Leak: A novel side-channel attack on remote language models",
+              "description": ". Microsoft Defender Security Research Team. . [code] [Report]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-11-07T17:05:11Z",
+                "owner": "yo-yo-yo-jbo",
+                "repo": "whisper_leak",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "What Was Your Prompt? A Remote Keylogging Attack on AI Assistants",
+              "description": ". Roy Weiss. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-02-05T10:27:37Z",
+                "owner": "royweiss1",
+                "repo": "GPT_Keylogger",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Network-Level Prompt and Trait Leakage in Local Research Agents",
+              "description": ". Hyejun Jeong. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-12-18T17:46:27Z",
+                "owner": "umass-aisec",
+                "repo": "wra",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "From Length to Content: Token-Length Side-Channel Attacks on Merged LLM API Outputs",
+              "description": ". Sijia Li. . [code]",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "App Fingerprinting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Out-of-Distribution",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CADE: Detecting and Explaining Concept Drift Samples for Security Applications",
+              "description": ". Dongqi Han. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-03-25T23:12:22Z",
+                "owner": "whyisyoung",
+                "repo": "CADE",
+                "stars": 148
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation",
+              "description": ". Dongqi Han. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-04-06T00:44:54Z",
+                "owner": "dongtsi",
+                "repo": "OWAD",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Realistic Website Fingerprinting By Augmenting Network Traces",
+              "description": ". Alireza Bahramali. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-09-20T13:52:34Z",
+                "owner": "SPIN-UMass",
+                "repo": "Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Enhancing Website Fingerprinting Attacks against Traffic Drift",
+              "description": ". Xinhao Deng. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-11T05:23:11Z",
+                "owner": "Xinhao-Deng",
+                "repo": "Adaptive-WF-Attack",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Training Robust Classifiers for Classifying Encrypted Traffic under Dynamic Network Conditions",
+              "description": ". Yuqi Qing. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-04-13T11:27:43Z",
+                "owner": "FIND-Lab",
+                "repo": "MAML-Training-ETC",
+                "stars": 24
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Few-shot/Zero-shot/Imbalance",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic",
+              "description": ". Yuqi Qing. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-01-07T09:45:18Z",
+                "owner": "FIND-Lab",
+                "repo": "RAPIER",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning",
+              "description": ". Payap Sirinam. . [code] (N-shot Learning)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-12-31T01:54:05Z",
+                "owner": "triplet-fingerprinting",
+                "repo": "tf",
+                "stars": 57
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Open-set",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TrafficGPT: An LLM Approach for Open-Set Encrypted Traffic Classification",
+              "description": ". Yasod Ginige. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-11-05T23:49:09Z",
+                "owner": "YasodGinige",
+                "repo": "TrafficGPT",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Trafficllm: Llms for Improved Open-Set Encrypted Traffic Analysis",
+              "description": ". Yasod Ginige. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-14T02:28:15Z",
+                "owner": "YasodGinige",
+                "repo": "TrafficLLM",
+                "stars": 11
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Defense and Adversarial Techniques",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation",
+              "description": ". Renjie Xie. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-09-06T05:42:58Z",
+                "owner": "sunskyXX",
+                "repo": "Rosetta",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Robustifying ML-powered Network Classifiers with PANTS",
+              "description": ". Minhao Jin. . [code] [Blog]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-08-16T02:38:21Z",
+                "owner": "jinminhao",
+                "repo": "PANTS",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AdvTG: An Adversarial Traffic Generation Framework to Deceive DL-Based Malicious Traffic Detection Models",
+              "description": ". Peishuai Sun. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-03T03:26:02Z",
+                "owner": "TrafficDetection-art",
+                "repo": "AdvTG",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CertTA: Certified Robustness Made Practical for Learning-Based Traffic Analysis",
+              "description": ". Jinzhu Yan. . [code] [Zenodo]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-06-20T11:57:41Z",
+                "owner": "InspiringGroup-NeoLab",
+                "repo": "CertTA",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A Hard-Label Black-Box Evasion Attack against ML-based Malicious Traffic Detection Systems",
+              "description": ". Zixuan Liu. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-05-06T12:23:23Z",
+                "owner": "09nat",
+                "repo": "NetMasquerade",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Robustness Matters: Pre-Training Can Enhance the Performance of Encrypted Traffic Analysis",
+              "description": ". Luming Yang. .[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-11-29T01:53:25Z",
+                "owner": "Shangshu-LAB",
+                "repo": "BERT-ps",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Explanatory Analysis",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GEAD: Rules Refine the Riddle: Global Explanation for Deep Learning-Based Anomaly Detection in Security Applications",
+              "description": ". Dongqi Han. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-08-20T08:51:11Z",
+                "owner": "dongtsi",
+                "repo": "GEAD",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xNIDS: Explaining Deep Learning-based Network Intrusion Detection Systems for Active Intrusion Responses",
+              "description": ". Feng Wei. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-08-27T01:35:11Z",
+                "owner": "CactiLab",
+                "repo": "code-xNIDS",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The Sweet Danger of Sugar: Debunking Representation Learning for Encrypted Traffic Classification",
+              "description": ". Yuqi Zhao. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-10T17:01:24Z",
+                "owner": "SmartData-Polito",
+                "repo": "Debunk_Traffic_Representation",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AI/ML for Network Security: The Emperor has no Clothes",
+              "description": ". Arthur S. Jacobs. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-05-20T22:18:22Z",
+                "owner": "TrusteeML",
+                "repo": "trustee",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Understanding Web Fingerprinting with a Protocol-Centric Approach",
+              "description": ". Bogdan Cebere. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-10-03T06:30:33Z",
+                "owner": "bcebere",
+                "repo": "Understanding-and-Explaining-Web-Fingerprinting-with-a-Protocol-Centric-Approach",
+                "stars": 6
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Generalization and Robustness"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection",
+          "description": ". Yisroel Mirsky. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-24T14:32:49Z",
+            "owner": "ymirsky",
+            "repo": "Kitsune-py",
+            "stars": 392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Detecting Unknown Encrypted Malicious Traffic in Real Time via Flow Interaction Graph Analysis",
+          "description": ". Chuanpu Fu. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-06T02:27:58Z",
+            "owner": "fuchuanpu",
+            "repo": "HyperVision",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brain-on-Switch: Towards Advanced Intelligent Network Data Plane via NN-Driven Traffic Analysis at Line-Speed",
+          "description": ". Jinzhu Yan. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-01-14T08:19:06Z",
+            "owner": "InspiringGroup-NeoLab",
+            "repo": "Brain-on-Switch",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FastTraffic: A lightweight method for encrypted traffic fast classification",
+          "description": ". Yuwei Xu. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-27T16:27:08Z",
+            "owner": "JieCaoSec",
+            "repo": "FastTraffic",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HorusEye: A Realtime IoT Malicious Traffic Detection Framework using Programmable Switches",
+          "description": ". Yutao Dong. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "P4",
+            "last_commit": "2023-08-06T14:03:55Z",
+            "owner": "victorkdwu",
+            "repo": "HorusEye",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leo: Online ML-based Traffic Classification at Multi-Terabit Line Rate",
+          "description": ". Syed Usman Jafri. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "P4",
+            "last_commit": "2026-06-13T06:26:13Z",
+            "owner": "Purdue-ISL",
+            "repo": "Leo",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IIsy: Hybrid In-Network Classification Using Programmable Switches",
+          "description": ". Changgang Zheng. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-13T15:29:40Z",
+            "owner": "In-Network-Machine-Learning",
+            "repo": "IIsy",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RIDS: Towards Advanced IDS via RNN Model and Programmable Switches Co-Designed Approaches",
+          "description": ". Ziming Zhao. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-10-07T19:31:44Z",
+            "owner": "Secbrain",
+            "repo": "RIDS",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Synecdoche: Efficient and Accurate In-Network Traffic Classification via Direct Packet Sequential Pattern Matching",
+          "description": ". Minyuan Xiao. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-15T13:37:37Z",
+            "owner": "swampx",
+            "repo": "Synecdoche",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NetVigil: Robust and Low-Cost Anomaly Detection for East-West Data Center Security",
+          "description": ". Kevin Hsieh. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-08-03T04:52:49Z",
+            "owner": "microsoft",
+            "repo": "Yatesbury",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LINC: Enabling Low-Resource In-network Classification and Incremental Model Update",
+          "description": ". Haolin Yan. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-21T02:50:45Z",
+            "owner": "haolinyan",
+            "repo": "LINC",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recursive Multi-Tree Construction With Efficient Rule Sifting for Packet Classification on FPGA",
+          "description": ". Yao Xin. . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-16T11:32:12Z",
+            "owner": "wenjunpaper",
+            "repo": "KickTree",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Online Methods"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T07:58:38.426Z",
+    "original_repository": "linwhitehat/ETA-Resource",
+    "original_repository_sha": "ffb3670c2710afe39031f66109a7d46242764ca1",
+    "enhanced_repository": "enhansome/enhansome-ETA-Resource",
+    "enhanced_repository_description": null,
+    "title": "Awesome Content with stars"
+  }
+}
