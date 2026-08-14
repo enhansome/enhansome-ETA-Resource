@@ -662,7 +662,7 @@
                 "last_commit": "2025-09-08T01:03:32Z",
                 "owner": "SJTU-dxw",
                 "repo": "CountMamba-WF",
-                "stars": 29
+                "stars": 30
               }
             },
             {
@@ -690,7 +690,7 @@
                 "last_commit": "2026-03-22T02:53:37Z",
                 "owner": "wujinhe0814",
                 "repo": "Swallow",
-                "stars": 26
+                "stars": 27
               }
             },
             {
@@ -1382,7 +1382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T07:58:38.426Z",
+    "last_updated": "2026-08-14T07:55:30.046Z",
     "original_repository": "linwhitehat/ETA-Resource",
     "original_repository_sha": "ffb3670c2710afe39031f66109a7d46242764ca1",
     "enhanced_repository": "enhansome/enhansome-ETA-Resource",
