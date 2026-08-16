@@ -578,7 +578,7 @@
                 "last_commit": "2026-07-06T15:06:19Z",
                 "owner": "FIND-Lab",
                 "repo": "Website-Fingerprinting-Library",
-                "stars": 179
+                "stars": 180
               }
             },
             {
@@ -648,7 +648,7 @@
                 "last_commit": "2023-09-20T13:52:34Z",
                 "owner": "SPIN-UMass",
                 "repo": "Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces",
-                "stars": 31
+                "stars": 32
               }
             },
             {
@@ -932,7 +932,7 @@
                 "last_commit": "2023-09-20T13:52:34Z",
                 "owner": "SPIN-UMass",
                 "repo": "Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces",
-                "stars": 31
+                "stars": 32
               }
             },
             {
@@ -1093,7 +1093,7 @@
                 "last_commit": "2025-06-20T11:57:41Z",
                 "owner": "InspiringGroup-NeoLab",
                 "repo": "CertTA",
-                "stars": 17
+                "stars": 18
               }
             },
             {
@@ -1170,7 +1170,7 @@
                 "last_commit": "2025-09-10T17:01:24Z",
                 "owner": "SmartData-Polito",
                 "repo": "Debunk_Traffic_Representation",
-                "stars": 44
+                "stars": 45
               }
             },
             {
@@ -1382,7 +1382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:03:30.207Z",
+    "last_updated": "2026-08-16T07:06:01.002Z",
     "original_repository": "linwhitehat/ETA-Resource",
     "original_repository_sha": "5b42feedda656e1802acb1fdfe50d4c3374548ae",
     "enhanced_repository": "enhansome/enhansome-ETA-Resource",
