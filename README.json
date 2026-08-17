@@ -28,7 +28,7 @@
             "last_commit": "2024-08-28T14:01:30Z",
             "owner": "aiforsec",
             "repo": "SECURE",
-            "stars": 18
+            "stars": 17
           }
         },
         {
@@ -1382,7 +1382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:06:01.002Z",
+    "last_updated": "2026-08-17T07:27:54.105Z",
     "original_repository": "linwhitehat/ETA-Resource",
     "original_repository_sha": "5b42feedda656e1802acb1fdfe50d4c3374548ae",
     "enhanced_repository": "enhansome/enhansome-ETA-Resource",

@@ -174,7 +174,7 @@ Fingerprinting (SWF))(2023)
 ## Benchmark
 
 * [The Digital Cybersecurity Expert: How Far Have We Come?](https://arxiv.org/abs/2504.11783). Dawei Wang. `S&P 2025`. [\[Report\]](https://mp.weixin.qq.com/s/0G0iJue6yJval7sYAmtFEg) [\[BenchMark\]](https://github.com/NASP-THU/CSEBenchmark) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2025-05-21
-* [SECURE: Benchmarking Large Language Models for Cybersecurity](https://ieeexplore.ieee.org/document/10917682). Dipkamal Bhusal. `ACSAC 2024`. [\[BenchMark\]](https://github.com/aiforsec/SECURE) ⭐ 18 | 🐛 1 | 📅 2024-08-28
+* [SECURE: Benchmarking Large Language Models for Cybersecurity](https://ieeexplore.ieee.org/document/10917682). Dipkamal Bhusal. `ACSAC 2024`. [\[BenchMark\]](https://github.com/aiforsec/SECURE) ⭐ 17 | 🐛 1 | 📅 2024-08-28
 * [Demystifying Network Foundation Models](https://arxiv.org/abs/2509.23089). Sylee Beltiukov. `NeurIPS 2025`. [\[BenchMark\]](https://github.com/maybe-hello-world/demystifying-networks) ⭐ 12 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-03-20
 * [CTIBench: A Benchmark for Evaluating LLMs in Cyber Threat Intelligence](https://proceedings.neurips.cc/paper_files/paper/2024/file/5acd3c628aa1819fbf07c39ef73e7285-Paper-Datasets_and_Benchmarks_Track.pdf#:~:text=To%20bridge%20this%20gap%2C%20we,bench). Md Tanvirul Alam. `NeurIPS 2024`. [\[Evaluation\]](https://github.com/aiforsec/cti-bench) ⭐ 5 | 🐛 0 | 📅 2024-08-17 [\[BenchMark\]](https://huggingface.co/datasets/AI4Sec/cti-bench)
 
@@ -225,7 +225,7 @@ Fingerprinting (SWF))(2023)
 ### Applied ML/DL
 
 * [Datacenter Network Deserves Be!er Traffic Models](https://conferences.sigcomm.org/hotnets/2023/papers/hotnets23_huang.pdf). Sijiang Huang. `HotNets 2023`.
-* [Practical GAN-based synthetic IP header trace generation using NetShare](https://dl.acm.org/doi/10.1145/3544216.3544251). Yucheng Yin. `SIGCOMM 2022`. \[[code](https://github.com/netsharecmu/NetShare) ⭐ 99 | 🐛 1 | 🌐 Python | 📅 2023-10-08]
+* [Practical GAN-based synthetic IP header trace generation using NetShare](https://dl.acm.org/doi/10.1145/3544216.3544251). Yucheng Yin. `SIGCOMM 2022`. \[[code](https://github.com/netsharecmu/NetShare) ⭐ 100 | 🐛 1 | 🌐 Python | 📅 2023-10-08]
 
 ## Network Intrusion Detection
 
@@ -668,7 +668,7 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 # Tool Libraries and Frameworks
 
 * [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,129 | 🐛 54 | 🌐 C++ | 📅 2026-08-14
-* [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,563 | 🐛 10 | 🌐 C | 📅 2026-08-12
+* [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,505 | 🐛 10 | 🌐 C | 📅 2026-08-12
 * [Joy](https://github.com/cisco/joy) ⭐ 1,367 | 🐛 30 | 🌐 C | 📅 2024-04-01
 * [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 708 | 🐛 12 | 🌐 Java | 📅 2023-12-04
 * [mercury](https://github.com/cisco/mercury) ⭐ 518 | 🐛 17 | 🌐 C++ | 📅 2026-07-13
@@ -734,4 +734,4 @@ Thanks goes to these wonderful people!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
