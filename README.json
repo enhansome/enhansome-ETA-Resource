@@ -1195,7 +1195,7 @@
                     "last_commit": "2026-08-18T20:22:18Z",
                     "owner": "09nat",
                     "repo": "NetMasquerade",
-                    "stars": 16
+                    "stars": 17
                   }
                 },
                 {
@@ -1620,7 +1620,7 @@
             "archived": false,
             "id": 24911519,
             "language": "C++",
-            "last_commit": "2026-08-19T06:37:08Z",
+            "last_commit": "2026-08-19T08:31:43Z",
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3131
@@ -1796,8 +1796,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:11:34.498Z",
+    "last_updated": "2026-08-19T12:10:32.490Z",
     "original_repository": "linwhitehat/ETA-Resource",
+    "original_repository_id": 444001545,
     "original_repository_sha": "2bfc72f571fc022a8982e8c701c78ce1f27679ef",
     "enhanced_repository": "enhansome/enhansome-ETA-Resource",
     "enhanced_repository_description": null,
