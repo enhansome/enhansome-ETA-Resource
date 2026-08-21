@@ -528,6 +528,21 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting",
+                  "description": ". Yifei Cheng. . [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1028475376,
+                    "language": "Python",
+                    "last_commit": "2026-07-30T08:05:56Z",
+                    "owner": "2654400439",
+                    "repo": "STAR-Website-Fingerprinting",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "HOLMES & WATSON: A Robust and Lightweight HTTPS Website Fingerprinting through HTTP Version Parallelism",
                   "description": ". Yifei Cheng. . [code]",
                   "children": [],
@@ -539,21 +554,6 @@
                     "owner": "2654400439",
                     "repo": "H123-Website-Fingerprinting",
                     "stars": 17
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting",
-                  "description": ". Yifei Cheng. . [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 1028475376,
-                    "language": "Python",
-                    "last_commit": "2026-07-30T08:05:56Z",
-                    "owner": "2654400439",
-                    "repo": "STAR-Website-Fingerprinting",
-                    "stars": 16
                   }
                 }
               ],
@@ -1620,7 +1620,7 @@
             "archived": false,
             "id": 24911519,
             "language": "C++",
-            "last_commit": "2026-08-20T06:31:25Z",
+            "last_commit": "2026-08-21T06:17:22Z",
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3131
@@ -1647,7 +1647,7 @@
           "description": null,
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "id": 49294674,
             "language": "C",
             "last_commit": "2024-04-01T09:50:44Z",
@@ -1796,7 +1796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:12:19.954Z",
+    "last_updated": "2026-08-21T07:13:40.760Z",
     "original_repository": "linwhitehat/ETA-Resource",
     "original_repository_id": 444001545,
     "original_repository_sha": "2bfc72f571fc022a8982e8c701c78ce1f27679ef",

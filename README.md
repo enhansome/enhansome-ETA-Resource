@@ -272,8 +272,8 @@ Fingerprinting (SWF))(2023)
 
 ### General Fingerprinting
 
+* [STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting](https://arxiv.org/abs/2512.17667).  Yifei Cheng. `INFOCOM 2026`. [\[code\]](https://github.com/2654400439/STAR-Website-Fingerprinting) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-07-30
 * [HOLMES & WATSON: A Robust and Lightweight HTTPS Website Fingerprinting through HTTP Version Parallelism](https://dl.acm.org/doi/10.1145/3696410.3714578). Yifei Cheng. `WWW 2025`. [\[code\]](https://github.com/2654400439/H123-Website-Fingerprinting) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2025-05-30
-* [STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting](https://arxiv.org/abs/2512.17667).  Yifei Cheng. `INFOCOM 2026`. [\[code\]](https://github.com/2654400439/STAR-Website-Fingerprinting) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-07-30
 * [Nüwa: Enhancing Network Traffic Analysis With Pre-Trained Side-Channel Feature Imputation](https://ieeexplore.ieee.org/abstract/document/11071392). Faqi Zhao. `ToN 2025`.
 * [DE-GNN: Dual embedding with graph neural network for fine-grained encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128624002044). Xinbo Han. `Computer Networks 2024`.
 * [Seeing Traffic Paths: Encrypted Traffic Classification With Path Signature Features](https://ieeexplore.ieee.org/document/9786755). Shijie Xu. `TIFS 2022`.
@@ -667,9 +667,9 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 
 # Tool Libraries and Frameworks
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,131 | 🐛 59 | 🌐 C++ | 📅 2026-08-20
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,131 | 🐛 60 | 🌐 C++ | 📅 2026-08-21
 * [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,505 | 🐛 10 | 🌐 C | 📅 2026-08-12
-* [Joy](https://github.com/cisco/joy) ⭐ 1,367 | 🐛 30 | 🌐 C | 📅 2024-04-01
+* [Joy](https://github.com/cisco/joy) ⚠️ Archived
 * [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 708 | 🐛 12 | 🌐 Java | 📅 2023-12-04
 * [mercury](https://github.com/cisco/mercury) ⭐ 518 | 🐛 17 | 🌐 C++ | 📅 2026-07-13
 * [flowcontainer](https://github.com/jmhIcoding/flowcontainer) ⭐ 233 | 🐛 9 | 🌐 Python | 📅 2023-07-31
@@ -734,4 +734,4 @@ Thanks goes to these wonderful people!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
