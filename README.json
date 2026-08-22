@@ -1587,7 +1587,7 @@
             "last_commit": "2025-11-11T06:51:41Z",
             "owner": "gnipping",
             "repo": "Awesome-ML-SP-Papers",
-            "stars": 358
+            "stars": 359
           }
         },
         {
@@ -1620,7 +1620,7 @@
             "archived": false,
             "id": 24911519,
             "language": "C++",
-            "last_commit": "2026-08-21T06:17:22Z",
+            "last_commit": "2026-08-22T02:58:32Z",
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3131
@@ -1638,7 +1638,7 @@
             "last_commit": "2026-08-12T10:01:18Z",
             "owner": "Internet-Architecture-and-Security",
             "repo": "PacketScope",
-            "stars": 1505
+            "stars": 1506
           }
         },
         {
@@ -1653,7 +1653,7 @@
             "last_commit": "2024-04-01T09:50:44Z",
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1367
+            "stars": 1368
           }
         },
         {
@@ -1796,7 +1796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:13:40.760Z",
+    "last_updated": "2026-08-22T07:05:38.436Z",
     "original_repository": "linwhitehat/ETA-Resource",
     "original_repository_id": 444001545,
     "original_repository_sha": "2bfc72f571fc022a8982e8c701c78ce1f27679ef",
