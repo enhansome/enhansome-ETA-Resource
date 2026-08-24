@@ -92,7 +92,7 @@
                     "last_commit": "2026-07-23T09:04:52Z",
                     "owner": "linwhitehat",
                     "repo": "ET-BERT",
-                    "stars": 670
+                    "stars": 671
                   }
                 },
                 {
@@ -189,7 +189,7 @@
                     "last_commit": "2020-07-09T02:38:50Z",
                     "owner": "WSPTTH",
                     "repo": "FS-Net",
-                    "stars": 126
+                    "stars": 127
                   }
                 },
                 {
@@ -219,7 +219,7 @@
                     "last_commit": "2024-01-24T13:40:59Z",
                     "owner": "nprint",
                     "repo": "nprintml",
-                    "stars": 61
+                    "stars": 62
                   }
                 },
                 {
@@ -249,7 +249,7 @@
                     "last_commit": "2021-01-16T19:12:04Z",
                     "owner": "dmbb",
                     "repo": "FlowLens",
-                    "stars": 41
+                    "stars": 42
                   }
                 },
                 {
@@ -1061,7 +1061,7 @@
                     "last_commit": "2025-01-07T09:45:18Z",
                     "owner": "FIND-Lab",
                     "repo": "RAPIER",
-                    "stars": 66
+                    "stars": 67
                   }
                 },
                 {
@@ -1098,7 +1098,7 @@
                     "last_commit": "2025-11-05T23:49:09Z",
                     "owner": "YasodGinige",
                     "repo": "TrafficGPT",
-                    "stars": 61
+                    "stars": 62
                   }
                 },
                 {
@@ -1165,7 +1165,7 @@
                     "last_commit": "2026-08-03T03:26:02Z",
                     "owner": "TrafficDetection-art",
                     "repo": "AdvTG",
-                    "stars": 19
+                    "stars": 20
                   }
                 },
                 {
@@ -1316,7 +1316,7 @@
                 "last_commit": "2026-03-24T14:32:49Z",
                 "owner": "ymirsky",
                 "repo": "Kitsune-py",
-                "stars": 393
+                "stars": 394
               }
             },
             {
@@ -1620,7 +1620,7 @@
             "archived": false,
             "id": 24911519,
             "language": "C++",
-            "last_commit": "2026-08-23T02:33:29Z",
+            "last_commit": "2026-08-23T07:41:55Z",
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3131
@@ -1638,7 +1638,7 @@
             "last_commit": "2026-08-12T10:01:18Z",
             "owner": "Internet-Architecture-and-Security",
             "repo": "PacketScope",
-            "stars": 1506
+            "stars": 1507
           }
         },
         {
@@ -1796,7 +1796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T07:07:48.916Z",
+    "last_updated": "2026-08-24T07:33:07.307Z",
     "original_repository": "linwhitehat/ETA-Resource",
     "original_repository_id": 444001545,
     "original_repository_sha": "2bfc72f571fc022a8982e8c701c78ce1f27679ef",
