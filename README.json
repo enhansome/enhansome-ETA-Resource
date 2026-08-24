@@ -4,6 +4,184 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "CESNET-DataZoo",
+          "description": "QUIC,TLS – 🟢 Regularly",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 684741905,
+            "language": "Python",
+            "last_commit": "2026-03-23T15:35:22Z",
+            "owner": "CESNET",
+            "repo": "cesnet-datazoo",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VisQUIC",
+          "description": "QUIC Traffic Captured from Different Webpages 2025 🔵 New",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 810933754,
+            "language": "Python",
+            "last_commit": "2026-04-06T21:17:15Z",
+            "owner": "robshahla",
+            "repo": "VisQUIC",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NETD",
+          "description": "Dynamic Non-I.I.D. Encrypted Traffic Dataset 2025 🔵 New",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1059839286,
+            "language": "Python",
+            "last_commit": "2025-10-11T10:02:04Z",
+            "owner": "linwhitehat",
+            "repo": "NETD",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MobileTraffic",
+          "description": "300+ Mobile Apps 2024 🟡 No updates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 444059649,
+            "language": null,
+            "last_commit": "2024-01-15T03:43:06Z",
+            "owner": "Abby-ZS",
+            "repo": "NUDT_MobileTraffic",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Network Multiflow Fingerprinting Datasets",
+          "description": "UAV, IoT Device ID, ISD, KWS, SWF 2023 🟡 No updates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 603309089,
+            "language": "Python",
+            "last_commit": "2024-03-16T10:11:25Z",
+            "owner": "shashadehuajiang",
+            "repo": "trace_classifier",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnonProxy2023",
+          "description": "Anonymous, Proxy, VPN 2023 🟡 No updates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 788479270,
+            "language": null,
+            "last_commit": "2024-04-18T14:05:01Z",
+            "owner": "MrRobotsAA",
+            "repo": "AnonProxy2023-Dataset",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSTNET-TLS 1.3",
+          "description": "TLS 1.3 Services 2022 🟡 No updates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 457199894,
+            "language": "Python",
+            "last_commit": "2026-07-23T09:04:52Z",
+            "owner": "linwhitehat",
+            "repo": "ET-BERT",
+            "stars": 671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LFETT2021 Dataset",
+          "description": "Tunnel, Proxy, VPN 2021 🟡 No updates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633458552,
+            "language": null,
+            "last_commit": "2023-05-08T03:13:57Z",
+            "owner": "HoneyPotter-Gzy",
+            "repo": "LFETT2021-dataset",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wangknn-dataset",
+          "description": "Tor, Websites 2018 🟡 No updates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139822386,
+            "language": null,
+            "last_commit": "2018-07-05T09:21:59Z",
+            "owner": "kdsec",
+            "repo": "wangknn-dataset",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DLWF",
+          "description": "Tor, Websites, Concept Drift, Open World 2018 🟡 No updates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 121912028,
+            "language": "Python",
+            "last_commit": "2023-10-09T14:12:45Z",
+            "owner": "DistriNet",
+            "repo": "DLWF",
+            "stars": 115
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SoK: Decoding the Enigma of Encrypted Network Traffic Classifiers",
+              "description": ". Nimesha Wickramasinghe. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 983826946,
+                "language": "Python",
+                "last_commit": "2025-05-15T05:12:34Z",
+                "owner": "nime-sha256",
+                "repo": "ntc-enigma",
+                "stars": 36
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Survey"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -107,7 +285,7 @@
                     "last_commit": "2026-04-05T09:15:50Z",
                     "owner": "wangtz19",
                     "repo": "NetMamba",
-                    "stars": 179
+                    "stars": 180
                   }
                 },
                 {
@@ -360,6 +538,28 @@
               "description": null,
               "node_type": "group",
               "title": "Applied PT/LLMs"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Practical GAN-based synthetic IP header trace generation using NetShare",
+                  "description": ". Yucheng Yin. . [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 503782808,
+                    "language": "Python",
+                    "last_commit": "2023-10-08T03:14:20Z",
+                    "owner": "netsharecmu",
+                    "repo": "NetShare",
+                    "stars": 100
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Applied ML/DL"
             }
           ],
           "description": null,
@@ -464,7 +664,7 @@
                     "last_commit": "2024-05-06T02:27:58Z",
                     "owner": "fuchuanpu",
                     "repo": "HyperVision",
-                    "stars": 200
+                    "stars": 201
                   }
                 },
                 {
@@ -1331,7 +1531,7 @@
                 "last_commit": "2024-05-06T02:27:58Z",
                 "owner": "fuchuanpu",
                 "repo": "HyperVision",
-                "stars": 200
+                "stars": 201
               }
             },
             {
@@ -1587,7 +1787,7 @@
             "last_commit": "2025-11-11T06:51:41Z",
             "owner": "gnipping",
             "repo": "Awesome-ML-SP-Papers",
-            "stars": 359
+            "stars": 360
           }
         },
         {
@@ -1785,7 +1985,7 @@
             "archived": false,
             "id": 1187173298,
             "language": "Rust",
-            "last_commit": "2026-06-05T06:36:58Z",
+            "last_commit": "2026-08-24T08:02:09Z",
             "owner": "das-lab",
             "repo": "darkflow",
             "stars": 9
@@ -1796,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:33:07.307Z",
+    "last_updated": "2026-08-24T14:28:56.074Z",
     "original_repository": "linwhitehat/ETA-Resource",
     "original_repository_id": 444001545,
     "original_repository_sha": "2bfc72f571fc022a8982e8c701c78ce1f27679ef",
