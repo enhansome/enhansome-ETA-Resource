@@ -105,7 +105,7 @@
             "last_commit": "2026-07-23T09:04:52Z",
             "owner": "linwhitehat",
             "repo": "ET-BERT",
-            "stars": 671
+            "stars": 672
           }
         },
         {
@@ -270,7 +270,7 @@
                     "last_commit": "2026-07-23T09:04:52Z",
                     "owner": "linwhitehat",
                     "repo": "ET-BERT",
-                    "stars": 671
+                    "stars": 672
                   }
                 },
                 {
@@ -315,7 +315,7 @@
                     "last_commit": "2025-01-18T02:09:54Z",
                     "owner": "IDP-code",
                     "repo": "TrafficFormer",
-                    "stars": 108
+                    "stars": 109
                   }
                 },
                 {
@@ -367,7 +367,7 @@
                     "last_commit": "2020-07-09T02:38:50Z",
                     "owner": "WSPTTH",
                     "repo": "FS-Net",
-                    "stars": 127
+                    "stars": 128
                   }
                 },
                 {
@@ -1474,7 +1474,7 @@
                     "archived": false,
                     "id": 297778589,
                     "language": "Python",
-                    "last_commit": "2024-05-20T22:18:22Z",
+                    "last_commit": "2026-08-24T21:47:28Z",
                     "owner": "TrusteeML",
                     "repo": "trustee",
                     "stars": 35
@@ -1820,7 +1820,7 @@
             "archived": false,
             "id": 24911519,
             "language": "C++",
-            "last_commit": "2026-08-23T07:41:55Z",
+            "last_commit": "2026-08-24T20:29:19Z",
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3131
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:28:56.074Z",
+    "last_updated": "2026-08-25T06:17:49.349Z",
     "original_repository": "linwhitehat/ETA-Resource",
     "original_repository_id": 444001545,
     "original_repository_sha": "2bfc72f571fc022a8982e8c701c78ce1f27679ef",
