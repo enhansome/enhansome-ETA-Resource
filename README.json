@@ -832,7 +832,7 @@
                         "last_commit": "2026-07-06T15:06:19Z",
                         "owner": "FIND-Lab",
                         "repo": "Website-Fingerprinting-Library",
-                        "stars": 180
+                        "stars": 181
                       }
                     },
                     {
@@ -1224,7 +1224,7 @@
                     "last_commit": "2025-09-11T05:23:11Z",
                     "owner": "Xinhao-Deng",
                     "repo": "Adaptive-WF-Attack",
-                    "stars": 24
+                    "stars": 25
                   }
                 },
                 {
@@ -1820,10 +1820,10 @@
             "archived": false,
             "id": 24911519,
             "language": "C++",
-            "last_commit": "2026-08-26T05:41:09Z",
+            "last_commit": "2026-08-27T07:30:45Z",
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3131
+            "stars": 3132
           }
         },
         {
@@ -1868,7 +1868,7 @@
             "last_commit": "2023-12-04T13:35:50Z",
             "owner": "ahlashkari",
             "repo": "CICFlowMeter",
-            "stars": 708
+            "stars": 710
           }
         },
         {
@@ -1880,7 +1880,7 @@
             "archived": false,
             "id": 205461953,
             "language": "C++",
-            "last_commit": "2026-07-13T16:22:55Z",
+            "last_commit": "2026-08-26T20:13:41Z",
             "owner": "cisco",
             "repo": "mercury",
             "stars": 518
@@ -1928,7 +1928,7 @@
             "last_commit": "2026-07-06T15:06:19Z",
             "owner": "FIND-Lab",
             "repo": "Website-Fingerprinting-Library",
-            "stars": 180
+            "stars": 181
           }
         },
         {
@@ -1996,9 +1996,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:14:39.418Z",
-    "original_repository": "linwhitehat/ETA-Resource",
-    "original_repository_id": 444001545,
+    "last_updated": "2026-08-27T11:39:28.244Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 444001545,
+      "language": null,
+      "last_commit": "2026-08-19T04:34:23Z",
+      "owner": "linwhitehat",
+      "repo": "ETA-Resource",
+      "stars": 387
+    },
     "original_repository_sha": "2bfc72f571fc022a8982e8c701c78ce1f27679ef",
     "enhanced_repository": "enhansome/enhansome-ETA-Resource",
     "enhanced_repository_description": null,

@@ -294,7 +294,7 @@ Fingerprinting (SWF))(2023)
   * [Context-aware Website Fingerprinting over Encrypted Proxies](https://ieeexplore.ieee.org/abstract/document/9488676). Xiaobo Ma. `INFOCOM 2021`.
 * Tor
   * [Deep Fingerprinting: Undermining Website Fingerprinting Defenses with Deep Learning](https://dl.acm.org/doi/abs/10.1145/3243734.3243768). Payap Sirinam. `CCS 2018`. [\[code\]](https://github.com/deep-fingerprinting/df) ⭐ 205 | 🐛 13 | 🌐 Python | 📅 2023-03-25
-  * [Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis](https://arxiv.org/pdf/2407.00918). Xinhao Deng. `CCS 2024`. [\[code\]](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) ⭐ 180 | 🐛 2 | 🌐 Python | 📅 2026-07-06
+  * [Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis](https://arxiv.org/pdf/2407.00918). Xinhao Deng. `CCS 2024`. [\[code\]](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) ⭐ 181 | 🐛 2 | 🌐 Python | 📅 2026-07-06
   * [Automated Website Fingerprinting through Deep Learning](https://tor-wf-dl.distrinet-research.be/Rimmer2018-DLWF.pdf). Vera Rimmer. `NDSS 2018`. [\[code\]](https://github.com/DistriNet/DLWF) ⭐ 115 | 🐛 2 | 🌐 Python | 📅 2023-10-09
   * [Tik-Tok: The Utility of Packet Timing in Website Fingerprinting Attacks](https://petsymposium.org/popets/2020/popets-2020-0043.pdf). Mohammad Saidur Rahman. `PETS 2019`. [\[code\]](https://github.com/msrocean/Tik_Tok) ⭐ 60 | 🐛 1 | 🌐 Python | 📅 2026-06-16
   * [Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning](https://dl.acm.org/doi/10.1145/3319535.3354217). Payap Sirinam. `CCS 2019`. [\[code\]](https://github.com/triplet-fingerprinting/tf) ⭐ 57 | 🐛 5 | 🌐 Python | 📅 2021-12-31
@@ -353,7 +353,7 @@ Fingerprinting (SWF))(2023)
   * [CADE: Detecting and Explaining Concept Drift Samples for Security Applications](https://www.usenix.org/conference/usenixsecurity21/presentation/yang-limin). Dongqi Han. `USENIX Security 2021`. [\[code\]](https://github.com/whyisyoung/CADE) ⭐ 148 | 🐛 2 | 🌐 Python | 📅 2023-03-25
   * [Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation](https://www.ndss-symposium.org/ndss-paper/anomaly-detection-in-the-open-world-normality-shift-detection-explanation-and-adaptation/). Dongqi Han. `NDSS 2023`. [\[code\]](https://github.com/dongtsi/OWAD) ⭐ 79 | 🐛 0 | 🌐 Python | 📅 2025-04-06
   * [Realistic Website Fingerprinting By Augmenting Network Traces](https://dl.acm.org/doi/abs/10.1145/3576915.3616639). Alireza Bahramali. `CCS 2023`. [\[code\]](https://github.com/SPIN-UMass/Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces) ⭐ 32 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-09-20
-  * [Enhancing Website Fingerprinting Attacks against Traffic Drift](https://www.ndss-symposium.org/wp-content/uploads/2026-s59-paper.pdf). Xinhao Deng. `NDSS 2026`. [\[code\]](https://github.com/Xinhao-Deng/Adaptive-WF-Attack) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2025-09-11
+  * [Enhancing Website Fingerprinting Attacks against Traffic Drift](https://www.ndss-symposium.org/wp-content/uploads/2026-s59-paper.pdf). Xinhao Deng. `NDSS 2026`. [\[code\]](https://github.com/Xinhao-Deng/Adaptive-WF-Attack) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2025-09-11
   * [Training Robust Classifiers for Classifying Encrypted Traffic under Dynamic Network Conditions](https://dl.acm.org/doi/10.1145/3719027.3765073). Yuqi Qing. `CCS 2025`. [\[code\]](https://github.com/XXnormal/MAML-Training-ETC) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2025-04-13
   * [Robust LLM-Based Website Fingerprinting under Dynamic Real-World Conditions](https://dl.acm.org/doi/pdf/10.1145/3774904.3792288). Xiyuan Zhao. `WWW 2026`.
   * [Training with Only 1.0 ‰ Samples: Malicious Traffic Detection via Cross-Modality Feature Fusion](https://dl.acm.org/doi/abs/10.1145/3719027.3765143). Chuanpu Fu. `CCS 2025`.
@@ -667,14 +667,14 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 
 # Tool Libraries and Frameworks
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,131 | 🐛 57 | 🌐 C++ | 📅 2026-08-26
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,132 | 🐛 56 | 🌐 C++ | 📅 2026-08-27
 * [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,507 | 🐛 10 | 🌐 C | 📅 2026-08-12
 * [Joy](https://github.com/cisco/joy) ⚠️ Archived
-* [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 708 | 🐛 12 | 🌐 Java | 📅 2023-12-04
-* [mercury](https://github.com/cisco/mercury) ⭐ 518 | 🐛 17 | 🌐 C++ | 📅 2026-07-13
+* [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 710 | 🐛 12 | 🌐 Java | 📅 2023-12-04
+* [mercury](https://github.com/cisco/mercury) ⭐ 518 | 🐛 17 | 🌐 C++ | 📅 2026-08-26
 * [flowcontainer](https://github.com/jmhIcoding/flowcontainer) ⭐ 233 | 🐛 9 | 🌐 Python | 📅 2023-07-31
 * [traffic\_classification\_utils](https://github.com/jmhIcoding/traffic_classification_utils) ⭐ 213 | 🐛 4 | 🌐 Python | 📅 2025-05-17
-* [Website-Fingerprinting-Library (WFlib)](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) ⭐ 180 | 🐛 2 | 🌐 Python | 📅 2026-07-06
+* [Website-Fingerprinting-Library (WFlib)](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) ⭐ 181 | 🐛 2 | 🌐 Python | 📅 2026-07-06
 * [Encrypted-Traffic-Classification-Models](https://github.com/JieJayCao/Encrypted-Traffic-Classification-Models) ⭐ 100 | 🐛 1 | 🌐 Python | 📅 2024-12-14
 * [NTC-Enigma](https://github.com/nime-sha256/ntc-enigma) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2025-05-15
 * [LLMShark](https://github.com/ajcasagrande/llmshark) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2025-06-12
@@ -734,4 +734,4 @@ Thanks goes to these wonderful people!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
