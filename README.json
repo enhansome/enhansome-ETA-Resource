@@ -1370,6 +1370,21 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "A Hard-Label Black-Box Evasion Attack against ML-based Malicious Traffic Detection Systems",
+                  "description": ". Zixuan Liu. . [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 971924055,
+                    "language": "Python",
+                    "last_commit": "2026-08-18T20:22:18Z",
+                    "owner": "09nat",
+                    "repo": "NetMasquerade",
+                    "stars": 18
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "CertTA: Certified Robustness Made Practical for Learning-Based Traffic Analysis",
                   "description": ". Jinzhu Yan. . [code] [Zenodo]",
                   "children": [],
@@ -1381,21 +1396,6 @@
                     "owner": "InspiringGroup-NeoLab",
                     "repo": "CertTA",
                     "stars": 18
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "A Hard-Label Black-Box Evasion Attack against ML-based Malicious Traffic Detection Systems",
-                  "description": ". Zixuan Liu. . [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 971924055,
-                    "language": "Python",
-                    "last_commit": "2026-08-18T20:22:18Z",
-                    "owner": "09nat",
-                    "repo": "NetMasquerade",
-                    "stars": 17
                   }
                 },
                 {
@@ -1820,7 +1820,7 @@
             "archived": false,
             "id": 24911519,
             "language": "C++",
-            "last_commit": "2026-08-27T07:30:45Z",
+            "last_commit": "2026-08-27T17:13:40Z",
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3132
@@ -1996,7 +1996,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:39:28.244Z",
+    "last_updated": "2026-08-27T17:42:13.605Z",
     "original_repository_info": {
       "archived": false,
       "id": 444001545,
