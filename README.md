@@ -190,11 +190,11 @@ Fingerprinting (SWF))(2023)
 ### Applied Pre-training/LLMs
 
 * [ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification](https://dl.acm.org/doi/abs/10.1145/3485447.3512217). Xinjie Lin. `WWW 2022`. [\[code\]](https://github.com/linwhitehat/et-bert) ⭐ 673 | 🐛 1 | 🌐 Python | 📅 2026-07-23 [\[Reproduce\]](https://gitee.com/xxdxxdxxd/et-bert/blob/master/README.md)
-* [NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba](https://arxiv.org/abs/2405.11449). Tongze Wang. `ICNP 2024`. [\[code\]](https://github.com/wangtz19/NetMamba) ⭐ 180 | 🐛 0 | 🌐 Python | 📅 2026-04-05
+* [NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba](https://arxiv.org/abs/2405.11449). Tongze Wang. `ICNP 2024`. [\[code\]](https://github.com/wangtz19/NetMamba) ⭐ 181 | 🐛 0 | 🌐 Python | 📅 2026-04-05
 * [Yet Another Traffic Classifier: A Masked Autoencoder Based Traffic Transformer with Multi-Level Flow Representation](https://ojs.aaai.org/index.php/AAAI/article/view/25674). Ruijie Zhao. `AAAI 2023`. [\[code\]](https://github.com/NSSL-SJTU/YaTC) ⭐ 156 | 🐛 2 | 🌐 Python | 📅 2024-04-29
-* [TrafficFormer: An Efficient Pre-trained Model for Traffic Data](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a102/22K50xTq93y). Guangmeng Zhou. `S&P 2025`. [\[code\]](https://github.com/IDP-code/TrafficFormer) ⭐ 109 | 🐛 9 | 🌐 Python | 📅 2025-01-18
+* [TrafficFormer: An Efficient Pre-trained Model for Traffic Data](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a102/22K50xTq93y). Guangmeng Zhou. `S&P 2025`. [\[code\]](https://github.com/IDP-code/TrafficFormer) ⭐ 110 | 🐛 9 | 🌐 Python | 📅 2025-01-18
 * [BTRFormer: Hierarchical Learning of Encrypted Traffic Using a Masked Autoencoder with Block-Based Traffic Representation](https://ieeexplore.ieee.org/abstract/document/11192383). Junnan Yin. `ICNP 2025`. [\[code\]](https://github.com/yyyjn/BTRFormer) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2025-10-21
-* [Odysseus: A Context-Level Pre-training Framework for Out-of-Distribution Encrypted Traffic Classification](TBD). Wenqi Dong. `IWQoS 2026`.
+* [Odysseus: A Context-Level Pre-training Framework for Out-of-Distribution Encrypted Traffic Classification](https://ieeexplore.ieee.org/document/11661019). Wenqi Dong. `IWQoS 2026`. [\[code\]](https://github.com/Frederick666666/Odyssey) ⭐ 0 | 🐛 0 | 📅 2025-01-10
 * [TraGe: A Generic Packet Representation for Traffic Classification Based on Header-Payload Differences](https://arxiv.org/abs/2506.14151). Chungang Lin. `IWQoS 2025`.
 * [MM4flow: A Pre-trained Multi-modal Model for Versatile Network Traffic Analysis](https://dl.acm.org/doi/10.1145/3719027.3744804). Luming Yang. `CCS 2025`.
 * [MIETT: Multi-Instance Encrypted Traffic Transformer for Encrypted Traffic Classification](https://arxiv.org/abs/2412.15306). Xuyang Chen and Lu Han. `AAAI 2025`.
@@ -203,14 +203,15 @@ Fingerprinting (SWF))(2023)
 
 ### Applied Machine Learning/Deep Learning
 
-* [TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Trafic Classification](https://dl.acm.org/doi/abs/10.1145/3543507.3583227). Haozhen Zhang. `WWW 2023`. [\[code\]](https://github.com/ViktorAxelsen/TFE-GNN) ⭐ 142 | 🐛 11 | 🌐 Python | 📅 2025-01-08
-* [FS-Net: A Flow Sequence Network For Encrypted Traffic Classification](https://ieeexplore.ieee.org/document/8737507). Chang Liu. `INFOCOM 2019`. [\[code\]](https://github.com/WSPTTH/FS-Net) ⭐ 128 | 🐛 14 | 🌐 Python | 📅 2020-07-09
+* [TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Trafic Classification](https://dl.acm.org/doi/abs/10.1145/3543507.3583227). Haozhen Zhang. `WWW 2023`. [\[code\]](https://github.com/ViktorAxelsen/TFE-GNN) ⭐ 143 | 🐛 11 | 🌐 Python | 📅 2025-01-08
+* [FS-Net: A Flow Sequence Network For Encrypted Traffic Classification](https://ieeexplore.ieee.org/document/8737507). Chang Liu. `INFOCOM 2019`. [\[code\]](https://github.com/WSPTTH/FS-Net) ⭐ 129 | 🐛 14 | 🌐 Python | 📅 2020-07-09
 * [Revolutionizing Encrypted Traffic Classification with MH-Net: A Multi-View Heterogeneous Graph Model](https://arxiv.org/abs/2501.03279). Haozhen Zhang. `AAAI 2025`. [\[code\]](https://github.com/ViktorAxelsen/MH-Net) ⭐ 78 | 🐛 9 | 🌐 Python | 📅 2025-12-07
 * [New Directions in Automated Traffic Analysis](https://dl.acm.org/doi/10.1145/3460120.3484758). Jordan Holland. `CCS 2021`. [\[code\]](https://github.com/nprint/nprintml) ⭐ 62 | 🐛 9 | 🌐 Python | 📅 2024-01-24 [\[nPrint Project\]](https://nprint.github.io/)
 * [An Input-Agnostic Hierarchical Deep Learning Framework for Traffic Fingerprinting](https://www.usenix.org/conference/usenixsecurity23/presentation/qu). Jian Qu. `USENIX Security 2023`. [\[code\]](https://github.com/shashadehuajiang/trace_classifier/tree/main) ⭐ 54 | 🐛 7 | 🌐 Python | 📅 2024-03-16
 * [Enabling Efficient Flow Classification for ML-based Network Security Applications](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_7C-2_24067_paper.pdf). Diogo Barradas. `NDSS 2021`. [\[code\]](https://github.com/dmbb/FlowLens) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2021-01-16
 * [Packet Representation Learning for Traffic Classification](https://dl.acm.org/doi/10.1145/3534678.3539085). Xuying Meng. `KDD 2022`. [\[code\]](https://github.com/ict-net/PacRep) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2024-12-19
 * [MaMPF: Encrypted Traffic Classification Based on Multi-Attribute Markov Probability Fingerprints](https://ieeexplore.ieee.org/abstract/document/8624124).  Chang Liu. `IWQoS 2018`. [\[code\]](https://github.com/WSPTTH/MaMPF) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2020-07-09
+* [Tracegram: Framing Trace-Level Traffic Analysis with Temporally-Aware Multiple Instance Learning](https://www.usenix.org/conference/usenixsecurity26/presentation/qu). Jian Qu. `USENIX Security 2026`. [\[code\]](https://zenodo.org/records/17978903)
 * [FlowMiner: A Powerful Model Based on Flow Correlation Mining for Encrypted Traffic Classification](https://ieeexplore.ieee.org/document/11044724). Hongbo Xu. `INFOCOM 2025`.
 
 ## Network Traffic Simulation
@@ -236,6 +237,7 @@ Fingerprinting (SWF))(2023)
 * [Flow-MAE: Leveraging Masked AutoEncoder for Accurate, Efficient and Robust Malicious Traffic Classification](https://dl.acm.org/doi/10.1145/3607199.3607206#core-collateral-purchase-access). Zijun Hang. `RAID 2023`. [\[code\]](https://github.com/NLear/Flow-MAE) ⭐ 35 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-10-14
 * [Mateen: Adaptive Ensemble Learning for Network Anomaly Detection](https://dl.acm.org/doi/10.1145/3678890.3678901). Fahad Alotaibi. `RAID 2024`. [\[code\]](https://github.com/ICL-ml4csec/Mateen/) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2025-02-27
 * [Interactive Anomaly Detection in Dynamic Communication Networks](https://ieeexplore.ieee.org/abstract/document/9494106). Xuying Meng. `ToN 2021`. [\[code\]](https://github.com/ict-net/HADDN) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2023-07-25
+* [NetRadar: Enabling Robust Carpet Bombing DDoS Detection](https://www.ndss-symposium.org/ndss-paper/netradar-enabling-robust-carpet-bombing-ddos-detection/). Junchen Pan. `NDSS 2026`. [\[code\]](https://zenodo.org/records/17918706)
 * [Robust Detection of Malicious Encrypted Traffic via Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10964328). Meng Shen. `TIFS 2025`.
 * [Early Network Intrusion Detection Enabled by Attention Mechanisms and RNNs](https://doi.org/10.1109/TIFS.2024.3441862). Taki Eddine Toufik Djaidja. `TIFS 2024`.
 * [TMG-GAN: Generative Adversarial Networks-Based Imbalanced Learning for Network Intrusion Detection](https://dl.acm.org/doi/10.1109/TIFS.2023.3331240). Hongwei Ding. `TIFS 2024`.
@@ -254,7 +256,8 @@ Fingerprinting (SWF))(2023)
 
 ### IoT and Scenario-Specific Detection
 
-* IoT Malicious Traffic Detection
+* IoT Traffic Detection
+  * [WiFinger: Fingerprinting Noisy IoT Event Traffic Using Packet-level Sequence Matching](https://www.ndss-symposium.org/ndss-paper/wifinger-fingerprinting-noisy-iot-event-traffic-using-packet-level-sequence-matching/). Ronghua Li. `NDSS 2026`. [\[Dataset\]](https://huggingface.co/datasets/Gonewinddd/WiFinger)
   * [HorusEye: A Realtime IoT Malicious Traffic Detection Framework using Programmable Switches](https://www.usenix.org/conference/usenixsecurity23/presentation/dong-yutao). Yutao Dong. `USENIX Security 2023`.
 * Vehicle Network (IoV) Malicious Traffic Detection
   * [Cyber Security Framework for Vehicular Network Based on a Hierarchical Game](https://ieeexplore.ieee.org/document/8598790). Hichem Sedjelmaci. `IEEE Transactions on Emerging Topics in Computing 2021`.
@@ -304,6 +307,10 @@ Fingerprinting (SWF))(2023)
   * [Transformer-based Model for Multi-tab Website Fingerprinting Attack](https://dl.acm.org/doi/abs/10.1145/3576915.3623107). Zhaoxin Jin. `CCS 2023`. [\[code\]](https://github.com/jzx-bupt/TMWF) ⭐ 29 | 🐛 4 | 🌐 Python | 📅 2023-11-22
   * [Swallow: A Transfer-Robust Website Fingerprinting Attack via Consistent Feature Learning](https://dl.acm.org/doi/10.1145/3719027.3744795). Meng Shen. `CCS 2025`. [\[code\]](https://github.com/wujinhe0814/Swallow) ⭐ 27 | 🐛 1 | 🌐 Python | 📅 2026-03-22
   * [Beyond Single Tabs: A Transformative Few-Shot Approach to Multi-Tab Website Fingerprinting Attacks](https://dl.acm.org/doi/10.1145/3696410.3714811). Wenwen Meng. `WWW 2025`. [\[code\]](https://github.com/WW-Meng/FMWF) ⭐ 9 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-01-17
+  * [CELLSHIFT: RTT-Aware Trace Transduction for Real-World Website Fingerprinting](https://www.ndss-symposium.org/ndss-paper/cellshift-rtt-aware-trace-transduction-for-real-world-website-fingerprinting/). Rob Jansen. `NDSS 2026`. [\[code\]](https://github.com/robgjansen/cellshift) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2025-08-26 [\[Snapshot\]](https://zenodo.org/records/15863906)
+  * [Towards Practical Few-shot Multi-tab Website Fingerprinting](https://www.usenix.org/conference/usenixsecurity26/presentation/liu-lin). Lin Liu. `USENIX Security 2026`. [\[code\]](https://github.com/nl77-seraph/MMF) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-05-27
+  * [Brewing Under Pressure: More Realistic Tor Flow Correlation Considering Low FPRs](TBD). Haeseung Jeon. `CCS 2026`.
+  * [Descriptors of Exposure: Undermining Tor Anonymity Through Exploiting Descriptor Flood](https://doi.org/10.1109/SP63933.2026.00071). Chunmian Wang. `S&P 2026`.
   * [Enhancing Search Privacy on Tor: Advanced Deep Keyword Fingerprinting Attacks and BurstGuard Defense](https://dl.acm.org/doi/abs/10.1145/3708821.3733914). Chaiwon Hwang. `ASIA CCS 2025`.
   * [Stop, Don’t Click Here Anymore: Boosting Website Fingerprinting By Considering Sets of Subpages](https://www.usenix.org/conference/usenixsecurity24/presentation/mitseva). Mitseva and Panchenko. `Usenix Security 2024`.
   * [Towards Fine-Grained Webpage Fingerprinting at Scale](https://dl.acm.org/doi/abs/10.1145/3658644.3690211). Xiyuan Zhao and Xinhao Deng. `CCS 2024`. [\[code\]](https://zenodo.org/records/13383332)
@@ -342,7 +349,7 @@ Fingerprinting (SWF))(2023)
 * LLMs Privacy Analysis
   * [Whisper Leak: A novel side-channel attack on remote language models](https://arxiv.org/abs/2511.03675). Microsoft Defender Security Research Team. `Microsoft Security 2025`. [\[code\]](https://github.com/yo-yo-yo-jbo/whisper_leak) ⭐ 80 | 🐛 0 | 🌐 Python | 📅 2025-11-07 [\[Report\]](https://www.microsoft.com/en-us/security/blog/2025/11/07/whisper-leak-a-novel-side-channel-cyberattack-on-remote-language-models/)
   * [What Was Your Prompt? A Remote Keylogging Attack on AI Assistants](https://www.usenix.org/conference/usenixsecurity24/presentation/weiss). Roy Weiss. `USENIX Security 2024`. [\[code\]](https://github.com/royweiss1/GPT_Keylogger) ⭐ 67 | 🐛 0 | 🌐 Python | 📅 2025-02-05
-  * [Network-Level Prompt and Trait Leakage in Local Research Agents](https://arxiv.org/abs/2508.20282). Hyejun Jeong. `USENIX Security 2026`. [\[code\]](https://github.com/umass-aisec/wra) ⭐ 6 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-12-18
+  * [Network-Level Prompt and Trait Leakage in Local Research Agents](https://www.usenix.org/conference/usenixsecurity26/presentation/jeong). Hyejun Jeong. `USENIX Security 2026`. [\[code\]](https://github.com/umass-aisec/wra) ⭐ 6 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-12-18
   * [From Length to Content: Token-Length Side-Channel Attacks on Merged LLM API Outputs](https://www.usenix.org/conference/usenixsecurity26/presentation/li-sijia). Sijia Li. `USENIX Security 2026`. [\[code\]](https://github.com/CigarOVO/PromptEcho)
 * Side-Channel Vulnerability
   * [SCAD: Towards a Universal and Automated Network Side-Channel Vulnerability Detection](https://ieeexplore.ieee.org/abstract/document/11023468/keywords#keywords). Keyu Man. `S&P 2025`.
@@ -383,7 +390,7 @@ Fingerprinting (SWF))(2023)
   * [Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation](https://www.usenix.org/conference/usenixsecurity23/presentation/xie). Renjie Xie. `USENIX Security 2023`. [\[code\]](https://github.com/sunskyXX/Rosetta) ⭐ 60 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-09-06
   * [Robustifying ML-powered Network Classifiers with PANTS](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-9-jin-minhao.pdf). Minhao Jin. `USENIX Security 2025`. [\[code\]](https://github.com/jinminhao/PANTS) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-08-16 [\[Blog\]](https://blog.ai.princeton.edu/2025/03/28/robustifying-ml-powered-network-classifiers-with-pants/)
   * [AdvTG: An Adversarial Traffic Generation Framework to Deceive DL-Based Malicious Traffic Detection Models](https://openreview.net/forum?id=sYZvdIh9ro#discussion). Peishuai Sun. `WWW 2025`. [\[code\]](https://github.com/TrafficDetection-art/AdvTG) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-08-03
-  * [A Hard-Label Black-Box Evasion Attack against ML-based Malicious Traffic Detection Systems](https://arxiv.org/abs/2510.14906). Zixuan Liu. `NDSS 2026`. [\[code\]](https://github.com/09nat/NetMasquerade) ⭐ 18 | 🐛 3 | 🌐 Python | 📅 2026-08-18
+  * [A Hard-Label Black-Box Evasion Attack against ML-based Malicious Traffic Detection Systems](https://www.ndss-symposium.org/ndss-paper/a-hard-label-black-box-evasion-attack-against-ml-based-malicious-traffic-detection-systems/). Zixuan Liu. `NDSS 2026`. [\[code\]](https://github.com/09nat/NetMasquerade) ⭐ 18 | 🐛 3 | 🌐 Python | 📅 2026-08-18
   * [CertTA: Certified Robustness Made Practical for Learning-Based Traffic Analysis](https://www.usenix.org/conference/usenixsecurity25/presentation/yan-jinzhu). Jinzhu Yan. `USENIX Security 2025`. [\[code\]](https://github.com/InspiringGroup-Lab/CertTA) ⭐ 18 | 🐛 2 | 🌐 Python | 📅 2025-06-20 [\[Zenodo\]](https://doi.org/10.5281/zenodo.15580292)
   * [Robustness Matters: Pre-Training Can Enhance the Performance of Encrypted Traffic Analysis](https://ieeexplore.ieee.org/abstract/document/11177602). Luming Yang. `TIFS 2025`.[\[code\]](https://github.com/Shangshu-LAB/BERT-ps) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-11-29
   * [PacketPatch: Practical generation and deployment of adversarial packets for byte-feature-based encrypted traffic classification](https://www.sciencedirect.com/science/article/abs/pii/S016740482600163X). Yuwei Xu. `ComSec 2026`.
@@ -667,10 +674,10 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 
 # Tool Libraries and Frameworks
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,132 | 🐛 59 | 🌐 C++ | 📅 2026-08-27
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,133 | 🐛 60 | 🌐 C++ | 📅 2026-08-27
 * [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,507 | 🐛 10 | 🌐 C | 📅 2026-08-12
 * [Joy](https://github.com/cisco/joy) ⚠️ Archived
-* [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 710 | 🐛 12 | 🌐 Java | 📅 2023-12-04
+* [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 712 | 🐛 12 | 🌐 Java | 📅 2023-12-04
 * [mercury](https://github.com/cisco/mercury) ⭐ 518 | 🐛 17 | 🌐 C++ | 📅 2026-08-26
 * [flowcontainer](https://github.com/jmhIcoding/flowcontainer) ⭐ 233 | 🐛 9 | 🌐 Python | 📅 2023-07-31
 * [traffic\_classification\_utils](https://github.com/jmhIcoding/traffic_classification_utils) ⭐ 213 | 🐛 4 | 🌐 Python | 📅 2025-05-17
@@ -734,4 +741,4 @@ Thanks goes to these wonderful people!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
