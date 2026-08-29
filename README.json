@@ -2807,7 +2807,7 @@
             "language": "C++",
             "license": "Unlicense",
             "last_commit": "2026-08-27T17:13:40Z",
-            "open_issues": 60,
+            "open_issues": 62,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3133,
@@ -3096,7 +3096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:45:06.265Z",
+    "last_updated": "2026-08-29T12:45:13.037Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
