@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CESNET DataZoo: A toolset for large network traffic datasets",
+            "homepage": "https://cesnet.github.io/cesnet-datazoo/",
             "id": 684741905,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-03-23T15:35:22Z",
+            "open_issues": 0,
             "owner": "CESNET",
             "repo": "cesnet-datazoo",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "computer-networks",
+              "datasets",
+              "deep-learning",
+              "encrypted-traffic",
+              "machine-learning",
+              "traffic-classification"
+            ]
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         },
@@ -26,12 +38,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 810933754,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-06T21:17:15Z",
+            "open_issues": 4,
             "owner": "robshahla",
             "repo": "VisQUIC",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         },
@@ -42,12 +59,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NETD (Dynamic Non-I.I.D. Encrypted Traffic Dataset), a dataset designed to support research on Out-of-Distribution generalization for encrypted traffic classification. NETD is constructed by introducing controlled distributional shifts into existing public datasets, allowing researchers to evaluate model robustness under varying conditions.",
+            "homepage": null,
             "id": 1059839286,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-11T10:02:04Z",
+            "open_issues": 1,
             "owner": "linwhitehat",
             "repo": "NETD",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "dataset-generation",
+              "encrypted-traffic-analysis",
+              "out-of-distribution"
+            ]
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         },
@@ -58,12 +84,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An anonymized mobile traffic dataset published by Chen's team (National University of Defense Technology)",
+            "homepage": null,
             "id": 444059649,
             "language": null,
+            "license": null,
             "last_commit": "2024-01-15T03:43:06Z",
+            "open_issues": 2,
             "owner": "Abby-ZS",
             "repo": "NUDT_MobileTraffic",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         },
@@ -74,12 +105,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "It is a network traffic classifier based on deep learning.",
+            "homepage": null,
             "id": 603309089,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-16T10:11:25Z",
+            "open_issues": 7,
             "owner": "shashadehuajiang",
             "repo": "trace_classifier",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         },
@@ -90,12 +126,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 788479270,
             "language": null,
+            "license": null,
             "last_commit": "2024-04-18T14:05:01Z",
+            "open_issues": 0,
             "owner": "MrRobotsAA",
             "repo": "AnonProxy2023-Dataset",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         },
@@ -106,12 +147,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The repository of ET-BERT, a network traffic classification model on encrypted traffic. The work has been accepted as The Web Conference (WWW) 2022 accepted paper.",
+            "homepage": null,
             "id": 457199894,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-23T09:04:52Z",
+            "open_issues": 1,
             "owner": "linwhitehat",
             "repo": "ET-BERT",
-            "stars": 673
+            "stars": 673,
+            "topics": [
+              "burst-analysis",
+              "encrypted-traffic-analysis",
+              "mask-burst-modeling",
+              "pre-training",
+              "pytorch",
+              "same-origin-burst-prediction",
+              "transformer-architecture"
+            ]
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         },
@@ -122,12 +176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The download link of LFETT2021.",
+            "homepage": null,
             "id": 633458552,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-08T03:13:57Z",
+            "open_issues": 0,
             "owner": "HoneyPotter-Gzy",
             "repo": "LFETT2021-dataset",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         },
@@ -138,12 +197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dataset from 'Effective Attacks and Provable Defenses for Website Fingerprinting'",
+            "homepage": null,
             "id": 139822386,
             "language": null,
+            "license": null,
             "last_commit": "2018-07-05T09:21:59Z",
+            "open_issues": 0,
             "owner": "kdsec",
             "repo": "wangknn-dataset",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         },
@@ -154,12 +218,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for our NDSS'18 paper \"Automated Website Fingerprinting through Deep Learning\"",
+            "homepage": null,
             "id": 121912028,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-10-09T14:12:45Z",
+            "open_issues": 2,
             "owner": "DistriNet",
             "repo": "DLWF",
-            "stars": 115
+            "stars": 115,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         }
@@ -178,12 +247,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the source code for a network traffic occlusion framework presented at the 2025 IEEE Symposium on Security and Privacy (SP 2025).",
+                "homepage": null,
                 "id": 983826946,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-15T05:12:34Z",
+                "open_issues": 0,
                 "owner": "nime-sha256",
                 "repo": "ntc-enigma",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
             }
@@ -201,12 +275,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official repository of the paper \"The Digital Cybersecurity Expert: How Far Have We Come?\" presented in IEEE S&P 2025",
+                "homepage": null,
                 "id": 951090934,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-21T06:18:41Z",
+                "open_issues": 0,
                 "owner": "NASP-THU",
                 "repo": "CSEBenchmark",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
             },
@@ -217,12 +296,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SECURE: Benchmarking Generative Large Language Models as a Cyber Advisory",
+                "homepage": null,
                 "id": 848543239,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-28T14:01:30Z",
+                "open_issues": 1,
                 "owner": "aiforsec",
                 "repo": "SECURE",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
             },
@@ -233,12 +317,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"Demystifying Network Foundation Models\" (NeurIPS 2025)",
+                "homepage": null,
                 "id": 983888665,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-03-20T04:27:41Z",
+                "open_issues": 0,
                 "owner": "maybe-hello-world",
                 "repo": "demystifying-networks",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
             },
@@ -249,12 +338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cti-bench",
+                "homepage": null,
                 "id": 848544535,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-17T00:57:15Z",
+                "open_issues": 0,
                 "owner": "aiforsec",
                 "repo": "cti-bench",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
             }
@@ -280,12 +374,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The repository of ET-BERT, a network traffic classification model on encrypted traffic. The work has been accepted as The Web Conference (WWW) 2022 accepted paper.",
+                    "homepage": null,
                     "id": 457199894,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-23T09:04:52Z",
+                    "open_issues": 1,
                     "owner": "linwhitehat",
                     "repo": "ET-BERT",
-                    "stars": 673
+                    "stars": 673,
+                    "topics": [
+                      "burst-analysis",
+                      "encrypted-traffic-analysis",
+                      "mask-burst-modeling",
+                      "pre-training",
+                      "pytorch",
+                      "same-origin-burst-prediction",
+                      "transformer-architecture"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -296,12 +403,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Efficient Network Traffic Classification via Pre-training Unidirectional Mamba",
+                    "homepage": null,
                     "id": 801863483,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-04-05T09:15:50Z",
+                    "open_issues": 0,
                     "owner": "wangtz19",
                     "repo": "NetMamba",
-                    "stars": 181
+                    "stars": 181,
+                    "topics": [
+                      "mae",
+                      "mamba",
+                      "networking",
+                      "pre-training",
+                      "traffic-classification"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -312,12 +430,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the AAAI'23 paper \"Yet Another Traffic Classifier: A Masked Autoencoder Based Traffic Transformer with Multi-Level Flow Representation\"",
+                    "homepage": null,
                     "id": 633961483,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-04-29T17:05:07Z",
+                    "open_issues": 2,
                     "owner": "NSSL-SJTU",
                     "repo": "YaTC",
-                    "stars": 156
+                    "stars": 156,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -328,12 +451,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 810084857,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-01-18T02:09:54Z",
+                    "open_issues": 9,
                     "owner": "IDP-code",
                     "repo": "TrafficFormer",
-                    "stars": 110
+                    "stars": 110,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -344,12 +472,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1017256952,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-10-21T07:49:07Z",
+                    "open_issues": 1,
                     "owner": "yyyjn",
                     "repo": "BTRFormer",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -360,12 +493,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 914821960,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-01-10T11:28:18Z",
+                    "open_issues": 0,
                     "owner": "Frederick666666",
                     "repo": "Odyssey",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 }
@@ -383,12 +521,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[WWW'23] TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Traffic Classification",
+                    "homepage": null,
                     "id": 536943681,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-01-08T03:21:36Z",
+                    "open_issues": 11,
                     "owner": "ViktorAxelsen",
                     "repo": "TFE-GNN",
-                    "stars": 143
+                    "stars": 143,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -399,12 +542,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for “FS-Net: A Flow Sequence Network For Encrypted Traffic Classification”",
+                    "homepage": null,
                     "id": 278244238,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-07-09T02:38:50Z",
+                    "open_issues": 14,
                     "owner": "WSPTTH",
                     "repo": "FS-Net",
-                    "stars": 129
+                    "stars": 129,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -415,12 +563,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[AAAI'25] Revolutionizing Encrypted Traffic Classification with MH-Net: A Multi-View Heterogeneous Graph Model",
+                    "homepage": null,
                     "id": 902841571,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-12-07T06:48:48Z",
+                    "open_issues": 9,
                     "owner": "ViktorAxelsen",
                     "repo": "MH-Net",
-                    "stars": 78
+                    "stars": 78,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -431,12 +584,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "nPrintML creates and runs full ML-based traffic analysis pipelines using nPrint and AutoML.",
+                    "homepage": "https://nprint.github.io/nprintml",
                     "id": 306155133,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-01-24T13:40:59Z",
+                    "open_issues": 9,
                     "owner": "nprint",
                     "repo": "nprintml",
-                    "stars": 62
+                    "stars": 62,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -447,12 +605,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "It is a network traffic classifier based on deep learning.",
+                    "homepage": null,
                     "id": 603309089,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-03-16T10:11:25Z",
+                    "open_issues": 7,
                     "owner": "shashadehuajiang",
                     "repo": "trace_classifier",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -463,12 +626,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the paper \"FlowLens: Enabling Efficient Flow Classification for ML-based Network Security Applications\" [NDSS '21]",
+                    "homepage": null,
                     "id": 309410514,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-01-16T19:12:04Z",
+                    "open_issues": 0,
                     "owner": "dmbb",
                     "repo": "FlowLens",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -479,12 +647,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Packet Representation Learning for Traffic Classification",
+                    "homepage": null,
                     "id": 550039622,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-12-19T07:23:21Z",
+                    "open_issues": 1,
                     "owner": "ict-net",
                     "repo": "PacRep",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -495,12 +668,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for “MaMPF: Encrypted Traffic Classification Based on Multi-Attribute Markov Probability Fingerprints”",
+                    "homepage": null,
                     "id": 278244975,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-07-09T02:44:39Z",
+                    "open_issues": 1,
                     "owner": "WSPTTH",
                     "repo": "MaMPF",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 }
@@ -525,12 +703,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NetLLM: Adapting Large Language Models for Networking (SIGCOMM 2024) - Official Repository",
+                    "homepage": null,
                     "id": 729413239,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-12-07T15:42:59Z",
+                    "open_issues": 13,
                     "owner": "duowuyms",
                     "repo": "NetLLM",
-                    "stars": 205
+                    "stars": 205,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -541,12 +724,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "High-Fidelity Synthetic Network Traffic Generation",
+                    "homepage": null,
                     "id": 764291142,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-09-20T22:52:55Z",
+                    "open_issues": 3,
                     "owner": "noise-lab",
                     "repo": "NetDiffusion",
-                    "stars": 85
+                    "stars": 86,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -557,12 +745,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📏 Logic rule learning for computer networking",
+                    "homepage": "https://hhy.ee.princeton.edu/papers/2026_nsdi_netnomos.pdf",
                     "id": 1117183207,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-05-09T18:34:40Z",
+                    "open_issues": 0,
                     "owner": "HongyuHe",
                     "repo": "NetNomos",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": [
+                      "computer-networks",
+                      "formal-logic",
+                      "inductive-learning",
+                      "inductive-logic-programming",
+                      "network-analysis"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -573,12 +772,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 751246353,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-02-08T16:28:13Z",
+                    "open_issues": 2,
                     "owner": "wxzisk",
                     "repo": "ZoomSynth_NSDI2025",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 }
@@ -596,12 +800,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "(SIGCOMM '22) Practical GAN-based Synthetic IP Header Trace Generation using NetShare",
+                    "homepage": null,
                     "id": 503782808,
                     "language": "Python",
+                    "license": "BSD-3-Clause-Clear",
                     "last_commit": "2023-10-08T03:14:20Z",
+                    "open_issues": 1,
                     "owner": "netsharecmu",
                     "repo": "NetShare",
-                    "stars": 100
+                    "stars": 100,
+                    "topics": [
+                      "differential-privacy",
+                      "differential-privacy-deep-learning",
+                      "gan",
+                      "gans",
+                      "gans-models",
+                      "generative-adversarial-network",
+                      "machine-learning",
+                      "netflow",
+                      "netflow-data",
+                      "netflow-v9",
+                      "pcap",
+                      "pcap-generator",
+                      "privacy",
+                      "privacy-preserving",
+                      "synthetic-data",
+                      "synthetic-data-generation",
+                      "synthetic-data-generator",
+                      "synthetic-dataset-generation",
+                      "tensorflow",
+                      "time-series"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 }
@@ -626,12 +856,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the paper: \"AOC-IDS: Autonomous Online Framework with Contrastive Learning for Intrusion Detection\" (Infocom 2024)",
+                    "homepage": null,
                     "id": 743147667,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-12-06T12:47:18Z",
+                    "open_issues": 2,
                     "owner": "xinchen930",
                     "repo": "AOC-IDS",
-                    "stars": 45
+                    "stars": 45,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -642,12 +877,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 760487157,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-06-10T17:27:05Z",
+                    "open_issues": 2,
                     "owner": "Secbrain",
                     "repo": "Trident",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -658,12 +898,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 704831628,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2023-10-14T08:18:48Z",
+                    "open_issues": 3,
                     "owner": "NLear",
                     "repo": "Flow-MAE",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -674,14 +919,40 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for Mateen: Adaptive Ensemble Learning for Network Anomaly Detection",
+                    "homepage": null,
                     "id": 839320137,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-02-27T01:48:17Z",
+                    "open_issues": 1,
                     "owner": "ICL-ml4csec",
                     "repo": "Mateen",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Achieving Interpretable DL-based Web Attack Detection through Malicious Payload Localization",
+                  "description": ". Peiyang Li. . [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1017725346,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2025-08-28T07:22:55Z",
+                    "open_issues": 0,
+                    "owner": "Sec-AI-research",
+                    "repo": "WebSpotter",
+                    "stars": 4,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T04:45:06.265Z"
                 },
                 {
                   "node_type": "item",
@@ -690,12 +961,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Interactive Anomaly Detection in Dynamic Communication Networks",
+                    "homepage": null,
                     "id": 670534482,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-07-25T09:55:09Z",
+                    "open_issues": 0,
                     "owner": "ict-net",
                     "repo": "HADDN",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 }
@@ -713,12 +989,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Flow Interaction Graph based attack traffic detection system.",
+                    "homepage": null,
                     "id": 552643588,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-05-06T02:27:58Z",
+                    "open_issues": 2,
                     "owner": "fuchuanpu",
                     "repo": "HyperVision",
-                    "stars": 201
+                    "stars": 201,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -729,12 +1010,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A tunneled flooding traffic detection system.",
+                    "homepage": null,
                     "id": 811674351,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-12-03T22:45:05Z",
+                    "open_issues": 1,
                     "owner": "fuchuanpu",
                     "repo": "Exosphere",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -745,12 +1031,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Reduce false-positive alarms via voxel based point cloud analysis.",
+                    "homepage": null,
                     "id": 683995171,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-05-06T00:48:17Z",
+                    "open_issues": 0,
                     "owner": "fuchuanpu",
                     "repo": "pVoxel",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": [
+                      "security",
+                      "traffic-analysis"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -761,12 +1055,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 717957654,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-11-20T05:02:37Z",
+                    "open_issues": 1,
                     "owner": "CN-PETNet",
                     "repo": "PETNet",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 }
@@ -791,12 +1090,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The code and dataset for the paper STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting accepted in IEEE INFOCOM 2026.",
+                    "homepage": null,
                     "id": 1028475376,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-30T08:05:56Z",
+                    "open_issues": 0,
                     "owner": "2654400439",
                     "repo": "STAR-Website-Fingerprinting",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -807,12 +1111,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The code and dataset for the paper HOLMES & WATSON: A Robust and Lightweight HTTPS Website Fingerprinting through HTTP Version Parallelism accepted in The ACM Web Conference (WWW) 2025.",
+                    "homepage": null,
                     "id": 755006861,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-05-30T10:57:10Z",
+                    "open_issues": 0,
                     "owner": "2654400439",
                     "repo": "H123-Website-Fingerprinting",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 }
@@ -835,12 +1144,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 239691688,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2020-02-15T09:32:46Z",
+                        "open_issues": 1,
                         "owner": "sevensmith",
                         "repo": "context-aware-wfp",
-                        "stars": 12
+                        "stars": 12,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -851,12 +1165,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "about paper code",
+                        "homepage": null,
                         "id": 672260256,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2023-07-29T14:08:03Z",
+                        "open_issues": 1,
                         "owner": "chenxiailian",
                         "repo": "robustweb",
-                        "stars": 7
+                        "stars": 7,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     }
@@ -874,12 +1193,32 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "The source code and dataset are used to demonstrate the DF model, and reproduce the results of the ACM CCS2018 paper",
+                        "homepage": "https://github.com/deep-fingerprinting/df",
                         "id": 144924860,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2023-03-25T00:07:38Z",
+                        "open_issues": 13,
                         "owner": "deep-fingerprinting",
                         "repo": "df",
-                        "stars": 205
+                        "stars": 205,
+                        "topics": [
+                          "automated-feature-engineering",
+                          "cnn-classification",
+                          "cnn-keras",
+                          "cnn-model",
+                          "deep-learning",
+                          "deep-neural-networks",
+                          "deeplearning",
+                          "privacy-enhancing-technologies",
+                          "tor",
+                          "tor-network",
+                          "traffic-analysis",
+                          "walkie-talkie",
+                          "website-fingerprinting",
+                          "wtf-pad"
+                        ]
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -890,12 +1229,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A Library for Advanced DL-based Website Fingerprinting Attacks.",
+                        "homepage": null,
                         "id": 806452826,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-07-06T15:06:19Z",
+                        "open_issues": 2,
                         "owner": "FIND-Lab",
                         "repo": "Website-Fingerprinting-Library",
-                        "stars": 181
+                        "stars": 181,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -906,12 +1250,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Source code for our NDSS'18 paper \"Automated Website Fingerprinting through Deep Learning\"",
+                        "homepage": null,
                         "id": 121912028,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2023-10-09T14:12:45Z",
+                        "open_issues": 2,
                         "owner": "DistriNet",
                         "repo": "DLWF",
-                        "stars": 115
+                        "stars": 115,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -922,12 +1271,27 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "This repository contains code and data for \"Tik-Tok: The Utility of Packet Timing in Website Fingerprinting Attacks\" paper, published in PETS 2020.",
+                        "homepage": null,
                         "id": 239392875,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-06-16T15:31:56Z",
+                        "open_issues": 1,
                         "owner": "msrocean",
                         "repo": "Tik_Tok",
-                        "stars": 60
+                        "stars": 60,
+                        "topics": [
+                          "attacks",
+                          "deep-learning",
+                          "machine-learning",
+                          "privacy",
+                          "privacy-enhancing-technologies",
+                          "tik-tok",
+                          "timing-analysis",
+                          "tor-network",
+                          "website-fingerprinting"
+                        ]
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -938,12 +1302,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "The source code and dataset are used to demonstrate the TF model, and reproduce the results of the ACM CCS2019 paper",
+                        "homepage": null,
                         "id": 201587821,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2021-12-31T01:54:05Z",
+                        "open_issues": 5,
                         "owner": "triplet-fingerprinting",
                         "repo": "tf",
-                        "stars": 57
+                        "stars": 57,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -954,12 +1323,20 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "The multi-tab website fingerprinting attack library contains real-world multi-tab Tor traffic and code for multi-tab website fingerprinting attacks.",
+                        "homepage": null,
                         "id": 446852998,
                         "language": null,
+                        "license": null,
                         "last_commit": "2025-01-26T02:29:32Z",
+                        "open_issues": 1,
                         "owner": "Xinhao-Deng",
                         "repo": "Multitab-WF-Datasets",
-                        "stars": 32
+                        "stars": 32,
+                        "topics": [
+                          "security-and-privacy",
+                          "website-fingerprinting"
+                        ]
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -970,12 +1347,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 689047483,
                         "language": "Jupyter Notebook",
+                        "license": "MIT",
                         "last_commit": "2023-09-20T13:52:34Z",
+                        "open_issues": 0,
                         "owner": "SPIN-UMass",
                         "repo": "Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces",
-                        "stars": 32
+                        "stars": 32,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -986,12 +1368,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 879531543,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2025-09-08T01:03:32Z",
+                        "open_issues": 0,
                         "owner": "SJTU-dxw",
                         "repo": "CountMamba-WF",
-                        "stars": 30
+                        "stars": 30,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -1002,12 +1389,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Full version of the paper \"Transformer-based Model for Multi-tab Website Fingerprinting Attack\", as well as the corresponding source code and data sets.",
+                        "homepage": null,
                         "id": 688053256,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2023-11-22T12:54:03Z",
+                        "open_issues": 4,
                         "owner": "jzx-bupt",
                         "repo": "TMWF",
-                        "stars": 29
+                        "stars": 29,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -1018,12 +1410,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 978796837,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2026-03-22T02:53:37Z",
+                        "open_issues": 1,
                         "owner": "wujinhe0814",
                         "repo": "Swallow",
-                        "stars": 27
+                        "stars": 27,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -1034,12 +1431,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Few-Shot Website Fingerprinting Attacks and Lightweight Obfuscation Defenses",
+                        "homepage": null,
                         "id": 871862840,
                         "language": "Jupyter Notebook",
+                        "license": null,
                         "last_commit": "2026-01-17T14:34:09Z",
+                        "open_issues": 1,
                         "owner": "WW-Meng",
                         "repo": "FMWF",
-                        "stars": 9
+                        "stars": 9,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -1050,12 +1452,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A utility to transduce Tor exit cell traces into entry cell traces.",
+                        "homepage": null,
                         "id": 1045011978,
                         "language": "Rust",
+                        "license": "NOASSERTION",
                         "last_commit": "2025-08-26T14:25:56Z",
+                        "open_issues": 0,
                         "owner": "robgjansen",
                         "repo": "cellshift",
-                        "stars": 5
+                        "stars": 5,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -1066,12 +1473,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Git address for MMF",
+                        "homepage": null,
                         "id": 1095694806,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2026-05-27T18:12:28Z",
+                        "open_issues": 0,
                         "owner": "nl77-seraph",
                         "repo": "MMF",
-                        "stars": 1
+                        "stars": 1,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     }
@@ -1096,12 +1508,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 549289831,
                         "language": "Jupyter Notebook",
+                        "license": null,
                         "last_commit": "2025-10-07T11:30:50Z",
+                        "open_issues": 0,
                         "owner": "sanghakoh",
                         "repo": "AppSniffer",
-                        "stars": 32
+                        "stars": 32,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -1112,12 +1529,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 872761930,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2024-10-29T01:29:22Z",
+                        "open_issues": 1,
                         "owner": "DecETT",
                         "repo": "DecETT",
-                        "stars": 12
+                        "stars": 12,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     }
@@ -1135,12 +1557,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Original implementation of FlowPrint as in the NDSS '20 paper",
+                        "homepage": null,
                         "id": 238052885,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2023-02-08T00:44:36Z",
+                        "open_issues": 2,
                         "owner": "Thijsvanede",
                         "repo": "FlowPrint",
-                        "stars": 133
+                        "stars": 133,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -1151,12 +1578,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Code and dataset for AppScanner",
+                        "homepage": null,
                         "id": 94893637,
                         "language": "OpenEdge ABL",
+                        "license": null,
                         "last_commit": "2017-07-03T09:48:15Z",
+                        "open_issues": 2,
                         "owner": "vftaylor",
                         "repo": "appscanner",
-                        "stars": 33
+                        "stars": 33,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -1167,12 +1599,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Code and dataset for AppScanner",
+                        "homepage": null,
                         "id": 94893637,
                         "language": "OpenEdge ABL",
+                        "license": null,
                         "last_commit": "2017-07-03T09:48:15Z",
+                        "open_issues": 2,
                         "owner": "vftaylor",
                         "repo": "appscanner",
-                        "stars": 33
+                        "stars": 33,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -1183,12 +1620,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 447157055,
                         "language": null,
+                        "license": null,
                         "last_commit": "2022-05-15T13:07:24Z",
+                        "open_issues": 0,
                         "owner": "jflixjtu",
                         "repo": "PacketPrint",
-                        "stars": 13
+                        "stars": 13,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -1199,12 +1641,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 111965904,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2017-11-25T01:31:18Z",
+                        "open_issues": 0,
                         "owner": "khaled-alnaami",
                         "repo": "NetworkTrafficFingerprinting",
-                        "stars": 2
+                        "stars": 2,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     }
@@ -1222,12 +1669,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 941615331,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-11-07T17:05:11Z",
+                        "open_issues": 0,
                         "owner": "yo-yo-yo-jbo",
                         "repo": "whisper_leak",
-                        "stars": 80
+                        "stars": 80,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -1238,12 +1690,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "This is the official repository for the code used in the paper: \"What Was Your Prompt? A Remote Keylogging Attack on AI Assistants\", USENIX Security 24'",
+                        "homepage": null,
                         "id": 810890874,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-02-05T10:27:37Z",
+                        "open_issues": 0,
                         "owner": "royweiss1",
                         "repo": "GPT_Keylogger",
-                        "stars": 67
+                        "stars": 67,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -1254,12 +1711,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 1044671657,
                         "language": "Jupyter Notebook",
+                        "license": null,
                         "last_commit": "2025-12-18T17:46:27Z",
+                        "open_issues": 0,
                         "owner": "umass-aisec",
                         "repo": "wra",
-                        "stars": 6
+                        "stars": 6,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     }
@@ -1289,12 +1751,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for our USENIX Security 2021 paper -- CADE: Detecting and Explaining Concept Drift Samples for Security Applications",
+                    "homepage": "https://liminyang.web.illinois.edu",
                     "id": 297269159,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-03-25T23:12:22Z",
+                    "open_issues": 2,
                     "owner": "whyisyoung",
                     "repo": "CADE",
-                    "stars": 148
+                    "stars": 148,
+                    "topics": [
+                      "artificial-intelligence",
+                      "autoencoder",
+                      "concept-drift",
+                      "contrastive-learning",
+                      "drebin",
+                      "explainable-ai",
+                      "explainable-ml",
+                      "explanation",
+                      "ids",
+                      "ids2018",
+                      "interpretability",
+                      "keras",
+                      "machine-learning",
+                      "machine-learning-security",
+                      "mlp",
+                      "self-supervised-learning",
+                      "tensorflow",
+                      "xai"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -1305,12 +1791,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS'23).",
+                    "homepage": null,
                     "id": 588138007,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-04-06T00:44:54Z",
+                    "open_issues": 0,
                     "owner": "dongtsi",
                     "repo": "OWAD",
-                    "stars": 79
+                    "stars": 79,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -1321,12 +1812,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 689047483,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2023-09-20T13:52:34Z",
+                    "open_issues": 0,
                     "owner": "SPIN-UMass",
                     "repo": "Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -1337,12 +1833,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Adaptive website fingerprinting attacks",
+                    "homepage": null,
                     "id": 846335624,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-09-11T05:23:11Z",
+                    "open_issues": 1,
                     "owner": "Xinhao-Deng",
                     "repo": "Adaptive-WF-Attack",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -1353,12 +1854,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 965518169,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-04-13T11:27:43Z",
+                    "open_issues": 1,
                     "owner": "FIND-Lab",
                     "repo": "MAML-Training-ETC",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 }
@@ -1376,12 +1882,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic",
+                    "homepage": null,
                     "id": 590826367,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-01-07T09:45:18Z",
+                    "open_issues": 1,
                     "owner": "FIND-Lab",
                     "repo": "RAPIER",
-                    "stars": 67
+                    "stars": 67,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -1392,12 +1903,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The source code and dataset are used to demonstrate the TF model, and reproduce the results of the ACM CCS2019 paper",
+                    "homepage": null,
                     "id": 201587821,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-12-31T01:54:05Z",
+                    "open_issues": 5,
                     "owner": "triplet-fingerprinting",
                     "repo": "tf",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 }
@@ -1415,12 +1931,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ": An LLM Approach for Open-Set Encrypted Traffic Classification",
+                    "homepage": null,
                     "id": 818951967,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-11-05T23:49:09Z",
+                    "open_issues": 2,
                     "owner": "YasodGinige",
                     "repo": "TrafficGPT",
-                    "stars": 62
+                    "stars": 62,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -1431,12 +1952,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 874580414,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-05-14T02:28:15Z",
+                    "open_issues": 0,
                     "owner": "YasodGinige",
                     "repo": "TrafficLLM",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 }
@@ -1454,12 +1980,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 578574561,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2023-09-06T05:42:58Z",
+                    "open_issues": 1,
                     "owner": "sunskyXX",
                     "repo": "Rosetta",
-                    "stars": 60
+                    "stars": 60,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -1470,12 +2001,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[Usenix Security '25] Robustifying ML-powered Network Classifiers with PANTS",
+                    "homepage": "https://arxiv.org/abs/2409.04691",
                     "id": 918719853,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-08-16T02:38:21Z",
+                    "open_issues": 0,
                     "owner": "jinminhao",
                     "repo": "PANTS",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": [
+                      "adversarial-examples",
+                      "adversarial-machine-learning",
+                      "aml",
+                      "formal-methods",
+                      "machine-learning",
+                      "net",
+                      "network-security",
+                      "robustness",
+                      "security",
+                      "smt"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -1486,12 +2033,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a targeted attacks method on malicious traffic detection",
+                    "homepage": null,
                     "id": 877153479,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-08-03T03:26:02Z",
+                    "open_issues": 0,
                     "owner": "TrafficDetection-art",
                     "repo": "AdvTG",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -1502,12 +2054,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 971924055,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-18T20:22:18Z",
+                    "open_issues": 3,
                     "owner": "09nat",
                     "repo": "NetMasquerade",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -1518,12 +2075,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CertTA: Certified Robustness Made Practical for Learning-Based Traffic Analysis",
+                    "homepage": null,
                     "id": 995147907,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-06-20T11:57:41Z",
+                    "open_issues": 2,
                     "owner": "InspiringGroup-NeoLab",
                     "repo": "CertTA",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -1534,14 +2096,82 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1074086118,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-11-29T01:53:25Z",
+                    "open_issues": 0,
                     "owner": "Shangshu-LAB",
                     "repo": "BERT-ps",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Cease at the Ultimate Goodness: Towards Efficient Website Fingerprinting Defense via Iterative Mutual Information Minimization",
+                  "description": ". Rong Wang. . [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1084810956,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-01-20T07:15:31Z",
+                    "open_issues": 1,
+                    "owner": "Junowww",
+                    "repo": "FRUGAL-ndss",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T04:45:06.265Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Lightening the Load: A Cluster-Based Framework for A Lower-Overhead, Provable Website Fingerprinting Defense",
+                  "description": ". Khashayar Khajavi. . [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Traffic Pattern-Aware Website Fingerprinting Defense",
+                    "homepage": null,
+                    "id": 1030584392,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-03-11T07:10:17Z",
+                    "open_issues": 0,
+                    "owner": "khashayarkhaj",
+                    "repo": "Adaptive-Tamaraw",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T04:45:06.265Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Sparta: Practical Anonymity with Long-Term Resistance to Traffic Analysis",
+                  "description": ". Kyle Fredrickson. . [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Experiments for system model evaluations in Sparta (IEEE S&P 2025).",
+                    "homepage": null,
+                    "id": 873810888,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-11-23T20:04:38Z",
+                    "open_issues": 0,
+                    "owner": "ucsc-anonymity",
+                    "repo": "sparta-model-evaluation",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T04:45:06.265Z"
                 }
               ]
             },
@@ -1557,12 +2187,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository contains artifacts for the paper \"Rules Refine the Riddle: Global Explanation for Deep Learning-Based Anomaly Detection in Security Applications\" accepted by ACM CCS 2024.",
+                    "homepage": null,
                     "id": 790747847,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-08-20T08:51:11Z",
+                    "open_issues": 0,
                     "owner": "dongtsi",
                     "repo": "GEAD",
-                    "stars": 94
+                    "stars": 94,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -1573,12 +2208,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "source code for USENIX Security paper xNIDS",
+                    "homepage": null,
                     "id": 543769308,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-08-27T01:35:11Z",
+                    "open_issues": 0,
                     "owner": "CactiLab",
                     "repo": "code-xNIDS",
-                    "stars": 61
+                    "stars": 61,
+                    "topics": [
+                      "deep-learning",
+                      "explainable-ai",
+                      "intrusion-detection-system"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -1589,12 +2233,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1021570687,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-09-10T17:01:24Z",
+                    "open_issues": 0,
                     "owner": "SmartData-Polito",
                     "repo": "Debunk_Traffic_Representation",
-                    "stars": 45
+                    "stars": 45,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -1605,12 +2254,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This package implements the trustee framework to extract decision tree explanation from black-box ML models.",
+                    "homepage": null,
                     "id": 297778589,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-24T21:47:28Z",
+                    "open_issues": 0,
                     "owner": "TrusteeML",
                     "repo": "trustee",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": [
+                      "artificial-intelligence",
+                      "explainable-ai",
+                      "interpretability",
+                      "machine-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 },
@@ -1621,12 +2280,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Website Fingerprinting from a Protocol-Centric Perspective",
+                    "homepage": null,
                     "id": 728139980,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-10-03T06:30:33Z",
+                    "open_issues": 0,
                     "owner": "bcebere",
                     "repo": "Understanding-and-Explaining-Web-Fingerprinting-with-a-Protocol-Centric-Approach",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "encrypted-traffic-analysis",
+                      "encrypted-traffic-classification",
+                      "machine-learning",
+                      "traffic-analysis",
+                      "website-fingerprinting"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
                 }
@@ -1646,12 +2316,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A network intrusion detection system based on incremental statistics (AfterImage) and an ensemble of autoencoders (KitNET)",
+                "homepage": null,
                 "id": 139319424,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-24T14:32:49Z",
+                "open_issues": 22,
                 "owner": "ymirsky",
                 "repo": "Kitsune-py",
-                "stars": 394
+                "stars": 394,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
             },
@@ -1662,12 +2337,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flow Interaction Graph based attack traffic detection system.",
+                "homepage": null,
                 "id": 552643588,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2024-05-06T02:27:58Z",
+                "open_issues": 2,
                 "owner": "fuchuanpu",
                 "repo": "HyperVision",
-                "stars": 201
+                "stars": 201,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
             },
@@ -1678,12 +2358,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 759245264,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2025-01-14T08:19:06Z",
+                "open_issues": 1,
                 "owner": "InspiringGroup-NeoLab",
                 "repo": "Brain-on-Switch",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
             },
@@ -1694,12 +2379,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The repository of FastTraffic, A lightweight method for encrypted traffic fast classification.",
+                "homepage": null,
                 "id": 674014069,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-27T16:27:08Z",
+                "open_issues": 0,
                 "owner": "JieCaoSec",
                 "repo": "FastTraffic",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "encrypted-traffic-analysis",
+                  "encrypted-traffic-classification",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
             },
@@ -1710,12 +2404,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 438530432,
                 "language": "P4",
+                "license": null,
                 "last_commit": "2023-08-06T14:03:55Z",
+                "open_issues": 0,
                 "owner": "victorkdwu",
                 "repo": "HorusEye",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
             },
@@ -1726,12 +2425,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Artifacts accompanying the NSDI '24 paper: Leo: Online ML-based Traffic Classification at Multi-Terabit Line Rate.",
+                "homepage": null,
                 "id": 768970011,
                 "language": "P4",
+                "license": "MIT",
                 "last_commit": "2026-06-13T06:26:13Z",
+                "open_issues": 0,
                 "owner": "Purdue-ISL",
                 "repo": "Leo",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
             },
@@ -1742,12 +2446,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 783828637,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-13T15:29:40Z",
+                "open_issues": 0,
                 "owner": "In-Network-Machine-Learning",
                 "repo": "IIsy",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
             },
@@ -1758,12 +2467,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 701861404,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-10-07T19:31:44Z",
+                "open_issues": 0,
                 "owner": "Secbrain",
                 "repo": "RIDS",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
             },
@@ -1774,12 +2488,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1114977835,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-15T13:37:37Z",
+                "open_issues": 0,
                 "owner": "swampx",
                 "repo": "Synecdoche",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
             },
@@ -1790,12 +2509,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Benchmark for East-West Traffic Security",
+                "homepage": null,
                 "id": 698410950,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-08-03T04:52:49Z",
+                "open_issues": 1,
                 "owner": "microsoft",
                 "repo": "Yatesbury",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
             },
@@ -1806,12 +2530,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LINC: Enabling Low-Resource In-network Classification and Incremental Model Update (ICNP2024)",
+                "homepage": null,
                 "id": 839398262,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-21T02:50:45Z",
+                "open_issues": 0,
                 "owner": "haolinyan",
                 "repo": "LINC",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
             },
@@ -1822,12 +2551,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Recursive Multi-Tree Construction with Efficient Rule Sifting for Packet Classification on FPGA (IEEE/ACM Transactions on Networking, 2024)",
+                "homepage": null,
                 "id": 429493822,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-06-16T11:32:12Z",
+                "open_issues": 0,
                 "owner": "wenjunpaper",
                 "repo": "KickTree",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
             }
@@ -1849,17 +2583,64 @@
           "children": [
             {
               "node_type": "item",
+              "title": "WireWatch: Measuring the Security of Proprietary Network Encryption in the Global Android Ecosystem",
+              "description": ". Mona Wang. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "WireWatch: pipeline for detecting and analyzing proprietary cryptography of Android applications",
+                "homepage": null,
+                "id": 983006110,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-02-28T17:55:48Z",
+                "open_issues": 1,
+                "owner": "citp",
+                "repo": "wirewatch",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:45:06.265Z"
+            },
+            {
+              "node_type": "item",
+              "title": "A Multifaceted Study on the Use of TLS and Auto-detect in Email Ecosystems",
+              "description": ". Ka Fun Tang. . [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 898906710,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-12-06T05:36:21Z",
+                "open_issues": 0,
+                "owner": "tls-downgrade",
+                "repo": "email-security",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T04:45:06.265Z"
+            },
+            {
+              "node_type": "item",
               "title": "Enhanced Dynamics of IP Allocation: Fine-Grained IP Geolocation via Temporal-Spatial Correlation",
               "description": ". Yiyang Huang. . [code]",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enhanced Dynamics of IP Allocation: Fine-Grained IP Geolocation via Temporal-Spatial Correlation IEEE Transaction on Networking ",
+                "homepage": null,
                 "id": 881283159,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-31T11:27:26Z",
+                "open_issues": 0,
                 "owner": "iiehyy",
                 "repo": "TSG",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
             }
@@ -1877,12 +2658,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The repository of 6GAN, an IPv6 multi-pattern target generation algorithm using Generative Adversarial Nets with reinforcement learning. The work has been accepted as INFOCOM 2021 accepted Paper.",
+                "homepage": null,
                 "id": 438937946,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-12-16T10:09:08Z",
+                "open_issues": 1,
                 "owner": "CuiTianyu961030",
                 "repo": "6GAN",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "deep-learning",
+                  "generative-adversarial-network",
+                  "ipv6",
+                  "network-measurement",
+                  "network-scanning",
+                  "reinforcement-learning",
+                  "target-generation-algorithm"
+                ]
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
             },
@@ -1893,12 +2687,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The repository of SiamHAN, an IPv6 address correlation model on TLS encrypted traffic. The work has been accepted as USENIX Security 2021 accepted Paper.",
+                "homepage": null,
                 "id": 432631467,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-12-01T02:31:16Z",
+                "open_issues": 2,
                 "owner": "CuiTianyu961030",
                 "repo": "SiamHAN",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "graph-attention-networks",
+                  "graph-neural-networks",
+                  "heterogeneous-network",
+                  "ipv6",
+                  "siamese-networks",
+                  "tls",
+                  "user-discovery",
+                  "user-tracking"
+                ]
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
             },
@@ -1909,12 +2717,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of 6VecLM: Language Modeling in Vector Space for IPv6 Target Generation. The work has been accepted as ECML/PKDD 2020 accepted Paper.",
+                "homepage": null,
                 "id": 274764824,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-06-25T15:23:16Z",
+                "open_issues": 0,
                 "owner": "CuiTianyu961030",
                 "repo": "6VecLM",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "ipv6",
+                  "language-model",
+                  "network-scanning",
+                  "target-generation-algorithm",
+                  "transformer",
+                  "word2vec"
+                ]
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
             }
@@ -1933,12 +2753,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS).",
+            "homepage": null,
             "id": 449290242,
             "language": null,
+            "license": null,
             "last_commit": "2025-11-11T06:51:41Z",
+            "open_issues": 3,
             "owner": "gnipping",
             "repo": "Awesome-ML-SP-Papers",
-            "stars": 360
+            "stars": 360,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         },
@@ -1949,12 +2774,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curation of awesome papers, datasets and tools about network traffic analysis.",
+            "homepage": null,
             "id": 886674458,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-04-27T17:03:03Z",
+            "open_issues": 0,
             "owner": "wangtz19",
             "repo": "Awesome-NTA",
-            "stars": 196
+            "stars": 196,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         }
@@ -1971,12 +2801,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popular packet processing engines such as libpcap, Npcap, WinPcap, DPDK, AF_XDP and PF_RING.",
+            "homepage": "https://pcapplusplus.github.io/",
             "id": 24911519,
             "language": "C++",
+            "license": "Unlicense",
             "last_commit": "2026-08-27T17:13:40Z",
+            "open_issues": 60,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3133
+            "stars": 3133,
+            "topics": [
+              "cpp",
+              "dpdk",
+              "ebpf",
+              "libpcap",
+              "linux",
+              "mac-osx",
+              "multiplatform",
+              "network-forensics",
+              "network-tools",
+              "networking",
+              "packet-crafting",
+              "packet-parsing",
+              "packet-processing",
+              "pcap",
+              "pcap-files",
+              "pcapplusplus",
+              "pf-ring",
+              "tcp-reassembly",
+              "windows",
+              "winpcap"
+            ]
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         },
@@ -1987,12 +2843,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎯 A general-purpose protocol stack analysis and debugging tool based on eBPF 🧰  ",
+            "homepage": "https://packetscope.net",
             "id": 1017905876,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-12T10:01:18Z",
+            "open_issues": 10,
             "owner": "Internet-Architecture-and-Security",
             "repo": "PacketScope",
-            "stars": 1507
+            "stars": 1507,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         },
@@ -2003,12 +2864,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A package for capturing and analyzing network flow data and intraflow data, for network research, forensics, and security monitoring.",
+            "homepage": null,
             "id": 49294674,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-01T09:50:44Z",
+            "open_issues": 30,
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1368
+            "stars": 1368,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         },
@@ -2019,12 +2885,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CICFlowmeter-V4.0 (formerly known as ISCXFlowMeter) is an Ethernet traffic Bi-flow generator and analyzer for anomaly detection that has been used in many Cybersecurity datsets such as Android Adware-General Malware dataset (CICAAGM2017), IPS/IDS dataset (CICIDS2017), Android Malware dataset (CICAndMal2017) and Distributed Denial of Service (CICDDoS2019).",
+            "homepage": null,
             "id": 121274905,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-04T13:35:50Z",
+            "open_issues": 12,
             "owner": "ahlashkari",
             "repo": "CICFlowMeter",
-            "stars": 712
+            "stars": 712,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         },
@@ -2035,12 +2906,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mercury: network metadata capture and analysis",
+            "homepage": null,
             "id": 205461953,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T20:13:41Z",
+            "open_issues": 17,
             "owner": "cisco",
             "repo": "mercury",
-            "stars": 518
+            "stars": 518,
+            "topics": [
+              "fingerprinting",
+              "linux",
+              "network-security",
+              "packet-capture",
+              "packet-capture-and-analysis"
+            ]
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         },
@@ -2051,12 +2933,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "从pcap获取流的基本信息工具",
+            "homepage": null,
             "id": 277197491,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-31T15:30:37Z",
+            "open_issues": 9,
             "owner": "jmhIcoding",
             "repo": "flowcontainer",
-            "stars": 233
+            "stars": 233,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         },
@@ -2067,12 +2954,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "网络流量分类对比方法汇总",
+            "homepage": null,
             "id": 368770859,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-17T03:53:37Z",
+            "open_issues": 4,
             "owner": "jmhIcoding",
             "repo": "traffic_classification_utils",
-            "stars": 213
+            "stars": 213,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         },
@@ -2083,12 +2975,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Library for Advanced DL-based Website Fingerprinting Attacks.",
+            "homepage": null,
             "id": 806452826,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-06T15:06:19Z",
+            "open_issues": 2,
             "owner": "FIND-Lab",
             "repo": "Website-Fingerprinting-Library",
-            "stars": 181
+            "stars": 181,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         },
@@ -2099,12 +2996,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 575733560,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-14T16:26:12Z",
+            "open_issues": 1,
             "owner": "JieCaoSec",
             "repo": "Encrypted-Traffic-Classification-Models",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         },
@@ -2115,12 +3017,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the source code for a network traffic occlusion framework presented at the 2025 IEEE Symposium on Security and Privacy (SP 2025).",
+            "homepage": null,
             "id": 983826946,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-15T05:12:34Z",
+            "open_issues": 0,
             "owner": "nime-sha256",
             "repo": "ntc-enigma",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         },
@@ -2131,12 +3038,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLMShark: Comprehensive analysis tool for LLM streaming traffic from PCAP files",
+            "homepage": null,
             "id": 1000582892,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-12T04:43:51Z",
+            "open_issues": 0,
             "owner": "ajcasagrande",
             "repo": "llmshark",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "analysis",
+              "http",
+              "llm",
+              "pcap",
+              "sse",
+              "streaming",
+              "wireshark"
+            ]
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         },
@@ -2147,12 +3067,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performance (real time / offline) darknet flow feature extraction tool built in Rust using eBPF.",
+            "homepage": null,
             "id": 1187173298,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-08-24T08:02:09Z",
+            "open_issues": 0,
             "owner": "das-lab",
             "repo": "darkflow",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "aya",
+              "cicdarknet",
+              "darkflow",
+              "ebpf",
+              "network-traffic-capture",
+              "pcap",
+              "pcapng",
+              "rust",
+              "rustiflow"
+            ]
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
         }
@@ -2161,17 +3096,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:50:58.398Z",
+    "last_updated": "2026-08-29T04:45:06.265Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Materials about Encrypted Traffic Analysis",
+      "homepage": null,
       "id": 444001545,
       "language": null,
-      "last_commit": "2026-08-28T08:54:51Z",
+      "license": "MIT",
+      "last_commit": "2026-08-29T04:26:46Z",
+      "open_issues": 1,
       "owner": "linwhitehat",
       "repo": "ETA-Resource",
-      "stars": 389
+      "stars": 389,
+      "topics": [
+        "awesome-list",
+        "benchmark",
+        "dataset",
+        "network-traffic-analysis",
+        "research-paper",
+        "research-project",
+        "survey"
+      ]
     },
-    "original_repository_sha": "4608526e97008f2699852742731f67c2ed9c7135",
+    "original_repository_sha": "e023dc4900d1623a36f541b0430e70c6c6e3be4f",
     "enhanced_repository": "enhansome/enhansome-ETA-Resource",
     "enhanced_repository_description": null,
     "title": "Awesome Content with stars"
