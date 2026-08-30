@@ -460,7 +460,7 @@
                     "open_issues": 9,
                     "owner": "IDP-code",
                     "repo": "TrafficFormer",
-                    "stars": 110,
+                    "stars": 111,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -890,6 +890,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Training with Only 1.0‰ Samples: Malicious Traffic Detection via Cross-Modality Feature Fusion",
+                  "description": ". Chuanpu Fu. . [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Attention based few-shot malicious traffic detection system.",
+                    "homepage": null,
+                    "id": 852243960,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2025-09-03T03:36:47Z",
+                    "open_issues": 5,
+                    "owner": "fuchuanpu",
+                    "repo": "TFusion",
+                    "stars": 35,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-30T12:02:15.577Z"
                 },
                 {
                   "node_type": "item",
@@ -2126,7 +2147,7 @@
                     "open_issues": 1,
                     "owner": "Junowww",
                     "repo": "FRUGAL-ndss",
-                    "stars": 1,
+                    "stars": 2,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T04:45:06.265Z"
@@ -2147,7 +2168,7 @@
                     "open_issues": 0,
                     "owner": "khashayarkhaj",
                     "repo": "Adaptive-Tamaraw",
-                    "stars": 1,
+                    "stars": 2,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T04:45:06.265Z"
@@ -2894,7 +2915,7 @@
             "open_issues": 12,
             "owner": "ahlashkari",
             "repo": "CICFlowMeter",
-            "stars": 712,
+            "stars": 713,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3005,7 +3026,7 @@
             "open_issues": 1,
             "owner": "JieCaoSec",
             "repo": "Encrypted-Traffic-Classification-Models",
-            "stars": 100,
+            "stars": 101,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3096,7 +3117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T12:45:13.037Z",
+    "last_updated": "2026-08-30T12:02:15.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
@@ -3104,7 +3125,7 @@
       "id": 444001545,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-08-29T04:26:46Z",
+      "last_commit": "2026-08-30T02:45:42Z",
       "open_issues": 1,
       "owner": "linwhitehat",
       "repo": "ETA-Resource",
@@ -3119,7 +3140,7 @@
         "survey"
       ]
     },
-    "original_repository_sha": "e023dc4900d1623a36f541b0430e70c6c6e3be4f",
+    "original_repository_sha": "f968de84a2d5f1f4b7327083086047ac6dd82289",
     "enhanced_repository": "enhansome/enhansome-ETA-Resource",
     "enhanced_repository_description": null,
     "title": "Awesome Content with stars"
