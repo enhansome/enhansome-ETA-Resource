@@ -412,7 +412,7 @@
                     "open_issues": 0,
                     "owner": "wangtz19",
                     "repo": "NetMamba",
-                    "stars": 181,
+                    "stars": 182,
                     "topics": [
                       "mae",
                       "mamba",
@@ -1153,7 +1153,7 @@
                         "open_issues": 1,
                         "owner": "sevensmith",
                         "repo": "context-aware-wfp",
-                        "stars": 12,
+                        "stars": 13,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1171,7 +1171,7 @@
                         "language": "Python",
                         "license": null,
                         "last_commit": "2023-07-29T14:08:03Z",
-                        "open_issues": 1,
+                        "open_issues": 0,
                         "owner": "chenxiailian",
                         "repo": "robustweb",
                         "stars": 7,
@@ -1318,7 +1318,7 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "Towards Robust Multi-tab Website Fingerprinting",
+                      "title": "Robust Multi-tab Website Fingerprinting Attacks in the Wild",
                       "description": ". Xinhao Deng. . [code]",
                       "children": [],
                       "repo_info": {
@@ -2806,8 +2806,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-08-31T07:36:20Z",
-            "open_issues": 61,
+            "last_commit": "2026-09-01T11:38:41Z",
+            "open_issues": 60,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3134,
@@ -3096,7 +3096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T14:08:52.676Z",
+    "last_updated": "2026-09-01T11:49:08.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
@@ -3104,7 +3104,7 @@
       "id": 444001545,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-08-31T13:19:33Z",
+      "last_commit": "2026-09-01T09:54:53Z",
       "open_issues": 1,
       "owner": "linwhitehat",
       "repo": "ETA-Resource",
@@ -3119,7 +3119,7 @@
         "survey"
       ]
     },
-    "original_repository_sha": "d863890ceb942a9803ab2558b65cf3a060b91a36",
+    "original_repository_sha": "e151cd1db16809ea3239ef25254b243a0bfd6b13",
     "enhanced_repository": "enhansome/enhansome-ETA-Resource",
     "enhanced_repository_description": null,
     "title": "Awesome Content with stars"
