@@ -949,7 +949,7 @@
                     "open_issues": 0,
                     "owner": "Sec-AI-research",
                     "repo": "WebSpotter",
-                    "stars": 4,
+                    "stars": 5,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T04:45:06.265Z"
@@ -1678,7 +1678,7 @@
                         "open_issues": 0,
                         "owner": "yo-yo-yo-jbo",
                         "repo": "whisper_leak",
-                        "stars": 80,
+                        "stars": 81,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2806,11 +2806,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-01T11:38:41Z",
-            "open_issues": 60,
+            "last_commit": "2026-09-02T08:23:10Z",
+            "open_issues": 57,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3134,
+            "stars": 3133,
             "topics": [
               "cpp",
               "dpdk",
@@ -2873,7 +2873,7 @@
             "open_issues": 30,
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1368,
+            "stars": 1367,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3096,7 +3096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T11:49:08.829Z",
+    "last_updated": "2026-09-02T11:29:48.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
@@ -3104,7 +3104,7 @@
       "id": 444001545,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-01T09:54:53Z",
+      "last_commit": "2026-09-02T00:12:50Z",
       "open_issues": 1,
       "owner": "linwhitehat",
       "repo": "ETA-Resource",
@@ -3119,7 +3119,7 @@
         "survey"
       ]
     },
-    "original_repository_sha": "e151cd1db16809ea3239ef25254b243a0bfd6b13",
+    "original_repository_sha": "9b5200369a477fe307a2c12c658a49ce30fd1be5",
     "enhanced_repository": "enhansome/enhansome-ETA-Resource",
     "enhanced_repository_description": null,
     "title": "Awesome Content with stars"
