@@ -412,7 +412,7 @@
                     "open_issues": 0,
                     "owner": "wangtz19",
                     "repo": "NetMamba",
-                    "stars": 182,
+                    "stars": 183,
                     "topics": [
                       "mae",
                       "mamba",
@@ -2281,7 +2281,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-09-10T17:01:24Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "SmartData-Polito",
                     "repo": "Debunk_Traffic_Representation",
                     "stars": 45,
@@ -2852,7 +2852,7 @@
             "open_issues": 59,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3133,
+            "stars": 3134,
             "topics": [
               "cpp",
               "dpdk",
@@ -2890,7 +2890,7 @@
             "id": 1017905876,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-08-12T10:01:18Z",
+            "last_commit": "2026-09-04T00:59:42Z",
             "open_issues": 11,
             "owner": "Internet-Architecture-and-Security",
             "repo": "PacketScope",
@@ -3138,7 +3138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T11:26:55.476Z",
+    "last_updated": "2026-09-04T11:29:37.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",

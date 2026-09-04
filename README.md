@@ -190,7 +190,7 @@ Fingerprinting (SWF))(2023)
 ### Applied Pre-training/LLMs
 
 * [ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification](https://dl.acm.org/doi/abs/10.1145/3485447.3512217). Xinjie Lin. `WWW 2022`. [\[code\]](https://github.com/linwhitehat/et-bert) ⭐ 673 | 🐛 1 | 🌐 Python | 📅 2026-07-23 [\[Reproduce\]](https://gitee.com/xxdxxdxxd/et-bert/blob/master/README.md)
-* [NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba](https://arxiv.org/abs/2405.11449). Tongze Wang. `ICNP 2024`. [\[code\]](https://github.com/wangtz19/NetMamba) ⭐ 182 | 🐛 0 | 🌐 Python | 📅 2026-04-05
+* [NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba](https://arxiv.org/abs/2405.11449). Tongze Wang. `ICNP 2024`. [\[code\]](https://github.com/wangtz19/NetMamba) ⭐ 183 | 🐛 0 | 🌐 Python | 📅 2026-04-05
 * [Yet Another Traffic Classifier: A Masked Autoencoder Based Traffic Transformer with Multi-Level Flow Representation](https://ojs.aaai.org/index.php/AAAI/article/view/25674). Ruijie Zhao. `AAAI 2023`. [\[code\]](https://github.com/NSSL-SJTU/YaTC) ⭐ 156 | 🐛 2 | 🌐 Python | 📅 2024-04-29
 * [TrafficFormer: An Efficient Pre-trained Model for Traffic Data](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a102/22K50xTq93y). Guangmeng Zhou. `S&P 2025`. [\[code\]](https://github.com/IDP-code/TrafficFormer) ⭐ 111 | 🐛 9 | 🌐 Python | 📅 2025-01-18
 * [BTRFormer: Hierarchical Learning of Encrypted Traffic Using a Masked Autoencoder with Block-Based Traffic Representation](https://ieeexplore.ieee.org/abstract/document/11192383). Junnan Yin. `ICNP 2025`. [\[code\]](https://github.com/yyyjn/BTRFormer) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2025-10-21
@@ -419,7 +419,7 @@ Fingerprinting (SWF))(2023)
 * Explanatory Analysis
   * [GEAD: Rules Refine the Riddle: Global Explanation for Deep Learning-Based Anomaly Detection in Security Applications](https://dl.acm.org/doi/10.1145/3658644.3670375). Dongqi Han. `CCS 2024`. [\[code\]](https://github.com/dongtsi/GEAD) ⭐ 94 | 🐛 0 | 🌐 Python | 📅 2025-08-20
   * [xNIDS: Explaining Deep Learning-based Network Intrusion Detection Systems for Active Intrusion Responses](https://www.usenix.org/conference/usenixsecurity23/presentation/wei-feng). Feng Wei. `USENIX Security 2023`. [\[code\]](https://github.com/CactiLab/code-xNIDS) ⭐ 61 | 🐛 0 | 🌐 Python | 📅 2024-08-27
-  * [The Sweet Danger of Sugar: Debunking Representation Learning for Encrypted Traffic Classification](https://dl.acm.org/doi/10.1145/3718958.3750498). Yuqi Zhao. `SIGCOMM 2025`. [\[code\]](https://github.com/SmartData-Polito/Debunk_Traffic_Representation) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2025-09-10
+  * [The Sweet Danger of Sugar: Debunking Representation Learning for Encrypted Traffic Classification](https://dl.acm.org/doi/10.1145/3718958.3750498). Yuqi Zhao. `SIGCOMM 2025`. [\[code\]](https://github.com/SmartData-Polito/Debunk_Traffic_Representation) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2025-09-10
   * [AI/ML for Network Security: The Emperor has no Clothes](https://dl.acm.org/doi/10.1145/3548606.3560609). Arthur S. Jacobs. `CCS 2022`. [\[code\]](https://github.com/TrusteeML/trustee) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-08-24
   * [Understanding Web Fingerprinting with a Protocol-Centric Approach](https://dl.acm.org/doi/10.1145/3678890.3678910). Bogdan Cebere. `RAID 2024`. [\[code\]](https://github.com/bcebere/Understanding-and-Explaining-Web-Fingerprinting-with-a-Protocol-Centric-Approach) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-10-03
   * [Explainable Anomaly Detection in Network Traffic Using Normalizing Flows](https://xplorestaging.ieee.org/document/11201273). Lior Shafir. `ToN 2025`.
@@ -690,8 +690,8 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 
 # Tool Libraries and Frameworks
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,133 | 🐛 59 | 🌐 C++ | 📅 2026-09-03
-* [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,506 | 🐛 11 | 🌐 C | 📅 2026-08-12
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,134 | 🐛 59 | 🌐 C++ | 📅 2026-09-03
+* [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,506 | 🐛 11 | 🌐 C | 📅 2026-09-04
 * [Joy](https://github.com/cisco/joy) ⚠️ Archived
 * [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 713 | 🐛 12 | 🌐 Java | 📅 2023-12-04
 * [mercury](https://github.com/cisco/mercury) ⭐ 518 | 🐛 17 | 🌐 C++ | 📅 2026-08-26
@@ -757,4 +757,4 @@ Thanks goes to these wonderful people!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
