@@ -237,7 +237,7 @@ Fingerprinting (SWF))(2023)
 * [Training with Only 1.0‰ Samples: Malicious Traffic Detection via Cross-Modality Feature Fusion](https://dl.acm.org/doi/pdf/10.1145/3719027.3765143). Chuanpu Fu. `CCS 2025`. [\[code\]](https://github.com/fuchuanpu/TFusion) ⭐ 35 | 🐛 5 | 🌐 Python | 📅 2025-09-03
 * [Flow-MAE: Leveraging Masked AutoEncoder for Accurate, Efficient and Robust Malicious Traffic Classification](https://dl.acm.org/doi/10.1145/3607199.3607206#core-collateral-purchase-access). Zijun Hang. `RAID 2023`. [\[code\]](https://github.com/NLear/Flow-MAE) ⭐ 35 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-10-14
 * [Mateen: Adaptive Ensemble Learning for Network Anomaly Detection](https://dl.acm.org/doi/10.1145/3678890.3678901). Fahad Alotaibi. `RAID 2024`. [\[code\]](https://github.com/ICL-ml4csec/Mateen/) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2025-02-27
-* [Achieving Interpretable DL-based Web Attack Detection through Malicious Payload Localization](https://www.ndss-symposium.org/ndss2026/accepted-papers/). Peiyang Li. `NDSS 2026`. [\[code\]](https://github.com/Sec-AI-research/WebSpotter) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2025-08-28
+* [Achieving Interpretable DL-based Web Attack Detection through Malicious Payload Localization](https://www.ndss-symposium.org/ndss2026/accepted-papers/). Peiyang Li. `NDSS 2026`. [\[code\]](https://github.com/Sec-AI-research/WebSpotter) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2025-08-28
 * [Interactive Anomaly Detection in Dynamic Communication Networks](https://ieeexplore.ieee.org/abstract/document/9494106). Xuying Meng. `ToN 2021`. [\[code\]](https://github.com/ict-net/HADDN) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2023-07-25
 * [TIPSO-GAN: Malicious Network Traffic Detection Using a Novel Optimized Generative Adversarial Network](https://www.ndss-symposium.org/ndss2026/accepted-papers/). Ernest Akpaku. `NDSS 2026`.
 * [NetRadar: Enabling Robust Carpet Bombing DDoS Detection](https://www.ndss-symposium.org/ndss-paper/netradar-enabling-robust-carpet-bombing-ddos-detection/). Junchen Pan. `NDSS 2026`. [\[code\]](https://zenodo.org/records/17918706)
@@ -678,7 +678,7 @@ CISPA Helmholtz Center	德国	加密通信协议分析、网络匿名性
 
 # Blogs
 
-* [Awesome-ML-Security-and-Privacy-Papers](https://github.com/gnipping/Awesome-ML-SP-Papers) ⭐ 360 | 🐛 3 | 📅 2025-11-11
+* [Awesome-ML-Security-and-Privacy-Papers](https://github.com/gnipping/Awesome-ML-SP-Papers) ⭐ 361 | 🐛 3 | 📅 2025-11-11
 * [Awesome-NTA](https://github.com/wangtz19/Awesome-NTA) ⭐ 197 | 🐛 0 | 📅 2026-04-27
 * [Icoding\_F2014](https://blog.csdn.net/jmh1996)
 * [Malware-Traffic-Analysis](https://www.malware-traffic-analysis.net/)
@@ -690,7 +690,7 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 
 # Tool Libraries and Frameworks
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,134 | 🐛 59 | 🌐 C++ | 📅 2026-09-03
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,133 | 🐛 60 | 🌐 C++ | 📅 2026-09-05
 * [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,506 | 🐛 11 | 🌐 C | 📅 2026-09-04
 * [Joy](https://github.com/cisco/joy) ⚠️ Archived
 * [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 713 | 🐛 12 | 🌐 Java | 📅 2023-12-04
@@ -757,4 +757,4 @@ Thanks goes to these wonderful people!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

@@ -949,7 +949,7 @@
                     "open_issues": 0,
                     "owner": "Sec-AI-research",
                     "repo": "WebSpotter",
-                    "stars": 5,
+                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T04:45:06.265Z"
@@ -2804,7 +2804,7 @@
             "open_issues": 3,
             "owner": "gnipping",
             "repo": "Awesome-ML-SP-Papers",
-            "stars": 360,
+            "stars": 361,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2848,11 +2848,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-03T08:18:46Z",
-            "open_issues": 59,
+            "last_commit": "2026-09-05T09:36:49Z",
+            "open_issues": 60,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3134,
+            "stars": 3133,
             "topics": [
               "cpp",
               "dpdk",
@@ -3138,7 +3138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T11:29:37.557Z",
+    "last_updated": "2026-09-05T10:45:19.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
