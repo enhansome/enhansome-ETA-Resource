@@ -227,7 +227,7 @@
             "open_issues": 2,
             "owner": "DistriNet",
             "repo": "DLWF",
-            "stars": 115,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -886,7 +886,7 @@
                     "open_issues": 5,
                     "owner": "fuchuanpu",
                     "repo": "TFusion",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": []
                   },
                   "first_seen": "2026-08-30T12:02:15.577Z"
@@ -1259,7 +1259,7 @@
                         "open_issues": 2,
                         "owner": "DistriNet",
                         "repo": "DLWF",
-                        "stars": 115,
+                        "stars": 116,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1699,7 +1699,7 @@
                         "open_issues": 0,
                         "owner": "yo-yo-yo-jbo",
                         "repo": "whisper_leak",
-                        "stars": 81,
+                        "stars": 82,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2185,7 +2185,7 @@
                     "id": 1030584392,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-09-03T09:14:31Z",
+                    "last_commit": "2026-09-05T20:01:14Z",
                     "open_issues": 0,
                     "owner": "khashayarkhaj",
                     "repo": "Adaptive-Tamaraw",
@@ -2430,7 +2430,7 @@
                 "open_issues": 0,
                 "owner": "JieCaoSec",
                 "repo": "FastTraffic",
-                "stars": 33,
+                "stars": 32,
                 "topics": [
                   "encrypted-traffic-analysis",
                   "encrypted-traffic-classification",
@@ -2804,7 +2804,7 @@
             "open_issues": 3,
             "owner": "gnipping",
             "repo": "Awesome-ML-SP-Papers",
-            "stars": 361,
+            "stars": 362,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2848,11 +2848,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-05T09:36:49Z",
-            "open_issues": 60,
+            "last_commit": "2026-09-05T11:03:14Z",
+            "open_issues": 59,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3133,
+            "stars": 3134,
             "topics": [
               "cpp",
               "dpdk",
@@ -2936,7 +2936,7 @@
             "open_issues": 12,
             "owner": "ahlashkari",
             "repo": "CICFlowMeter",
-            "stars": 713,
+            "stars": 712,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3138,7 +3138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T10:45:19.663Z",
+    "last_updated": "2026-09-06T11:07:09.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
