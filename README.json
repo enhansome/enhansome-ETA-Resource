@@ -1238,7 +1238,7 @@
                         "open_issues": 2,
                         "owner": "FIND-Lab",
                         "repo": "Website-Fingerprinting-Library",
-                        "stars": 181,
+                        "stars": 182,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2825,7 +2825,7 @@
             "open_issues": 0,
             "owner": "wangtz19",
             "repo": "Awesome-NTA",
-            "stars": 197,
+            "stars": 196,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2848,8 +2848,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-05T11:03:14Z",
-            "open_issues": 59,
+            "last_commit": "2026-09-07T07:40:24Z",
+            "open_issues": 57,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3134,
@@ -2954,10 +2954,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-08-26T20:13:41Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "cisco",
             "repo": "mercury",
-            "stars": 518,
+            "stars": 519,
             "topics": [
               "fingerprinting",
               "linux",
@@ -3026,7 +3026,7 @@
             "open_issues": 2,
             "owner": "FIND-Lab",
             "repo": "Website-Fingerprinting-Library",
-            "stars": 181,
+            "stars": 182,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3138,7 +3138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T11:07:09.058Z",
+    "last_updated": "2026-09-07T12:47:34.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
@@ -3146,7 +3146,7 @@
       "id": 444001545,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-03T08:27:37Z",
+      "last_commit": "2026-09-07T07:26:05Z",
       "open_issues": 1,
       "owner": "linwhitehat",
       "repo": "ETA-Resource",
@@ -3161,7 +3161,7 @@
         "survey"
       ]
     },
-    "original_repository_sha": "f9f8356232a59f94b7d1ebdce647db3d76f3b4fd",
+    "original_repository_sha": "6520e5f6b05cba2244872700b74ca9aa29678acf",
     "enhanced_repository": "enhansome/enhansome-ETA-Resource",
     "enhanced_repository_description": null,
     "title": "Awesome Content with stars"
