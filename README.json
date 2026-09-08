@@ -412,7 +412,7 @@
                     "open_issues": 0,
                     "owner": "wangtz19",
                     "repo": "NetMamba",
-                    "stars": 183,
+                    "stars": 184,
                     "topics": [
                       "mae",
                       "mamba",
@@ -551,7 +551,7 @@
                     "open_issues": 9,
                     "owner": "ViktorAxelsen",
                     "repo": "MH-Net",
-                    "stars": 78,
+                    "stars": 79,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -788,7 +788,7 @@
                     "open_issues": 1,
                     "owner": "netsharecmu",
                     "repo": "NetShare",
-                    "stars": 100,
+                    "stars": 99,
                     "topics": [
                       "differential-privacy",
                       "differential-privacy-deep-learning",
@@ -2848,7 +2848,7 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-07T07:40:24Z",
+            "last_commit": "2026-09-08T07:58:11Z",
             "open_issues": 57,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
@@ -2957,7 +2957,7 @@
             "open_issues": 18,
             "owner": "cisco",
             "repo": "mercury",
-            "stars": 519,
+            "stars": 518,
             "topics": [
               "fingerprinting",
               "linux",
@@ -3138,7 +3138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T12:47:34.746Z",
+    "last_updated": "2026-09-08T11:29:30.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
@@ -3150,7 +3150,7 @@
       "open_issues": 1,
       "owner": "linwhitehat",
       "repo": "ETA-Resource",
-      "stars": 390,
+      "stars": 391,
       "topics": [
         "awesome-list",
         "benchmark",
