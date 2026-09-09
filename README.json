@@ -2284,7 +2284,7 @@
                     "open_issues": 0,
                     "owner": "SmartData-Polito",
                     "repo": "Debunk_Traffic_Representation",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2825,7 +2825,7 @@
             "open_issues": 0,
             "owner": "wangtz19",
             "repo": "Awesome-NTA",
-            "stars": 196,
+            "stars": 195,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2848,8 +2848,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-08T07:58:11Z",
-            "open_issues": 57,
+            "last_commit": "2026-09-09T07:30:44Z",
+            "open_issues": 58,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3134,
@@ -2894,7 +2894,7 @@
             "open_issues": 11,
             "owner": "Internet-Architecture-and-Security",
             "repo": "PacketScope",
-            "stars": 1506,
+            "stars": 1505,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2936,7 +2936,7 @@
             "open_issues": 12,
             "owner": "ahlashkari",
             "repo": "CICFlowMeter",
-            "stars": 712,
+            "stars": 711,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2984,7 +2984,7 @@
             "open_issues": 9,
             "owner": "jmhIcoding",
             "repo": "flowcontainer",
-            "stars": 233,
+            "stars": 232,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3138,7 +3138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T11:29:30.916Z",
+    "last_updated": "2026-09-09T11:35:04.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",

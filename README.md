@@ -420,7 +420,7 @@ Fingerprinting (SWF))(2023)
 * Explanatory Analysis
   * [GEAD: Rules Refine the Riddle: Global Explanation for Deep Learning-Based Anomaly Detection in Security Applications](https://dl.acm.org/doi/10.1145/3658644.3670375). Dongqi Han. `CCS 2024`. [\[code\]](https://github.com/dongtsi/GEAD) ⭐ 94 | 🐛 0 | 🌐 Python | 📅 2025-08-20
   * [xNIDS: Explaining Deep Learning-based Network Intrusion Detection Systems for Active Intrusion Responses](https://www.usenix.org/conference/usenixsecurity23/presentation/wei-feng). Feng Wei. `USENIX Security 2023`. [\[code\]](https://github.com/CactiLab/code-xNIDS) ⭐ 61 | 🐛 0 | 🌐 Python | 📅 2024-08-27
-  * [The Sweet Danger of Sugar: Debunking Representation Learning for Encrypted Traffic Classification](https://dl.acm.org/doi/10.1145/3718958.3750498). Yuqi Zhao. `SIGCOMM 2025`. [\[code\]](https://github.com/SmartData-Polito/Debunk_Traffic_Representation) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2025-09-10
+  * [The Sweet Danger of Sugar: Debunking Representation Learning for Encrypted Traffic Classification](https://dl.acm.org/doi/10.1145/3718958.3750498). Yuqi Zhao. `SIGCOMM 2025`. [\[code\]](https://github.com/SmartData-Polito/Debunk_Traffic_Representation) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2025-09-10
   * [AI/ML for Network Security: The Emperor has no Clothes](https://dl.acm.org/doi/10.1145/3548606.3560609). Arthur S. Jacobs. `CCS 2022`. [\[code\]](https://github.com/TrusteeML/trustee) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-08-24
   * [Understanding Web Fingerprinting with a Protocol-Centric Approach](https://dl.acm.org/doi/10.1145/3678890.3678910). Bogdan Cebere. `RAID 2024`. [\[code\]](https://github.com/bcebere/Understanding-and-Explaining-Web-Fingerprinting-with-a-Protocol-Centric-Approach) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-10-03
   * [Explainable Anomaly Detection in Network Traffic Using Normalizing Flows](https://xplorestaging.ieee.org/document/11201273). Lior Shafir. `ToN 2025`.
@@ -680,7 +680,7 @@ CISPA Helmholtz Center	德国	加密通信协议分析、网络匿名性
 # Blogs
 
 * [Awesome-ML-Security-and-Privacy-Papers](https://github.com/gnipping/Awesome-ML-SP-Papers) ⭐ 362 | 🐛 3 | 📅 2025-11-11
-* [Awesome-NTA](https://github.com/wangtz19/Awesome-NTA) ⭐ 196 | 🐛 0 | 📅 2026-04-27
+* [Awesome-NTA](https://github.com/wangtz19/Awesome-NTA) ⭐ 195 | 🐛 0 | 📅 2026-04-27
 * [Icoding\_F2014](https://blog.csdn.net/jmh1996)
 * [Malware-Traffic-Analysis](https://www.malware-traffic-analysis.net/)
 
@@ -691,12 +691,12 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 
 # Tool Libraries and Frameworks
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,134 | 🐛 57 | 🌐 C++ | 📅 2026-09-08
-* [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,506 | 🐛 11 | 🌐 C | 📅 2026-09-04
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,134 | 🐛 58 | 🌐 C++ | 📅 2026-09-09
+* [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,505 | 🐛 11 | 🌐 C | 📅 2026-09-04
 * [Joy](https://github.com/cisco/joy) ⚠️ Archived
-* [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 712 | 🐛 12 | 🌐 Java | 📅 2023-12-04
+* [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 711 | 🐛 12 | 🌐 Java | 📅 2023-12-04
 * [mercury](https://github.com/cisco/mercury) ⭐ 518 | 🐛 18 | 🌐 C++ | 📅 2026-08-26
-* [flowcontainer](https://github.com/jmhIcoding/flowcontainer) ⭐ 233 | 🐛 9 | 🌐 Python | 📅 2023-07-31
+* [flowcontainer](https://github.com/jmhIcoding/flowcontainer) ⭐ 232 | 🐛 9 | 🌐 Python | 📅 2023-07-31
 * [traffic\_classification\_utils](https://github.com/jmhIcoding/traffic_classification_utils) ⭐ 213 | 🐛 4 | 🌐 Python | 📅 2025-05-17
 * [Website-Fingerprinting-Library (WFlib)](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) ⭐ 182 | 🐛 2 | 🌐 Python | 📅 2026-07-06
 * [Encrypted-Traffic-Classification-Models](https://github.com/JieJayCao/Encrypted-Traffic-Classification-Models) ⭐ 101 | 🐛 1 | 🌐 Python | 📅 2024-12-14
@@ -758,4 +758,4 @@ Thanks goes to these wonderful people!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
