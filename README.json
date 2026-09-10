@@ -156,7 +156,7 @@
             "open_issues": 1,
             "owner": "linwhitehat",
             "repo": "ET-BERT",
-            "stars": 673,
+            "stars": 675,
             "topics": [
               "burst-analysis",
               "encrypted-traffic-analysis",
@@ -383,7 +383,7 @@
                     "open_issues": 1,
                     "owner": "linwhitehat",
                     "repo": "ET-BERT",
-                    "stars": 673,
+                    "stars": 675,
                     "topics": [
                       "burst-analysis",
                       "encrypted-traffic-analysis",
@@ -614,7 +614,7 @@
                     "open_issues": 0,
                     "owner": "dmbb",
                     "repo": "FlowLens",
-                    "stars": 42,
+                    "stars": 43,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1538,7 +1538,7 @@
                         "open_issues": 1,
                         "owner": "DecETT",
                         "repo": "DecETT",
-                        "stars": 12,
+                        "stars": 13,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2825,7 +2825,7 @@
             "open_issues": 0,
             "owner": "wangtz19",
             "repo": "Awesome-NTA",
-            "stars": 195,
+            "stars": 196,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2848,11 +2848,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-09T07:30:44Z",
-            "open_issues": 58,
+            "last_commit": "2026-09-10T09:59:58Z",
+            "open_issues": 60,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3134,
+            "stars": 3135,
             "topics": [
               "cpp",
               "dpdk",
@@ -3138,7 +3138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T11:35:04.403Z",
+    "last_updated": "2026-09-10T11:32:27.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
