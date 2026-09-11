@@ -928,7 +928,7 @@
                     "open_issues": 1,
                     "owner": "ICL-ml4csec",
                     "repo": "Mateen",
-                    "stars": 20,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2848,8 +2848,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-10T09:59:58Z",
-            "open_issues": 60,
+            "last_commit": "2026-09-11T09:43:24Z",
+            "open_issues": 56,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3135,
@@ -2894,7 +2894,7 @@
             "open_issues": 11,
             "owner": "Internet-Architecture-and-Security",
             "repo": "PacketScope",
-            "stars": 1505,
+            "stars": 1506,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3138,7 +3138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T11:32:27.857Z",
+    "last_updated": "2026-09-11T11:33:39.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
