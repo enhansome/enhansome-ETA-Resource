@@ -865,7 +865,7 @@
                     "open_issues": 2,
                     "owner": "Secbrain",
                     "repo": "Trident",
-                    "stars": 43,
+                    "stars": 44,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1720,7 +1720,7 @@
                         "open_issues": 0,
                         "owner": "royweiss1",
                         "repo": "GPT_Keylogger",
-                        "stars": 67,
+                        "stars": 66,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2367,7 +2367,7 @@
                 "open_issues": 22,
                 "owner": "ymirsky",
                 "repo": "Kitsune-py",
-                "stars": 394,
+                "stars": 395,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2848,11 +2848,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-11T09:43:24Z",
+            "last_commit": "2026-09-12T09:45:40Z",
             "open_issues": 56,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3135,
+            "stars": 3136,
             "topics": [
               "cpp",
               "dpdk",
@@ -3138,7 +3138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T11:33:39.153Z",
+    "last_updated": "2026-09-12T10:58:02.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
