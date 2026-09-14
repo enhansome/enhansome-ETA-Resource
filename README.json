@@ -156,7 +156,7 @@
             "open_issues": 1,
             "owner": "linwhitehat",
             "repo": "ET-BERT",
-            "stars": 675,
+            "stars": 677,
             "topics": [
               "burst-analysis",
               "encrypted-traffic-analysis",
@@ -383,7 +383,7 @@
                     "open_issues": 1,
                     "owner": "linwhitehat",
                     "repo": "ET-BERT",
-                    "stars": 675,
+                    "stars": 677,
                     "topics": [
                       "burst-analysis",
                       "encrypted-traffic-analysis",
@@ -460,7 +460,7 @@
                     "open_issues": 9,
                     "owner": "IDP-code",
                     "repo": "TrafficFormer",
-                    "stars": 111,
+                    "stars": 112,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -509,7 +509,7 @@
                     "open_issues": 11,
                     "owner": "ViktorAxelsen",
                     "repo": "TFE-GNN",
-                    "stars": 143,
+                    "stars": 144,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -830,6 +830,27 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Trident: A Universal Framework for Fine-Grained and Class-Incremental Unknown Traffic Detection",
+                  "description": ". Secbrain. . [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 760487157,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-06-10T17:27:05Z",
+                    "open_issues": 2,
+                    "owner": "Secbrain",
+                    "repo": "Trident",
+                    "stars": 45,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T18:50:58.398Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "AOC-IDS: Autonomous Online Framework with Contrastive Learning for Intrusion Detection",
                   "description": ". Xinchen Zhang. . [code]",
                   "children": [],
@@ -845,27 +866,6 @@
                     "owner": "xinchen930",
                     "repo": "AOC-IDS",
                     "stars": 45,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T18:50:58.398Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Trident: A Universal Framework for Fine-Grained and Class-Incremental Unknown Traffic Detection",
-                  "description": ". Secbrain. . [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 760487157,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2024-06-10T17:27:05Z",
-                    "open_issues": 2,
-                    "owner": "Secbrain",
-                    "repo": "Trident",
-                    "stars": 44,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1741,7 +1741,7 @@
                         "open_issues": 0,
                         "owner": "umass-aisec",
                         "repo": "wra",
-                        "stars": 6,
+                        "stars": 7,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2105,7 +2105,7 @@
                     "open_issues": 3,
                     "owner": "09nat",
                     "repo": "NetMasquerade",
-                    "stars": 18,
+                    "stars": 19,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2848,11 +2848,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-12T09:45:40Z",
+            "last_commit": "2026-09-14T08:49:59Z",
             "open_issues": 57,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3136,
+            "stars": 3138,
             "topics": [
               "cpp",
               "dpdk",
@@ -3138,7 +3138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T12:06:25.084Z",
+    "last_updated": "2026-09-14T13:03:39.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
