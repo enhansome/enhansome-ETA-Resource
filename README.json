@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "CESNET",
             "repo": "cesnet-datazoo",
-            "stars": 50,
+            "stars": 51,
             "topics": [
               "computer-networks",
               "datasets",
@@ -30,6 +30,27 @@
             ]
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ZLab-Traffic",
+          "description": "Plaintext-Ciphertext Mapping Encrypted Traffic Dataset Covering Website Fingerprinting and Webpage Fingerprinting 2026 🔵 New",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A plaintext–ciphertext aligned web traffic dataset with paired PCAP traces and TLS key logs for website and webpage fingerprinting, open-world evaluation, and cross-environment robustness research.",
+            "homepage": null,
+            "id": 1302224923,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-09-02T05:04:25Z",
+            "open_issues": 0,
+            "owner": "zlabtraffic",
+            "repo": "ZLab-Traffic",
+            "stars": 8,
+            "topics": []
+          },
+          "first_seen": "2026-09-16T11:49:58.010Z"
         },
         {
           "node_type": "item",
@@ -347,7 +368,7 @@
                 "open_issues": 0,
                 "owner": "aiforsec",
                 "repo": "cti-bench",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1085,6 +1106,27 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "HOLMES & WATSON: A Robust and Lightweight HTTPS Website Fingerprinting through HTTP Version Parallelism",
+                  "description": ". Yifei Cheng. . [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "The code and dataset for the paper HOLMES & WATSON: A Robust and Lightweight HTTPS Website Fingerprinting through HTTP Version Parallelism accepted in The ACM Web Conference (WWW) 2025.",
+                    "homepage": null,
+                    "id": 755006861,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-05-30T10:57:10Z",
+                    "open_issues": 0,
+                    "owner": "2654400439",
+                    "repo": "H123-Website-Fingerprinting",
+                    "stars": 18,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T18:50:58.398Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting",
                   "description": ". Yifei Cheng. . [code]",
                   "children": [],
@@ -1103,27 +1145,6 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "HOLMES & WATSON: A Robust and Lightweight HTTPS Website Fingerprinting through HTTP Version Parallelism",
-                  "description": ". Yifei Cheng. . [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "The code and dataset for the paper HOLMES & WATSON: A Robust and Lightweight HTTPS Website Fingerprinting through HTTP Version Parallelism accepted in The ACM Web Conference (WWW) 2025.",
-                    "homepage": null,
-                    "id": 755006861,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-05-30T10:57:10Z",
-                    "open_issues": 0,
-                    "owner": "2654400439",
-                    "repo": "H123-Website-Fingerprinting",
-                    "stars": 17,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T18:50:58.398Z"
                 }
               ],
               "description": null,
@@ -1137,6 +1158,48 @@
                   "title": "Tunnel and VPN",
                   "description": null,
                   "children": [
+                    {
+                      "node_type": "item",
+                      "title": "AppSniffer: Towards Robust Mobile App Fingerprinting Against VPN",
+                      "description": ". Sanghak Oh. . [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 549289831,
+                        "language": "Jupyter Notebook",
+                        "license": null,
+                        "last_commit": "2025-10-07T11:30:50Z",
+                        "open_issues": 0,
+                        "owner": "sanghakoh",
+                        "repo": "AppSniffer",
+                        "stars": 32,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T18:50:58.398Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "DecETT: Accurate App Fingerprinting Under Encrypted Tunnels via Dual Decouple-based Semantic Enhancement",
+                      "description": ". Zheyuan Gu. . [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 872761930,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2024-10-29T01:29:22Z",
+                        "open_issues": 1,
+                        "owner": "DecETT",
+                        "repo": "DecETT",
+                        "stars": 13,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T18:50:58.398Z"
+                    },
                     {
                       "node_type": "item",
                       "title": "Website Fingerprinting on Encrypted Proxies: A Flow-Context-Aware Approach and Countermeasures",
@@ -1496,55 +1559,6 @@
             },
             {
               "children": [
-                {
-                  "node_type": "group",
-                  "title": "Tunnel and VPN",
-                  "description": null,
-                  "children": [
-                    {
-                      "node_type": "item",
-                      "title": "AppSniffer: Towards Robust Mobile App Fingerprinting Against VPN",
-                      "description": ". Sanghak Oh. . [code]",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": null,
-                        "homepage": null,
-                        "id": 549289831,
-                        "language": "Jupyter Notebook",
-                        "license": null,
-                        "last_commit": "2025-10-07T11:30:50Z",
-                        "open_issues": 0,
-                        "owner": "sanghakoh",
-                        "repo": "AppSniffer",
-                        "stars": 32,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T18:50:58.398Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "DecETT: Accurate App Fingerprinting Under Encrypted Tunnels via Dual Decouple-based Semantic Enhancement",
-                      "description": ". Zheyuan Gu. . [code]",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": null,
-                        "homepage": null,
-                        "id": 872761930,
-                        "language": "Python",
-                        "license": null,
-                        "last_commit": "2024-10-29T01:29:22Z",
-                        "open_issues": 1,
-                        "owner": "DecETT",
-                        "repo": "DecETT",
-                        "stars": 13,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T18:50:58.398Z"
-                    }
-                  ]
-                },
                 {
                   "node_type": "group",
                   "title": "Mobile App",
@@ -2367,7 +2381,7 @@
                 "open_issues": 22,
                 "owner": "ymirsky",
                 "repo": "Kitsune-py",
-                "stars": 395,
+                "stars": 396,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2848,8 +2862,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-15T09:04:32Z",
-            "open_issues": 57,
+            "last_commit": "2026-09-16T08:58:12Z",
+            "open_issues": 58,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3138,
@@ -2915,7 +2929,7 @@
             "open_issues": 30,
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1367,
+            "stars": 1366,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3138,7 +3152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T11:54:39.217Z",
+    "last_updated": "2026-09-16T11:49:58.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
@@ -3146,7 +3160,7 @@
       "id": 444001545,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-07T07:26:05Z",
+      "last_commit": "2026-09-16T01:21:41Z",
       "open_issues": 1,
       "owner": "linwhitehat",
       "repo": "ETA-Resource",
@@ -3161,7 +3175,7 @@
         "survey"
       ]
     },
-    "original_repository_sha": "6520e5f6b05cba2244872700b74ca9aa29678acf",
+    "original_repository_sha": "13d574820d23b5ae98a8ab22e4c8dc88fbdbd8b0",
     "enhanced_repository": "enhansome/enhansome-ETA-Resource",
     "enhanced_repository_description": null,
     "title": "Awesome Content with stars"

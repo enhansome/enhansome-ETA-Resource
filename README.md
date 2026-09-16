@@ -40,7 +40,7 @@ SOFTWARE.
 <p align="center">
     <img src="https://img.shields.io/badge/License-MIT-brightgreen">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flinwhitehat%2FETA-Resource&label=visitor%20%20%20&labelColor=%23697689&countColor=%232ccce4&style=flat">
-    <img src="https://img.shields.io/badge/Contributors-16-blue.svg">
+    <img src="https://img.shields.io/badge/Contributors-17-blue.svg">
 </p>
 
 **Note:**
@@ -97,29 +97,30 @@ This repository offers a curated collection of research and development resource
 
 # Datasets
 
-| Dataset                                                                                                                                      | Description                                                 | Year | Status        |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---- | ------------- |
-| [Canadian Institute for Cybersecurity Datasets](https://www.unb.ca/cic/datasets/)                                                            | IoT, LLM, DNS, IDS, DoS, Darknet, Tor, VPN, Botnet, Malware | –    | 🟢 Regularly  |
-| [ANT Datasets](https://ant.isi.edu/datasets/index.html)                                                                                      | Botnet, IoT, DNS, IP Geolocation                            | –    | 🟢 Regularly  |
-| [Information Security and Object Technology Research Lab Datasets](https://onlineacademiccommunity.uvic.ca/isot/datasets/)                   | IoT, Botnet, Cloud Security                                 | –    | 🟢 Regularly  |
-| [CESNET-DataZoo](https://github.com/CESNET/cesnet-datazoo) ⭐ 50 \| 🐛 0 \| 🌐 Python \| 📅 2026-03-23                                        | QUIC,TLS                                                    | –    | 🟢 Regularly  |
-| [VisQUIC](https://github.com/robshahla/VisQUIC) ⭐ 27 \| 🐛 4 \| 🌐 Python \| 📅 2026-04-06                                                   | QUIC Traffic Captured from Different Webpages               | 2025 | 🔵 New        |
-| [CipherSpectrum](https://cspectrum.web.cse.unsw.edu.au)                                                                                      | TLS 1.3 Web-Traffic for 40 Domains                          | 2025 | 🔵 New        |
-| [NETD](https://github.com/linwhitehat/NETD) ⭐ 17 \| 🐛 1 \| 🌐 Python \| 📅 2025-10-11                                                       | Dynamic Non-I.I.D. Encrypted Traffic Dataset                | 2025 | 🔵 New        |
-| [MobileTraffic](https://github.com/Abby-ZS/NUDT_MobileTraffic) ⭐ 59 \| 🐛 2 \| 📅 2024-01-15                                                 | 300+ Mobile Apps                                            | 2024 | 🟡 No updates |
-| [Network Multiflow Fingerprinting Datasets](https://github.com/shashadehuajiang/trace_classifier) ⭐ 54 \| 🐛 7 \| 🌐 Python \| 📅 2024-03-16 | UAV, IoT Device ID, ISD, KWS, SWF                           | 2023 | 🟡 No updates |
-| [Itc-Net-Blend-60](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4661706)                                                              | Android Apps in Diverse Environments                        | 2023 | 🟡 No updates |
-| [AnonProxy2023](https://github.com/MrRobotsAA/AnonProxy2023-Dataset) ⭐ 3 \| 🐛 0 \| 📅 2024-04-18                                            | Anonymous, Proxy, VPN                                       | 2023 | 🟡 No updates |
-| [CSTNET-TLS 1.3](https://github.com/linwhitehat/ET-BERT/tree/main/datasets/CSTNET-TLS%201.3) ⭐ 677 \| 🐛 1 \| 🌐 Python \| 📅 2026-07-23     | TLS 1.3 Services                                            | 2022 | 🟡 No updates |
-| [LFETT2021 Dataset](https://github.com/HoneyPotter-Gzy/LFETT2021-dataset) ⭐ 2 \| 🐛 0 \| 📅 2023-05-08                                       | Tunnel, Proxy, VPN                                          | 2021 | 🟡 No updates |
-| [DataCon2021-Encrypted Proxy](https://datacon.qianxin.com/opendata/openpage?resourcesId=10)                                                  | Proxy, VPN                                                  | 2021 | 🟡 No updates |
-| [DAPT 2020](https://gitlab.com/asu22/dapt2020)                                                                                               | APT                                                         | 2020 | 🟡 No updates |
-| [Malware Capture Facility Project](https://www.stratosphereips.org/datasets-overview)                                                        | CTU, IoT, Malware, Botnet                                   | 2020 | 🟡 No updates |
-| [Cross-Platform](https://recon.meddle.mobi/cross-market.html) ([Backup Dataset](https://cloud.tsinghua.edu.cn/f/b00ce0c960114b59b948/))      | iOS and Android Apps                                        | 2019 | 🟡 No updates |
-| [Network-based Intrusion Detection](https://www.sciencedirect.com/science/article/pii/S016740481930118X)                                     | AWID, Botnet, CIC DoS, CTU, DARPA                           | 2019 | 🟡 No updates |
-| [Wangknn-dataset](https://github.com/kdsec/wangknn-dataset) ⭐ 7 \| 🐛 0 \| 📅 2018-07-05                                                     | Tor, Websites                                               | 2018 | 🟡 No updates |
-| [DLWF](https://github.com/DistriNet/DLWF) ⭐ 116 \| 🐛 2 \| 🌐 Python \| 📅 2023-10-09                                                        | Tor, Websites, Concept Drift, Open World                    | 2018 | 🟡 No updates |
-| [Network-Flow-of-QUIC](https://drive.google.com/drive/folders/1cwHhzvaQbi-ap8yfrj2vHyPmUTQhaYOj)                                             | QUIC Services                                               | 2017 | 🟡 No updates |
+| Dataset                                                                                                                                      | Description                                                                                                       | Year | Status        |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---- | ------------- |
+| [Canadian Institute for Cybersecurity Datasets](https://www.unb.ca/cic/datasets/)                                                            | IoT, LLM, DNS, IDS, DoS, Darknet, Tor, VPN, Botnet, Malware                                                       | –    | 🟢 Regularly  |
+| [ANT Datasets](https://ant.isi.edu/datasets/index.html)                                                                                      | Botnet, IoT, DNS, IP Geolocation                                                                                  | –    | 🟢 Regularly  |
+| [Information Security and Object Technology Research Lab Datasets](https://onlineacademiccommunity.uvic.ca/isot/datasets/)                   | IoT, Botnet, Cloud Security                                                                                       | –    | 🟢 Regularly  |
+| [CESNET-DataZoo](https://github.com/CESNET/cesnet-datazoo) ⭐ 51 \| 🐛 0 \| 🌐 Python \| 📅 2026-03-23                                        | QUIC,TLS                                                                                                          | –    | 🟢 Regularly  |
+| [ZLab-Traffic](https://github.com/zlabtraffic/ZLab-Traffic) ⭐ 8 \| 🐛 0 \| 📅 2026-09-02                                                     | Plaintext-Ciphertext Mapping Encrypted Traffic Dataset Covering Website Fingerprinting and Webpage Fingerprinting | 2026 | 🔵 New        |
+| [VisQUIC](https://github.com/robshahla/VisQUIC) ⭐ 27 \| 🐛 4 \| 🌐 Python \| 📅 2026-04-06                                                   | QUIC Traffic Captured from Different Webpages                                                                     | 2025 | 🔵 New        |
+| [CipherSpectrum](https://cspectrum.web.cse.unsw.edu.au)                                                                                      | TLS 1.3 Web-Traffic for 40 Domains                                                                                | 2025 | 🔵 New        |
+| [NETD](https://github.com/linwhitehat/NETD) ⭐ 17 \| 🐛 1 \| 🌐 Python \| 📅 2025-10-11                                                       | Dynamic Non-I.I.D. Encrypted Traffic Dataset                                                                      | 2025 | 🔵 New        |
+| [MobileTraffic](https://github.com/Abby-ZS/NUDT_MobileTraffic) ⭐ 59 \| 🐛 2 \| 📅 2024-01-15                                                 | 300+ Mobile Apps                                                                                                  | 2024 | 🟡 No updates |
+| [Network Multiflow Fingerprinting Datasets](https://github.com/shashadehuajiang/trace_classifier) ⭐ 54 \| 🐛 7 \| 🌐 Python \| 📅 2024-03-16 | UAV, IoT Device ID, ISD, KWS, SWF                                                                                 | 2023 | 🟡 No updates |
+| [Itc-Net-Blend-60](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4661706)                                                              | Android Apps in Diverse Environments                                                                              | 2023 | 🟡 No updates |
+| [AnonProxy2023](https://github.com/MrRobotsAA/AnonProxy2023-Dataset) ⭐ 3 \| 🐛 0 \| 📅 2024-04-18                                            | Anonymous, Proxy, VPN                                                                                             | 2023 | 🟡 No updates |
+| [CSTNET-TLS 1.3](https://github.com/linwhitehat/ET-BERT/tree/main/datasets/CSTNET-TLS%201.3) ⭐ 677 \| 🐛 1 \| 🌐 Python \| 📅 2026-07-23     | TLS 1.3 Services                                                                                                  | 2022 | 🟡 No updates |
+| [LFETT2021 Dataset](https://github.com/HoneyPotter-Gzy/LFETT2021-dataset) ⭐ 2 \| 🐛 0 \| 📅 2023-05-08                                       | Tunnel, Proxy, VPN                                                                                                | 2021 | 🟡 No updates |
+| [DataCon2021-Encrypted Proxy](https://datacon.qianxin.com/opendata/openpage?resourcesId=10)                                                  | Proxy, VPN                                                                                                        | 2021 | 🟡 No updates |
+| [DAPT 2020](https://gitlab.com/asu22/dapt2020)                                                                                               | APT                                                                                                               | 2020 | 🟡 No updates |
+| [Malware Capture Facility Project](https://www.stratosphereips.org/datasets-overview)                                                        | CTU, IoT, Malware, Botnet                                                                                         | 2020 | 🟡 No updates |
+| [Cross-Platform](https://recon.meddle.mobi/cross-market.html) ([Backup Dataset](https://cloud.tsinghua.edu.cn/f/b00ce0c960114b59b948/))      | iOS and Android Apps                                                                                              | 2019 | 🟡 No updates |
+| [Network-based Intrusion Detection](https://www.sciencedirect.com/science/article/pii/S016740481930118X)                                     | AWID, Botnet, CIC DoS, CTU, DARPA                                                                                 | 2019 | 🟡 No updates |
+| [Wangknn-dataset](https://github.com/kdsec/wangknn-dataset) ⭐ 7 \| 🐛 0 \| 📅 2018-07-05                                                     | Tor, Websites                                                                                                     | 2018 | 🟡 No updates |
+| [DLWF](https://github.com/DistriNet/DLWF) ⭐ 116 \| 🐛 2 \| 🌐 Python \| 📅 2023-10-09                                                        | Tor, Websites, Concept Drift, Open World                                                                          | 2018 | 🟡 No updates |
+| [Network-Flow-of-QUIC](https://drive.google.com/drive/folders/1cwHhzvaQbi-ap8yfrj2vHyPmUTQhaYOj)                                             | QUIC Services                                                                                                     | 2017 | 🟡 No updates |
 
 <!--<details>
 <summary>
@@ -177,7 +178,7 @@ Fingerprinting (SWF))(2023)
 * [The Digital Cybersecurity Expert: How Far Have We Come?](https://arxiv.org/abs/2504.11783). Dawei Wang. `S&P 2025`. [\[Report\]](https://mp.weixin.qq.com/s/0G0iJue6yJval7sYAmtFEg) [\[BenchMark\]](https://github.com/NASP-THU/CSEBenchmark) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2025-05-21
 * [SECURE: Benchmarking Large Language Models for Cybersecurity](https://ieeexplore.ieee.org/document/10917682). Dipkamal Bhusal. `ACSAC 2024`. [\[BenchMark\]](https://github.com/aiforsec/SECURE) ⭐ 17 | 🐛 1 | 📅 2024-08-28
 * [Demystifying Network Foundation Models](https://proceedings.neurips.cc/paper_files/paper/2025/file/d1a4f94ab74aa90f23238228d43ffc4c-Paper-Datasets_and_Benchmarks_Track.pdf). Sylee Beltiukov. `NeurIPS 2026`. [\[BenchMark\]](https://github.com/maybe-hello-world/demystifying-networks) ⭐ 12 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-03-20
-* [CTIBench: A Benchmark for Evaluating LLMs in Cyber Threat Intelligence](https://proceedings.neurips.cc/paper_files/paper/2024/file/5acd3c628aa1819fbf07c39ef73e7285-Paper-Datasets_and_Benchmarks_Track.pdf#:~:text=To%20bridge%20this%20gap%2C%20we,bench). Md Tanvirul Alam. `NeurIPS 2024`. [\[Evaluation\]](https://github.com/aiforsec/cti-bench) ⭐ 5 | 🐛 0 | 📅 2024-08-17 [\[BenchMark\]](https://huggingface.co/datasets/AI4Sec/cti-bench)
+* [CTIBench: A Benchmark for Evaluating LLMs in Cyber Threat Intelligence](https://proceedings.neurips.cc/paper_files/paper/2024/file/5acd3c628aa1819fbf07c39ef73e7285-Paper-Datasets_and_Benchmarks_Track.pdf#:~:text=To%20bridge%20this%20gap%2C%20we,bench). Md Tanvirul Alam. `NeurIPS 2024`. [\[Evaluation\]](https://github.com/aiforsec/cti-bench) ⭐ 6 | 🐛 0 | 📅 2024-08-17 [\[BenchMark\]](https://huggingface.co/datasets/AI4Sec/cti-bench)
 
 <!--
 * [NetBench: A Large-Scale and Comprehensive Network Traffic Benchmark Dataset for Foundation Models](https://arxiv.org/abs/2403.10319). Qian Chen. `FMSys 2024`. [[Dataset]](https://github.com/WM-JayLab/NetBench)
@@ -281,8 +282,8 @@ Fingerprinting (SWF))(2023)
 
 ### General Fingerprinting
 
+* [HOLMES & WATSON: A Robust and Lightweight HTTPS Website Fingerprinting through HTTP Version Parallelism](https://dl.acm.org/doi/10.1145/3696410.3714578). Yifei Cheng. `WWW 2025`. [\[code\]](https://github.com/2654400439/H123-Website-Fingerprinting) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2025-05-30
 * [STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting](https://arxiv.org/abs/2512.17667).  Yifei Cheng. `INFOCOM 2026`. [\[code\]](https://github.com/2654400439/STAR-Website-Fingerprinting) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-07-30
-* [HOLMES & WATSON: A Robust and Lightweight HTTPS Website Fingerprinting through HTTP Version Parallelism](https://dl.acm.org/doi/10.1145/3696410.3714578). Yifei Cheng. `WWW 2025`. [\[code\]](https://github.com/2654400439/H123-Website-Fingerprinting) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2025-05-30
 * [Time will Tell: Large-scale De-anonymization of Hidden I2P Services via Live Behavior Alignment](https://www.ndss-symposium.org/ndss2026/accepted-papers/). Hongze Wang. `NDSS 2026`.
 * [Motion in the Clear: Reconstructing VR User Behavior from Network Traffic](https://www.usenix.org/conference/usenixsecurity26/presentation/lee-jiho). JiHo Lee. `USENIX Security 2026`. [\[code\]](https://zenodo.org/records/20343460)
 * [Nüwa: Enhancing Network Traffic Analysis With Pre-Trained Side-Channel Feature Imputation](https://ieeexplore.ieee.org/abstract/document/11071392). Faqi Zhao. `ToN 2025`.
@@ -297,6 +298,8 @@ Fingerprinting (SWF))(2023)
 ### Website Fingerprinting
 
 * Tunnel and VPN
+  * [AppSniffer: Towards Robust Mobile App Fingerprinting Against VPN](https://dl.acm.org/doi/10.1145/3543507.3583473). Sanghak Oh. `WWW 2023`. [\[code\]](https://github.com/network-traffic/AppSniffer) ⭐ 32 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-10-07
+  * [DecETT: Accurate App Fingerprinting Under Encrypted Tunnels via Dual Decouple-based Semantic Enhancement](https://openreview.net/forum?id=y5tQ9BX5NW#discussion). Zheyuan Gu. `WWW 2025`. [\[code\]](https://github.com/DecETT/DecETT) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2024-10-29
   * [Website Fingerprinting on Encrypted Proxies: A Flow-Context-Aware Approach and Countermeasures](https://ieeexplore.ieee.org/abstract/document/10345509). Xiaobo Ma. `ToN 2024`. [\[code\]](https://github.com/sevensmith/context-aware-wfp) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2020-02-15
   * [Causality Correlation and Context Learning Aided  Robust Lightweight Multi-Tab Website  Fingerprinting Over Encrypted Tunnel](https://ieeexplore.ieee.org/abstract/document/10621235). Siyang Chen. `INFOCOM 2024`. [\[code\]](https://github.com/chenxiailian/robustweb) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2023-07-29 [\[data\]](https://drive.google.com/file/d/1_NvHBp4Z96UuWw5LwEEcb-WfMrOrEoDP/view?usp=drive_linkS)
   * [The Discriminative Power of Cross-layer RTTs in Fingerprinting Proxy Traffic](https://www.ndss-symposium.org/ndss-paper/the-discriminative-power-of-cross-layer-rtts-in-fingerprinting-proxy-traffic/). Diwen Xue. `NDSS 2025`.
@@ -332,9 +335,6 @@ Fingerprinting (SWF))(2023)
 
 ### App Fingerprinting
 
-* Tunnel and VPN
-  * [AppSniffer: Towards Robust Mobile App Fingerprinting Against VPN](https://dl.acm.org/doi/10.1145/3543507.3583473). Sanghak Oh. `WWW 2023`. [\[code\]](https://github.com/network-traffic/AppSniffer) ⭐ 32 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-10-07
-  * [DecETT: Accurate App Fingerprinting Under Encrypted Tunnels via Dual Decouple-based Semantic Enhancement](https://openreview.net/forum?id=y5tQ9BX5NW#discussion). Zheyuan Gu. `WWW 2025`. [\[code\]](https://github.com/DecETT/DecETT) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2024-10-29
 * Mobile App
   * [FlowPrint: Semi-Supervised Mobile-App Fingerprinting on Encrypted Network Traffic](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24412.pdf). Thijs van Ede. `NDSS 2020`. [\[code\]](https://github.com/Thijsvanede/FlowPrint) ⭐ 133 | 🐛 2 | 🌐 Python | 📅 2023-02-08
   * [Robust Smartphone App Identification via Encrypted Network Traffic Analysis](https://ieeexplore.ieee.org/document/8006282). Vincent F. Taylor. `IEEE Transactions on Information Forensics and Security (TIFS) 2018`. [\[code\]](https://github.com/vftaylor/appscanner) ⭐ 33 | 🐛 2 | 🌐 OpenEdge ABL | 📅 2017-07-03
@@ -431,7 +431,7 @@ Fingerprinting (SWF))(2023)
 
 ## Online Methods
 
-* [Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-3_Mirsky_paper.pdf). Yisroel Mirsky. `NDSS 2018`. [\[code\]](https://github.com/ymirsky/Kitsune-py) ⭐ 395 | 🐛 22 | 🌐 Python | 📅 2026-03-24
+* [Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-3_Mirsky_paper.pdf). Yisroel Mirsky. `NDSS 2018`. [\[code\]](https://github.com/ymirsky/Kitsune-py) ⭐ 396 | 🐛 22 | 🌐 Python | 📅 2026-03-24
 * [Detecting Unknown Encrypted Malicious Traffic in Real Time via Flow Interaction Graph Analysis](https://www.ndss-symposium.org/ndss-paper/detecting-unknown-encrypted-malicious-traffic-in-real-time-via-flow-interaction-graph-analysis/). Chuanpu Fu. `NDSS 2023`. [\[code\]](https://github.com/fuchuanpu/HyperVision) ⭐ 201 | 🐛 2 | 🌐 C++ | 📅 2024-05-06
 * [Brain-on-Switch: Towards Advanced Intelligent Network Data Plane via NN-Driven Traffic Analysis at Line-Speed](https://www.usenix.org/conference/nsdi24/presentation/yan). Jinzhu Yan. `NSDI 2024`. [\[code\]](https://github.com/InspiringGroup-Lab/Brain-on-Switch) ⭐ 45 | 🐛 1 | 🌐 C++ | 📅 2025-01-14
 * [FastTraffic: A lightweight method for encrypted traffic fast classification](https://www.sciencedirect.com/science/article/abs/pii/S1389128623004103). Yuwei Xu. `Computer Networks 2023`. [\[code\]](https://github.com/JieJayCao/FastTraffic) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2024-12-27
@@ -664,6 +664,7 @@ Overseas
 * [Arpit Gupta](https://sites.cs.ucsb.edu/~arpitgupta/) (University of California, Santa Barbara/United States)
 * [Maria Apostolaki](https://netsyn.princeton.edu/) (Princeton University/United States)
 * [Rachel Greenstadt](https://engineering.nyu.edu/faculty/rachel-greenstadt) (New York University/United States)
+* [Nicholas Carlini](https://nicholas.carlini.com/) (Anthropic/United States)
 
 </details>
 
@@ -691,7 +692,7 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 
 # Tool Libraries and Frameworks
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,138 | 🐛 57 | 🌐 C++ | 📅 2026-09-15
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,138 | 🐛 58 | 🌐 C++ | 📅 2026-09-16
 * [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,506 | 🐛 11 | 🌐 C | 📅 2026-09-04
 * [Joy](https://github.com/cisco/joy) ⚠️ Archived
 * [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 711 | 🐛 12 | 🌐 Java | 📅 2023-12-04
@@ -753,9 +754,10 @@ Thanks goes to these wonderful people!
   <td align="center"><a href="https://github.com/YasodGinige"><img src="https://avatars.githubusercontent.com/u/36688672?v=4" width="100px;" alt=""/><br /><sub><b>YasodGinige</b></sub></a><br /><a href="#ideas-YasodGinige" title="Ideas, Planning, & Feedback">🎯</a> <a href="https://github.com/linwhitehat/ETA-Resource/commits?author=YasodGinige" title="Documentation">📝</a></td>
   <td align="center"><a href="https://github.com/2654400439"><img src="https://avatars.githubusercontent.com/u/37297176?v=4" width="100px;" alt=""/><br /><sub><b>Yifei Cheng</b></sub></a><br /><a href="https://github.com/linwhitehat/ETA-Resource/commits?author=2654400439" title="Documentation">📝</a></td>
   <td align="center"><a href="https://github.com/swampx"><img src="https://avatars.githubusercontent.com/u/118461357?v=4" width="100px;" alt=""/><br /><sub><b>Minyuan Xiao</b></sub></a><br /><a href="https://github.com/linwhitehat/ETA-Resource/commits?author=swampx" title="Documentation">📝</a></td>
+  <td align="center"><a href="https://github.com/KorryMeng"><img src="https://avatars.githubusercontent.com/u/49736826?v=4" width="100px;" alt=""/><br /><sub><b>KorryMeng</b></sub></a><br /><a href="https://github.com/linwhitehat/ETA-Resource/commits?author=KorryMeng" title="Documentation">📝</a></td>
   </tr>
 </table>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
