@@ -177,7 +177,7 @@
             "open_issues": 1,
             "owner": "linwhitehat",
             "repo": "ET-BERT",
-            "stars": 677,
+            "stars": 678,
             "topics": [
               "burst-analysis",
               "encrypted-traffic-analysis",
@@ -404,7 +404,7 @@
                     "open_issues": 1,
                     "owner": "linwhitehat",
                     "repo": "ET-BERT",
-                    "stars": 677,
+                    "stars": 678,
                     "topics": [
                       "burst-analysis",
                       "encrypted-traffic-analysis",
@@ -712,7 +712,7 @@
                     "open_issues": 13,
                     "owner": "duowuyms",
                     "repo": "NetLLM",
-                    "stars": 205,
+                    "stars": 206,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1019,7 +1019,7 @@
                     "open_issues": 2,
                     "owner": "fuchuanpu",
                     "repo": "HyperVision",
-                    "stars": 201,
+                    "stars": 200,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1877,7 +1877,7 @@
                     "open_issues": 1,
                     "owner": "Xinhao-Deng",
                     "repo": "Adaptive-WF-Attack",
-                    "stars": 26,
+                    "stars": 28,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2084,6 +2084,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "A Hard-Label Black-Box Evasion Attack against ML-based Malicious Traffic Detection Systems",
+                  "description": ". Zixuan Liu. . [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 971924055,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-08-18T20:22:18Z",
+                    "open_issues": 3,
+                    "owner": "09nat",
+                    "repo": "NetMasquerade",
+                    "stars": 20,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T18:50:58.398Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "AdvTG: An Adversarial Traffic Generation Framework to Deceive DL-Based Malicious Traffic Detection Models",
                   "description": ". Peishuai Sun. . [code]",
                   "children": [],
@@ -2099,27 +2120,6 @@
                     "owner": "TrafficDetection-art",
                     "repo": "AdvTG",
                     "stars": 20,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T18:50:58.398Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "A Hard-Label Black-Box Evasion Attack against ML-based Malicious Traffic Detection Systems",
-                  "description": ". Zixuan Liu. . [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 971924055,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-08-18T20:22:18Z",
-                    "open_issues": 3,
-                    "owner": "09nat",
-                    "repo": "NetMasquerade",
-                    "stars": 19,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2402,7 +2402,7 @@
                 "open_issues": 2,
                 "owner": "fuchuanpu",
                 "repo": "HyperVision",
-                "stars": 201,
+                "stars": 200,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2862,8 +2862,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-16T08:58:12Z",
-            "open_issues": 58,
+            "last_commit": "2026-09-17T06:42:14Z",
+            "open_issues": 60,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3138,
@@ -3152,7 +3152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T11:49:58.010Z",
+    "last_updated": "2026-09-17T11:53:12.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
