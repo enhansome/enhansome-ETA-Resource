@@ -460,7 +460,7 @@
                     "open_issues": 2,
                     "owner": "NSSL-SJTU",
                     "repo": "YaTC",
-                    "stars": 156,
+                    "stars": 157,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1106,6 +1106,27 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting",
+                  "description": ". Yifei Cheng. . [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "The code and dataset for the paper STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting accepted in IEEE INFOCOM 2026.",
+                    "homepage": null,
+                    "id": 1028475376,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-07-30T08:05:56Z",
+                    "open_issues": 0,
+                    "owner": "2654400439",
+                    "repo": "STAR-Website-Fingerprinting",
+                    "stars": 18,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T18:50:58.398Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "HOLMES & WATSON: A Robust and Lightweight HTTPS Website Fingerprinting through HTTP Version Parallelism",
                   "description": ". Yifei Cheng. . [code]",
                   "children": [],
@@ -1121,27 +1142,6 @@
                     "owner": "2654400439",
                     "repo": "H123-Website-Fingerprinting",
                     "stars": 18,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T18:50:58.398Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting",
-                  "description": ". Yifei Cheng. . [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "The code and dataset for the paper STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting accepted in IEEE INFOCOM 2026.",
-                    "homepage": null,
-                    "id": 1028475376,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-07-30T08:05:56Z",
-                    "open_issues": 0,
-                    "owner": "2654400439",
-                    "repo": "STAR-Website-Fingerprinting",
-                    "stars": 17,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2862,11 +2862,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-17T06:42:14Z",
-            "open_issues": 60,
+            "last_commit": "2026-09-18T09:57:44Z",
+            "open_issues": 61,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3138,
+            "stars": 3139,
             "topics": [
               "cpp",
               "dpdk",
@@ -3152,7 +3152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T11:53:12.552Z",
+    "last_updated": "2026-09-18T11:29:08.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",

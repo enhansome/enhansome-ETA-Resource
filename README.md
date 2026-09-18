@@ -193,7 +193,7 @@ Fingerprinting (SWF))(2023)
 
 * [ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification](https://dl.acm.org/doi/abs/10.1145/3485447.3512217). Xinjie Lin. `WWW 2022`. [\[code\]](https://github.com/linwhitehat/et-bert) ⭐ 678 | 🐛 1 | 🌐 Python | 📅 2026-07-23 [\[Reproduce\]](https://gitee.com/xxdxxdxxd/et-bert/blob/master/README.md)
 * [NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba](https://arxiv.org/abs/2405.11449). Tongze Wang. `ICNP 2024`. [\[code\]](https://github.com/wangtz19/NetMamba) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2026-04-05
-* [Yet Another Traffic Classifier: A Masked Autoencoder Based Traffic Transformer with Multi-Level Flow Representation](https://ojs.aaai.org/index.php/AAAI/article/view/25674). Ruijie Zhao. `AAAI 2023`. [\[code\]](https://github.com/NSSL-SJTU/YaTC) ⭐ 156 | 🐛 2 | 🌐 Python | 📅 2024-04-29
+* [Yet Another Traffic Classifier: A Masked Autoencoder Based Traffic Transformer with Multi-Level Flow Representation](https://ojs.aaai.org/index.php/AAAI/article/view/25674). Ruijie Zhao. `AAAI 2023`. [\[code\]](https://github.com/NSSL-SJTU/YaTC) ⭐ 157 | 🐛 2 | 🌐 Python | 📅 2024-04-29
 * [TrafficFormer: An Efficient Pre-trained Model for Traffic Data](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a102/22K50xTq93y). Guangmeng Zhou. `S&P 2025`. [\[code\]](https://github.com/IDP-code/TrafficFormer) ⭐ 112 | 🐛 9 | 🌐 Python | 📅 2025-01-18
 * [BTRFormer: Hierarchical Learning of Encrypted Traffic Using a Masked Autoencoder with Block-Based Traffic Representation](https://ieeexplore.ieee.org/abstract/document/11192383). Junnan Yin. `ICNP 2025`. [\[code\]](https://github.com/yyyjn/BTRFormer) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2025-10-21
 * [TraGe: A Generic Packet Representation for Traffic Classification Based on Header-Payload Differences](https://arxiv.org/abs/2506.14151). Chungang Lin. `IWQoS 2025`.
@@ -282,8 +282,8 @@ Fingerprinting (SWF))(2023)
 
 ### General Fingerprinting
 
+* [STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting](https://arxiv.org/abs/2512.17667).  Yifei Cheng. `INFOCOM 2026`. [\[code\]](https://github.com/2654400439/STAR-Website-Fingerprinting) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2026-07-30
 * [HOLMES & WATSON: A Robust and Lightweight HTTPS Website Fingerprinting through HTTP Version Parallelism](https://dl.acm.org/doi/10.1145/3696410.3714578). Yifei Cheng. `WWW 2025`. [\[code\]](https://github.com/2654400439/H123-Website-Fingerprinting) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2025-05-30
-* [STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting](https://arxiv.org/abs/2512.17667).  Yifei Cheng. `INFOCOM 2026`. [\[code\]](https://github.com/2654400439/STAR-Website-Fingerprinting) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-07-30
 * [Time will Tell: Large-scale De-anonymization of Hidden I2P Services via Live Behavior Alignment](https://www.ndss-symposium.org/ndss2026/accepted-papers/). Hongze Wang. `NDSS 2026`.
 * [Motion in the Clear: Reconstructing VR User Behavior from Network Traffic](https://www.usenix.org/conference/usenixsecurity26/presentation/lee-jiho). JiHo Lee. `USENIX Security 2026`. [\[code\]](https://zenodo.org/records/20343460)
 * [Nüwa: Enhancing Network Traffic Analysis With Pre-Trained Side-Channel Feature Imputation](https://ieeexplore.ieee.org/abstract/document/11071392). Faqi Zhao. `ToN 2025`.
@@ -692,7 +692,7 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 
 # Tool Libraries and Frameworks
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,138 | 🐛 60 | 🌐 C++ | 📅 2026-09-17
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,139 | 🐛 61 | 🌐 C++ | 📅 2026-09-18
 * [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,506 | 🐛 11 | 🌐 C | 📅 2026-09-04
 * [Joy](https://github.com/cisco/joy) ⚠️ Archived
 * [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 711 | 🐛 12 | 🌐 Java | 📅 2023-12-04
@@ -760,4 +760,4 @@ Thanks goes to these wonderful people!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
