@@ -47,7 +47,7 @@
             "open_issues": 0,
             "owner": "zlabtraffic",
             "repo": "ZLab-Traffic",
-            "stars": 8,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-09-16T11:49:58.010Z"
@@ -2098,7 +2098,7 @@
                     "open_issues": 3,
                     "owner": "09nat",
                     "repo": "NetMasquerade",
-                    "stars": 20,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2862,7 +2862,7 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-18T09:57:44Z",
+            "last_commit": "2026-09-19T08:35:58Z",
             "open_issues": 61,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
@@ -3152,7 +3152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T11:29:08.980Z",
+    "last_updated": "2026-09-19T11:13:10.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
