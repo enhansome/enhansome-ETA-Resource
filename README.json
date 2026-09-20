@@ -712,7 +712,7 @@
                     "open_issues": 13,
                     "owner": "duowuyms",
                     "repo": "NetLLM",
-                    "stars": 206,
+                    "stars": 207,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2862,11 +2862,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-19T08:35:58Z",
-            "open_issues": 61,
+            "last_commit": "2026-09-20T09:43:51Z",
+            "open_issues": 58,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3139,
+            "stars": 3140,
             "topics": [
               "cpp",
               "dpdk",
@@ -3152,7 +3152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:13:10.345Z",
+    "last_updated": "2026-09-20T11:37:20.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
@@ -3164,7 +3164,7 @@
       "open_issues": 1,
       "owner": "linwhitehat",
       "repo": "ETA-Resource",
-      "stars": 392,
+      "stars": 393,
       "topics": [
         "awesome-list",
         "benchmark",
