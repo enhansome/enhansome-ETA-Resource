@@ -248,7 +248,7 @@
             "open_issues": 2,
             "owner": "DistriNet",
             "repo": "DLWF",
-            "stars": 116,
+            "stars": 117,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -754,7 +754,7 @@
                     "open_issues": 0,
                     "owner": "HongyuHe",
                     "repo": "NetNomos",
-                    "stars": 28,
+                    "stars": 29,
                     "topics": [
                       "computer-networks",
                       "formal-logic",
@@ -1322,7 +1322,7 @@
                         "open_issues": 2,
                         "owner": "DistriNet",
                         "repo": "DLWF",
-                        "stars": 116,
+                        "stars": 117,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1503,7 +1503,7 @@
                         "open_issues": 1,
                         "owner": "WW-Meng",
                         "repo": "FMWF",
-                        "stars": 9,
+                        "stars": 10,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2862,11 +2862,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-20T09:43:51Z",
-            "open_issues": 58,
+            "last_commit": "2026-09-21T07:55:02Z",
+            "open_issues": 63,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3140,
+            "stars": 3141,
             "topics": [
               "cpp",
               "dpdk",
@@ -3152,7 +3152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T11:37:20.223Z",
+    "last_updated": "2026-09-21T13:02:13.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
@@ -3164,7 +3164,7 @@
       "open_issues": 1,
       "owner": "linwhitehat",
       "repo": "ETA-Resource",
-      "stars": 393,
+      "stars": 394,
       "topics": [
         "awesome-list",
         "benchmark",

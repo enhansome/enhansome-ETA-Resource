@@ -119,7 +119,7 @@ This repository offers a curated collection of research and development resource
 | [Cross-Platform](https://recon.meddle.mobi/cross-market.html) ([Backup Dataset](https://cloud.tsinghua.edu.cn/f/b00ce0c960114b59b948/))      | iOS and Android Apps                                                                                              | 2019 | 🟡 No updates |
 | [Network-based Intrusion Detection](https://www.sciencedirect.com/science/article/pii/S016740481930118X)                                     | AWID, Botnet, CIC DoS, CTU, DARPA                                                                                 | 2019 | 🟡 No updates |
 | [Wangknn-dataset](https://github.com/kdsec/wangknn-dataset) ⭐ 7 \| 🐛 0 \| 📅 2018-07-05                                                     | Tor, Websites                                                                                                     | 2018 | 🟡 No updates |
-| [DLWF](https://github.com/DistriNet/DLWF) ⭐ 116 \| 🐛 2 \| 🌐 Python \| 📅 2023-10-09                                                        | Tor, Websites, Concept Drift, Open World                                                                          | 2018 | 🟡 No updates |
+| [DLWF](https://github.com/DistriNet/DLWF) ⭐ 117 \| 🐛 2 \| 🌐 Python \| 📅 2023-10-09                                                        | Tor, Websites, Concept Drift, Open World                                                                          | 2018 | 🟡 No updates |
 | [Network-Flow-of-QUIC](https://drive.google.com/drive/folders/1cwHhzvaQbi-ap8yfrj2vHyPmUTQhaYOj)                                             | QUIC Services                                                                                                     | 2017 | 🟡 No updates |
 
 <!--<details>
@@ -222,7 +222,7 @@ Fingerprinting (SWF))(2023)
 
 * [NetLLM: Adapting Large Language Models for Networking](https://dl.acm.org/doi/abs/10.1145/3651890.3672268). Duo Wu. `SIGCOMM 2024`. [\[code\]](https://github.com/duowuyms/NetLLM) ⭐ 207 | 🐛 13 | 🌐 Python | 📅 2024-12-07
 * [NetDiffusion: Network Data Augmentation Through Protocol-Constrained Traffic Generation](https://dl.acm.org/doi/10.1145/3639037). Xi Jiang. `SIGMETRICS 2023`. \[[code](https://github.com/noise-lab/NetDiffusion_Generator) ⭐ 86 | 🐛 3 | 🌐 Python | 📅 2025-09-20]
-* [Making Logic a First-Class Citizen in Generative ML for Networking](https://www.usenix.org/conference/nsdi26/presentation/he). Hongyu Hè. `NSDI 2026`. [\[code\]](https://github.com/HongyuHe/NetNomos) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2026-05-09
+* [Making Logic a First-Class Citizen in Generative ML for Networking](https://www.usenix.org/conference/nsdi26/presentation/he). Hongyu Hè. `NSDI 2026`. [\[code\]](https://github.com/HongyuHe/NetNomos) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-05-09
 * [Resolving Packets from Counters: Enabling Multi-scale Network Traffic Super Resolution via Composable Large Traffic Model](https://www.usenix.org/conference/nsdi25/presentation/wang-xizheng-resolving). Xizheng Wang. `NSDI 2025`. [\[code\]](https://github.com/wxzisk/ZoomSynth_NSDI2025) ⭐ 19 | 🐛 3 | 🌐 Python | 📅 2024-02-08
 
 ### Applied ML/DL
@@ -310,7 +310,7 @@ Fingerprinting (SWF))(2023)
 * Tor
   * [Deep Fingerprinting: Undermining Website Fingerprinting Defenses with Deep Learning](https://dl.acm.org/doi/abs/10.1145/3243734.3243768). Payap Sirinam. `CCS 2018`. [\[code\]](https://github.com/deep-fingerprinting/df) ⭐ 205 | 🐛 13 | 🌐 Python | 📅 2023-03-25
   * [Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis](https://arxiv.org/pdf/2407.00918). Xinhao Deng. `CCS 2024`. [\[code\]](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) ⭐ 182 | 🐛 2 | 🌐 Python | 📅 2026-07-06
-  * [Automated Website Fingerprinting through Deep Learning](https://tor-wf-dl.distrinet-research.be/Rimmer2018-DLWF.pdf). Vera Rimmer. `NDSS 2018`. [\[code\]](https://github.com/DistriNet/DLWF) ⭐ 116 | 🐛 2 | 🌐 Python | 📅 2023-10-09
+  * [Automated Website Fingerprinting through Deep Learning](https://tor-wf-dl.distrinet-research.be/Rimmer2018-DLWF.pdf). Vera Rimmer. `NDSS 2018`. [\[code\]](https://github.com/DistriNet/DLWF) ⭐ 117 | 🐛 2 | 🌐 Python | 📅 2023-10-09
   * [Tik-Tok: The Utility of Packet Timing in Website Fingerprinting Attacks](https://petsymposium.org/popets/2020/popets-2020-0043.pdf). Mohammad Saidur Rahman. `PETS 2019`. [\[code\]](https://github.com/msrocean/Tik_Tok) ⭐ 60 | 🐛 1 | 🌐 Python | 📅 2026-06-16
   * [Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning](https://dl.acm.org/doi/10.1145/3319535.3354217). Payap Sirinam. `CCS 2019`. [\[code\]](https://github.com/triplet-fingerprinting/tf) ⭐ 57 | 🐛 5 | 🌐 Python | 📅 2021-12-31
   * [Robust Multi-tab Website Fingerprinting Attacks in the Wild](https://ieeexplore.ieee.org/document/10179464). Xinhao Deng. `S&P 2023`. [\[code\]](https://github.com/Xinhao-Deng/Multitab-WF-Datasets) ⭐ 32 | 🐛 1 | 📅 2025-01-26
@@ -318,7 +318,7 @@ Fingerprinting (SWF))(2023)
   * [Countmamba: A Generalized Website Fingerprinting Attack via Coarse-Grained Representation and Fine-Grained Prediction](https://ieeexplore.ieee.org/abstract/document/11023397). Xianwen Deng. `S&P 2025`. [\[code\]](https://github.com/SJTU-dxw/CountMamba-WF) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2025-09-08
   * [Transformer-based Model for Multi-tab Website Fingerprinting Attack](https://dl.acm.org/doi/abs/10.1145/3576915.3623107). Zhaoxin Jin. `CCS 2023`. [\[code\]](https://github.com/jzx-bupt/TMWF) ⭐ 29 | 🐛 4 | 🌐 Python | 📅 2023-11-22
   * [Swallow: A Transfer-Robust Website Fingerprinting Attack via Consistent Feature Learning](https://dl.acm.org/doi/10.1145/3719027.3744795). Meng Shen. `CCS 2025`. [\[code\]](https://github.com/wujinhe0814/Swallow) ⭐ 27 | 🐛 1 | 🌐 Python | 📅 2026-03-22
-  * [Beyond Single Tabs: A Transformative Few-Shot Approach to Multi-Tab Website Fingerprinting Attacks](https://dl.acm.org/doi/10.1145/3696410.3714811). Wenwen Meng. `WWW 2025`. [\[code\]](https://github.com/WW-Meng/FMWF) ⭐ 9 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-01-17
+  * [Beyond Single Tabs: A Transformative Few-Shot Approach to Multi-Tab Website Fingerprinting Attacks](https://dl.acm.org/doi/10.1145/3696410.3714811). Wenwen Meng. `WWW 2025`. [\[code\]](https://github.com/WW-Meng/FMWF) ⭐ 10 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-01-17
   * [CELLSHIFT: RTT-Aware Trace Transduction for Real-World Website Fingerprinting](https://www.ndss-symposium.org/ndss-paper/cellshift-rtt-aware-trace-transduction-for-real-world-website-fingerprinting/). Rob Jansen. `NDSS 2026`. [\[code\]](https://github.com/robgjansen/cellshift) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2025-08-26 [\[Snapshot\]](https://zenodo.org/records/15863906)
   * [Towards Practical Few-shot Multi-tab Website Fingerprinting](https://www.usenix.org/conference/usenixsecurity26/presentation/liu-lin). Lin Liu. `USENIX Security 2026`. [\[code\]](https://github.com/nl77-seraph/MMF) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-05-27
   * [Brewing Under Pressure: More Realistic Tor Flow Correlation Considering Low FPRs](TBD). Haeseung Jeon. `CCS 2026`.
@@ -692,7 +692,7 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 
 # Tool Libraries and Frameworks
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,140 | 🐛 58 | 🌐 C++ | 📅 2026-09-20
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,141 | 🐛 63 | 🌐 C++ | 📅 2026-09-21
 * [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,506 | 🐛 11 | 🌐 C | 📅 2026-09-04
 * [Joy](https://github.com/cisco/joy) ⚠️ Archived
 * [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 711 | 🐛 12 | 🌐 Java | 📅 2023-12-04
@@ -760,4 +760,4 @@ Thanks goes to these wonderful people!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
