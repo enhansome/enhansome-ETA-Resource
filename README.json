@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-03-23T15:35:22Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "CESNET",
             "repo": "cesnet-datazoo",
             "stars": 51,
@@ -1174,7 +1174,7 @@
                         "open_issues": 0,
                         "owner": "sanghakoh",
                         "repo": "AppSniffer",
-                        "stars": 32,
+                        "stars": 33,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1894,7 +1894,7 @@
                     "id": 965518169,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2025-04-13T11:27:43Z",
+                    "last_commit": "2026-09-25T07:03:14Z",
                     "open_issues": 1,
                     "owner": "FIND-Lab",
                     "repo": "MAML-Training-ETC",
@@ -2818,7 +2818,7 @@
             "open_issues": 3,
             "owner": "gnipping",
             "repo": "Awesome-ML-SP-Papers",
-            "stars": 364,
+            "stars": 365,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2862,11 +2862,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-24T09:42:55Z",
-            "open_issues": 57,
+            "last_commit": "2026-09-25T07:38:00Z",
+            "open_issues": 59,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3143,
+            "stars": 3144,
             "topics": [
               "cpp",
               "dpdk",
@@ -2950,7 +2950,7 @@
             "open_issues": 12,
             "owner": "ahlashkari",
             "repo": "CICFlowMeter",
-            "stars": 712,
+            "stars": 713,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3152,7 +3152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T11:59:00.672Z",
+    "last_updated": "2026-09-25T12:00:06.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
