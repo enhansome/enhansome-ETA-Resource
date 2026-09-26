@@ -2862,8 +2862,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-25T07:38:00Z",
-            "open_issues": 59,
+            "last_commit": "2026-09-26T09:05:21Z",
+            "open_issues": 57,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3144,
@@ -2929,7 +2929,7 @@
             "open_issues": 30,
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1367,
+            "stars": 1366,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2971,7 +2971,7 @@
             "open_issues": 18,
             "owner": "cisco",
             "repo": "mercury",
-            "stars": 518,
+            "stars": 519,
             "topics": [
               "fingerprinting",
               "linux",
@@ -3152,7 +3152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T12:00:06.240Z",
+    "last_updated": "2026-09-26T11:34:56.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
