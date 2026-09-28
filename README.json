@@ -296,7 +296,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "The official repository of the paper \"The Digital Cybersecurity Expert: How Far Have We Come?\" presented in IEEE S&P 2025",
+                "description": "[S&P'25] The official repository of the paper \"The Digital Cybersecurity Expert: How Far Have We Come?\" presented in IEEE S&P 2025",
                 "homepage": null,
                 "id": 951090934,
                 "language": "Python",
@@ -1381,6 +1381,27 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "Realistic Website Fingerprinting By Augmenting Network Trace",
+                      "description": ". Alireza Bahramali. . [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 689047483,
+                        "language": "Jupyter Notebook",
+                        "license": "MIT",
+                        "last_commit": "2023-09-20T13:52:34Z",
+                        "open_issues": 0,
+                        "owner": "SPIN-UMass",
+                        "repo": "Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces",
+                        "stars": 33,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T18:50:58.398Z"
+                    },
+                    {
+                      "node_type": "item",
                       "title": "Robust Multi-tab Website Fingerprinting Attacks in the Wild",
                       "description": ". Xinhao Deng. . [code]",
                       "children": [],
@@ -1400,27 +1421,6 @@
                           "security-and-privacy",
                           "website-fingerprinting"
                         ]
-                      },
-                      "first_seen": "2026-08-28T18:50:58.398Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Realistic Website Fingerprinting By Augmenting Network Trace",
-                      "description": ". Alireza Bahramali. . [code]",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": null,
-                        "homepage": null,
-                        "id": 689047483,
-                        "language": "Jupyter Notebook",
-                        "license": "MIT",
-                        "last_commit": "2023-09-20T13:52:34Z",
-                        "open_issues": 0,
-                        "owner": "SPIN-UMass",
-                        "repo": "Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces",
-                        "stars": 32,
-                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -1755,7 +1755,7 @@
                         "open_issues": 0,
                         "owner": "umass-aisec",
                         "repo": "wra",
-                        "stars": 7,
+                        "stars": 8,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1856,7 +1856,7 @@
                     "open_issues": 0,
                     "owner": "SPIN-UMass",
                     "repo": "Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces",
-                    "stars": 32,
+                    "stars": 33,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2862,8 +2862,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-27T08:03:10Z",
-            "open_issues": 57,
+            "last_commit": "2026-09-28T08:19:58Z",
+            "open_issues": 60,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3144,
@@ -2929,7 +2929,7 @@
             "open_issues": 30,
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1366,
+            "stars": 1367,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3152,7 +3152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T12:13:41.641Z",
+    "last_updated": "2026-09-28T14:12:33.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
