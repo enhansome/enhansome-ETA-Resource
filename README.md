@@ -119,7 +119,7 @@ This repository offers a curated collection of research and development resource
 | [Cross-Platform](https://recon.meddle.mobi/cross-market.html) ([Backup Dataset](https://cloud.tsinghua.edu.cn/f/b00ce0c960114b59b948/))      | iOS and Android Apps                                                                                              | 2019 | 🟡 No updates |
 | [Network-based Intrusion Detection](https://www.sciencedirect.com/science/article/pii/S016740481930118X)                                     | AWID, Botnet, CIC DoS, CTU, DARPA                                                                                 | 2019 | 🟡 No updates |
 | [Wangknn-dataset](https://github.com/kdsec/wangknn-dataset) ⭐ 7 \| 🐛 0 \| 📅 2018-07-05                                                     | Tor, Websites                                                                                                     | 2018 | 🟡 No updates |
-| [DLWF](https://github.com/DistriNet/DLWF) ⭐ 117 \| 🐛 2 \| 🌐 Python \| 📅 2023-10-09                                                        | Tor, Websites, Concept Drift, Open World                                                                          | 2018 | 🟡 No updates |
+| [DLWF](https://github.com/DistriNet/DLWF) ⭐ 118 \| 🐛 2 \| 🌐 Python \| 📅 2023-10-09                                                        | Tor, Websites, Concept Drift, Open World                                                                          | 2018 | 🟡 No updates |
 | [Network-Flow-of-QUIC](https://drive.google.com/drive/folders/1cwHhzvaQbi-ap8yfrj2vHyPmUTQhaYOj)                                             | QUIC Services                                                                                                     | 2017 | 🟡 No updates |
 
 <!--<details>
@@ -196,6 +196,7 @@ Fingerprinting (SWF))(2023)
 * [Yet Another Traffic Classifier: A Masked Autoencoder Based Traffic Transformer with Multi-Level Flow Representation](https://ojs.aaai.org/index.php/AAAI/article/view/25674). Ruijie Zhao. `AAAI 2023`. [\[code\]](https://github.com/NSSL-SJTU/YaTC) ⭐ 157 | 🐛 2 | 🌐 Python | 📅 2024-04-29
 * [TrafficFormer: An Efficient Pre-trained Model for Traffic Data](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a102/22K50xTq93y). Guangmeng Zhou. `S&P 2025`. [\[code\]](https://github.com/IDP-code/TrafficFormer) ⭐ 113 | 🐛 9 | 🌐 Python | 📅 2025-01-18
 * [BTRFormer: Hierarchical Learning of Encrypted Traffic Using a Masked Autoencoder with Block-Based Traffic Representation](https://ieeexplore.ieee.org/abstract/document/11192383). Junnan Yin. `ICNP 2025`. [\[code\]](https://github.com/yyyjn/BTRFormer) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2025-10-21
+* [Tracegram: Framing Trace-Level Traffic Analysis with Temporally-Aware Multiple Instance Learning](https://www.usenix.org/conference/usenixsecurity26/presentation/qu). Jian Qu. `USENIX Security 2026`. [\[code\]](https://zenodo.org/records/17978903)
 * [TraGe: A Generic Packet Representation for Traffic Classification Based on Header-Payload Differences](https://arxiv.org/abs/2506.14151). Chungang Lin. `IWQoS 2025`.
 * [MM4flow: A Pre-trained Multi-modal Model for Versatile Network Traffic Analysis](https://dl.acm.org/doi/10.1145/3719027.3744804). Luming Yang. `CCS 2025`.
 * [MIETT: Multi-Instance Encrypted Traffic Transformer for Encrypted Traffic Classification](https://arxiv.org/abs/2412.15306). Xuyang Chen and Lu Han. `AAAI 2025`.
@@ -212,7 +213,6 @@ Fingerprinting (SWF))(2023)
 * [Enabling Efficient Flow Classification for ML-based Network Security Applications](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_7C-2_24067_paper.pdf). Diogo Barradas. `NDSS 2021`. [\[code\]](https://github.com/dmbb/FlowLens) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2021-01-16
 * [Packet Representation Learning for Traffic Classification](https://dl.acm.org/doi/10.1145/3534678.3539085). Xuying Meng. `KDD 2022`. [\[code\]](https://github.com/ict-net/PacRep) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2024-12-19
 * [MaMPF: Encrypted Traffic Classification Based on Multi-Attribute Markov Probability Fingerprints](https://ieeexplore.ieee.org/abstract/document/8624124).  Chang Liu. `IWQoS 2018`. [\[code\]](https://github.com/WSPTTH/MaMPF) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2020-07-09
-* [Tracegram: Framing Trace-Level Traffic Analysis with Temporally-Aware Multiple Instance Learning](https://www.usenix.org/conference/usenixsecurity26/presentation/qu). Jian Qu. `USENIX Security 2026`. [\[code\]](https://zenodo.org/records/17978903)
 * [FlowMiner: A Powerful Model Based on Flow Correlation Mining for Encrypted Traffic Classification](https://ieeexplore.ieee.org/document/11044724). Hongbo Xu. `INFOCOM 2025`.
 * [Flow Sequence-Based Anonymity Network Traffic Identification with Residual Graph Convolutional Networks](https://ieeexplore.ieee.org/document/9812882). Ruijie Zhao. `IWQoS 2022`.
 
@@ -310,7 +310,7 @@ Fingerprinting (SWF))(2023)
 * Tor
   * [Deep Fingerprinting: Undermining Website Fingerprinting Defenses with Deep Learning](https://dl.acm.org/doi/abs/10.1145/3243734.3243768). Payap Sirinam. `CCS 2018`. [\[code\]](https://github.com/deep-fingerprinting/df) ⭐ 205 | 🐛 13 | 🌐 Python | 📅 2023-03-25
   * [Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis](https://arxiv.org/pdf/2407.00918). Xinhao Deng. `CCS 2024`. [\[code\]](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) ⭐ 182 | 🐛 2 | 🌐 Python | 📅 2026-07-06
-  * [Automated Website Fingerprinting through Deep Learning](https://tor-wf-dl.distrinet-research.be/Rimmer2018-DLWF.pdf). Vera Rimmer. `NDSS 2018`. [\[code\]](https://github.com/DistriNet/DLWF) ⭐ 117 | 🐛 2 | 🌐 Python | 📅 2023-10-09
+  * [Automated Website Fingerprinting through Deep Learning](https://tor-wf-dl.distrinet-research.be/Rimmer2018-DLWF.pdf). Vera Rimmer. `NDSS 2018`. [\[code\]](https://github.com/DistriNet/DLWF) ⭐ 118 | 🐛 2 | 🌐 Python | 📅 2023-10-09
   * [Tik-Tok: The Utility of Packet Timing in Website Fingerprinting Attacks](https://petsymposium.org/popets/2020/popets-2020-0043.pdf). Mohammad Saidur Rahman. `PETS 2019`. [\[code\]](https://github.com/msrocean/Tik_Tok) ⭐ 60 | 🐛 1 | 🌐 Python | 📅 2026-06-16
   * [Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning](https://dl.acm.org/doi/10.1145/3319535.3354217). Payap Sirinam. `CCS 2019`. [\[code\]](https://github.com/triplet-fingerprinting/tf) ⭐ 57 | 🐛 5 | 🌐 Python | 📅 2021-12-31
   * [Realistic Website Fingerprinting By Augmenting Network Trace](https://arxiv.org/pdf/2309.10147). Alireza Bahramali. `CCS 2023`. [\[code\]](https://github.com/SPIN-UMass/Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces) ⭐ 33 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-09-20
@@ -587,6 +587,7 @@ Xi'an Jiaotong University/China
 
 * [Xiaohong Guan](https://www.xjtu.edu.cn/jsnr.jsp?wbtreeid=1632\&wbwbxjtuteacherid=502)
 * [Chao Shen](https://gr.xjtu.edu.cn/web/cshen)
+* [Xiaobo Ma](https://gr.xjtu.edu.cn/xma.cs/)
 
 </details>
 
@@ -692,10 +693,10 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 
 # Tool Libraries and Frameworks
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,145 | 🐛 60 | 🌐 C++ | 📅 2026-09-29
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,145 | 🐛 60 | 🌐 C++ | 📅 2026-09-30
 * [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,506 | 🐛 11 | 🌐 C | 📅 2026-09-04
 * [Joy](https://github.com/cisco/joy) ⚠️ Archived
-* [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 713 | 🐛 12 | 🌐 Java | 📅 2023-12-04
+* [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 712 | 🐛 12 | 🌐 Java | 📅 2023-12-04
 * [mercury](https://github.com/cisco/mercury) ⭐ 519 | 🐛 18 | 🌐 C++ | 📅 2026-08-26
 * [flowcontainer](https://github.com/jmhIcoding/flowcontainer) ⭐ 232 | 🐛 9 | 🌐 Python | 📅 2023-07-31
 * [traffic\_classification\_utils](https://github.com/jmhIcoding/traffic_classification_utils) ⭐ 213 | 🐛 4 | 🌐 Python | 📅 2025-05-17
@@ -760,4 +761,4 @@ Thanks goes to these wonderful people!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
