@@ -2862,8 +2862,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-01T11:36:49Z",
-            "open_issues": 62,
+            "last_commit": "2026-10-02T08:47:49Z",
+            "open_issues": 63,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3145,
@@ -2908,7 +2908,7 @@
             "open_issues": 11,
             "owner": "Internet-Architecture-and-Security",
             "repo": "PacketScope",
-            "stars": 1486,
+            "stars": 1456,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3152,7 +3152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T13:33:38.514Z",
+    "last_updated": "2026-10-02T12:52:33.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
@@ -3164,7 +3164,7 @@
       "open_issues": 1,
       "owner": "linwhitehat",
       "repo": "ETA-Resource",
-      "stars": 397,
+      "stars": 398,
       "topics": [
         "awesome-list",
         "benchmark",
