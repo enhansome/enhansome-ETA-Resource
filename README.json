@@ -460,7 +460,7 @@
                     "open_issues": 2,
                     "owner": "NSSL-SJTU",
                     "repo": "YaTC",
-                    "stars": 157,
+                    "stars": 156,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2805,7 +2805,7 @@
         {
           "node_type": "item",
           "title": "Awesome-ML-Security-and-Privacy-Papers",
-          "description": null,
+          "description": "gnipping/Awesome-ML-SP-Papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2826,7 +2826,7 @@
         {
           "node_type": "item",
           "title": "Awesome-NTA",
-          "description": null,
+          "description": "wangtz19/Awesome-NTA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2853,7 +2853,7 @@
         {
           "node_type": "item",
           "title": "PcapPlusPlus",
-          "description": null,
+          "description": "seladb/PcapPlusPlus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2895,7 +2895,7 @@
         {
           "node_type": "item",
           "title": "PacketScope",
-          "description": null,
+          "description": "Internet-Architecture-and-Security/PacketScope",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2916,7 +2916,7 @@
         {
           "node_type": "item",
           "title": "Joy",
-          "description": null,
+          "description": "cisco/joy",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2929,7 +2929,7 @@
             "open_issues": 30,
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1369,
+            "stars": 1368,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2937,7 +2937,7 @@
         {
           "node_type": "item",
           "title": "CICFlowMeter",
-          "description": null,
+          "description": "ahlashkari/CICFlowMeter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2958,7 +2958,7 @@
         {
           "node_type": "item",
           "title": "mercury",
-          "description": null,
+          "description": "cisco/mercury",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2985,7 +2985,7 @@
         {
           "node_type": "item",
           "title": "flowcontainer",
-          "description": null,
+          "description": "jmhIcoding/flowcontainer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3006,7 +3006,7 @@
         {
           "node_type": "item",
           "title": "traffic_classification_utils",
-          "description": null,
+          "description": "jmhIcoding/traffic_classification_utils",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3027,7 +3027,7 @@
         {
           "node_type": "item",
           "title": "Website-Fingerprinting-Library (WFlib)",
-          "description": null,
+          "description": "FIND-Lab/Website-Fingerprinting-Library",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3048,7 +3048,7 @@
         {
           "node_type": "item",
           "title": "Encrypted-Traffic-Classification-Models",
-          "description": null,
+          "description": "JieCaoSec/Encrypted-Traffic-Classification-Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3069,7 +3069,7 @@
         {
           "node_type": "item",
           "title": "NTC-Enigma",
-          "description": null,
+          "description": "nime-sha256/ntc-enigma",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3090,7 +3090,7 @@
         {
           "node_type": "item",
           "title": "LLMShark",
-          "description": null,
+          "description": "ajcasagrande/llmshark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3119,7 +3119,7 @@
         {
           "node_type": "item",
           "title": "Darkflow (DF)",
-          "description": null,
+          "description": "das-lab/darkflow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3152,7 +3152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T12:52:33.137Z",
+    "last_updated": "2026-10-03T04:27:50.219Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
