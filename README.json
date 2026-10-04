@@ -2862,11 +2862,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-03T08:32:04Z",
-            "open_issues": 63,
+            "last_commit": "2026-10-04T03:10:46Z",
+            "open_issues": 61,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3145,
+            "stars": 3144,
             "topics": [
               "cpp",
               "dpdk",
@@ -3152,7 +3152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T11:50:02.330Z",
+    "last_updated": "2026-10-04T12:34:05.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
