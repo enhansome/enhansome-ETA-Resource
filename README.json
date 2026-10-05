@@ -433,7 +433,7 @@
                     "open_issues": 0,
                     "owner": "wangtz19",
                     "repo": "NetMamba",
-                    "stars": 185,
+                    "stars": 186,
                     "topics": [
                       "mae",
                       "mamba",
@@ -593,7 +593,7 @@
                     "open_issues": 9,
                     "owner": "nprint",
                     "repo": "nprintml",
-                    "stars": 62,
+                    "stars": 61,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2862,8 +2862,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-04T03:10:46Z",
-            "open_issues": 61,
+            "last_commit": "2026-10-04T19:29:28Z",
+            "open_issues": 62,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3144,
@@ -2908,7 +2908,7 @@
             "open_issues": 11,
             "owner": "Internet-Architecture-and-Security",
             "repo": "PacketScope",
-            "stars": 1456,
+            "stars": 1457,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2971,7 +2971,7 @@
             "open_issues": 18,
             "owner": "cisco",
             "repo": "mercury",
-            "stars": 519,
+            "stars": 518,
             "topics": [
               "fingerprinting",
               "linux",
@@ -3152,7 +3152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T12:34:05.196Z",
+    "last_updated": "2026-10-05T14:59:48.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
