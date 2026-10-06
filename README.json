@@ -593,7 +593,7 @@
                     "open_issues": 9,
                     "owner": "nprint",
                     "repo": "nprintml",
-                    "stars": 61,
+                    "stars": 62,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2862,11 +2862,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-04T19:29:28Z",
-            "open_issues": 62,
+            "last_commit": "2026-10-06T09:34:20Z",
+            "open_issues": 59,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3144,
+            "stars": 3145,
             "topics": [
               "cpp",
               "dpdk",
@@ -2950,7 +2950,7 @@
             "open_issues": 12,
             "owner": "ahlashkari",
             "repo": "CICFlowMeter",
-            "stars": 712,
+            "stars": 713,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2998,7 +2998,7 @@
             "open_issues": 9,
             "owner": "jmhIcoding",
             "repo": "flowcontainer",
-            "stars": 232,
+            "stars": 233,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3152,7 +3152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T14:59:48.124Z",
+    "last_updated": "2026-10-06T10:21:47.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
