@@ -1301,7 +1301,7 @@
                         "open_issues": 2,
                         "owner": "FIND-Lab",
                         "repo": "Website-Fingerprinting-Library",
-                        "stars": 182,
+                        "stars": 183,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1524,7 +1524,7 @@
                         "open_issues": 0,
                         "owner": "robgjansen",
                         "repo": "cellshift",
-                        "stars": 5,
+                        "stars": 6,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2862,11 +2862,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-06T09:34:20Z",
-            "open_issues": 59,
+            "last_commit": "2026-10-07T08:44:19Z",
+            "open_issues": 57,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3145,
+            "stars": 3146,
             "topics": [
               "cpp",
               "dpdk",
@@ -2929,7 +2929,7 @@
             "open_issues": 30,
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1367,
+            "stars": 1366,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3040,7 +3040,7 @@
             "open_issues": 2,
             "owner": "FIND-Lab",
             "repo": "Website-Fingerprinting-Library",
-            "stars": 182,
+            "stars": 183,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3103,7 +3103,7 @@
             "open_issues": 0,
             "owner": "ajcasagrande",
             "repo": "llmshark",
-            "stars": 20,
+            "stars": 21,
             "topics": [
               "analysis",
               "http",
@@ -3152,7 +3152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T13:26:46.644Z",
+    "last_updated": "2026-10-07T13:37:58.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
