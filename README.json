@@ -177,7 +177,7 @@
             "open_issues": 2,
             "owner": "linwhitehat",
             "repo": "ET-BERT",
-            "stars": 679,
+            "stars": 680,
             "topics": [
               "burst-analysis",
               "encrypted-traffic-analysis",
@@ -404,7 +404,7 @@
                     "open_issues": 2,
                     "owner": "linwhitehat",
                     "repo": "ET-BERT",
-                    "stars": 679,
+                    "stars": 680,
                     "topics": [
                       "burst-analysis",
                       "encrypted-traffic-analysis",
@@ -433,7 +433,7 @@
                     "open_issues": 0,
                     "owner": "wangtz19",
                     "repo": "NetMamba",
-                    "stars": 186,
+                    "stars": 187,
                     "topics": [
                       "mae",
                       "mamba",
@@ -460,7 +460,7 @@
                     "open_issues": 2,
                     "owner": "NSSL-SJTU",
                     "repo": "YaTC",
-                    "stars": 156,
+                    "stars": 158,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -551,7 +551,7 @@
                     "open_issues": 14,
                     "owner": "WSPTTH",
                     "repo": "FS-Net",
-                    "stars": 129,
+                    "stars": 130,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1877,7 +1877,7 @@
                     "open_issues": 1,
                     "owner": "Xinhao-Deng",
                     "repo": "Adaptive-WF-Attack",
-                    "stars": 28,
+                    "stars": 29,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2862,7 +2862,7 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-07T08:44:19Z",
+            "last_commit": "2026-10-08T08:26:59Z",
             "open_issues": 57,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
@@ -2929,7 +2929,7 @@
             "open_issues": 30,
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1366,
+            "stars": 1367,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3152,7 +3152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T13:37:58.068Z",
+    "last_updated": "2026-10-08T13:44:49.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
