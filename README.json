@@ -177,7 +177,7 @@
             "open_issues": 2,
             "owner": "linwhitehat",
             "repo": "ET-BERT",
-            "stars": 680,
+            "stars": 679,
             "topics": [
               "burst-analysis",
               "encrypted-traffic-analysis",
@@ -404,7 +404,7 @@
                     "open_issues": 2,
                     "owner": "linwhitehat",
                     "repo": "ET-BERT",
-                    "stars": 680,
+                    "stars": 679,
                     "topics": [
                       "burst-analysis",
                       "encrypted-traffic-analysis",
@@ -1040,7 +1040,7 @@
                     "open_issues": 2,
                     "owner": "fuchuanpu",
                     "repo": "HyperVision",
-                    "stars": 200,
+                    "stars": 201,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1319,7 +1319,7 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-07-06T15:06:19Z",
-                        "open_issues": 2,
+                        "open_issues": 1,
                         "owner": "FIND-Lab",
                         "repo": "Website-Fingerprinting-Library",
                         "stars": 184,
@@ -2161,7 +2161,7 @@
                     "open_issues": 2,
                     "owner": "InspiringGroup-NeoLab",
                     "repo": "CertTA",
-                    "stars": 18,
+                    "stars": 19,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2444,7 +2444,7 @@
                 "open_issues": 2,
                 "owner": "fuchuanpu",
                 "repo": "HyperVision",
-                "stars": 200,
+                "stars": 201,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2794,7 +2794,7 @@
                 "open_issues": 2,
                 "owner": "CuiTianyu961030",
                 "repo": "SiamHAN",
-                "stars": 18,
+                "stars": 19,
                 "topics": [
                   "graph-attention-networks",
                   "graph-neural-networks",
@@ -2905,7 +2905,7 @@
             "language": "C++",
             "license": "Unlicense",
             "last_commit": "2026-10-10T07:57:58Z",
-            "open_issues": 61,
+            "open_issues": 66,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3146,
@@ -3079,7 +3079,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-06T15:06:19Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "FIND-Lab",
             "repo": "Website-Fingerprinting-Library",
             "stars": 184,
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T12:44:40.069Z",
+    "last_updated": "2026-10-11T13:07:40.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
