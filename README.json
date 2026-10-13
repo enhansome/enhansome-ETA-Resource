@@ -174,10 +174,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-23T09:04:52Z",
-            "open_issues": 2,
+            "open_issues": 0,
             "owner": "linwhitehat",
             "repo": "ET-BERT",
-            "stars": 680,
+            "stars": 679,
             "topics": [
               "burst-analysis",
               "encrypted-traffic-analysis",
@@ -401,10 +401,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-07-23T09:04:52Z",
-                    "open_issues": 2,
+                    "open_issues": 0,
                     "owner": "linwhitehat",
                     "repo": "ET-BERT",
-                    "stars": 680,
+                    "stars": 679,
                     "topics": [
                       "burst-analysis",
                       "encrypted-traffic-analysis",
@@ -460,7 +460,7 @@
                     "open_issues": 2,
                     "owner": "NSSL-SJTU",
                     "repo": "YaTC",
-                    "stars": 158,
+                    "stars": 157,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -519,7 +519,7 @@
                     "id": 1378103711,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-10-11T14:29:31Z",
+                    "last_commit": "2026-10-13T03:20:29Z",
                     "open_issues": 0,
                     "owner": "lincgcg",
                     "repo": "Nepco",
@@ -733,7 +733,7 @@
                     "open_issues": 13,
                     "owner": "duowuyms",
                     "repo": "NetLLM",
-                    "stars": 207,
+                    "stars": 208,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -754,7 +754,7 @@
                     "open_issues": 3,
                     "owner": "noise-lab",
                     "repo": "NetDiffusion",
-                    "stars": 86,
+                    "stars": 87,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1286,7 +1286,7 @@
                         "open_issues": 13,
                         "owner": "deep-fingerprinting",
                         "repo": "df",
-                        "stars": 205,
+                        "stars": 204,
                         "topics": [
                           "automated-feature-engineering",
                           "cnn-classification",
@@ -1503,7 +1503,7 @@
                         "open_issues": 1,
                         "owner": "wujinhe0814",
                         "repo": "Swallow",
-                        "stars": 27,
+                        "stars": 28,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1566,7 +1566,7 @@
                         "open_issues": 0,
                         "owner": "nl77-seraph",
                         "repo": "MMF",
-                        "stars": 1,
+                        "stars": 2,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2140,7 +2140,7 @@
                     "open_issues": 0,
                     "owner": "TrafficDetection-art",
                     "repo": "AdvTG",
-                    "stars": 20,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2881,7 +2881,7 @@
             "open_issues": 0,
             "owner": "wangtz19",
             "repo": "Awesome-NTA",
-            "stars": 197,
+            "stars": 196,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2904,11 +2904,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-12T01:35:41Z",
-            "open_issues": 62,
+            "last_commit": "2026-10-13T08:04:44Z",
+            "open_issues": 60,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3146,
+            "stars": 3148,
             "topics": [
               "cpp",
               "dpdk",
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T15:46:10.988Z",
+    "last_updated": "2026-10-13T14:24:21.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
@@ -3206,7 +3206,7 @@
       "open_issues": 1,
       "owner": "linwhitehat",
       "repo": "ETA-Resource",
-      "stars": 398,
+      "stars": 397,
       "topics": [
         "awesome-list",
         "benchmark",
