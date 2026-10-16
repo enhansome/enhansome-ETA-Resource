@@ -433,7 +433,7 @@
                     "open_issues": 0,
                     "owner": "wangtz19",
                     "repo": "NetMamba",
-                    "stars": 188,
+                    "stars": 189,
                     "topics": [
                       "mae",
                       "mamba",
@@ -1566,7 +1566,7 @@
                         "open_issues": 0,
                         "owner": "nl77-seraph",
                         "repo": "MMF",
-                        "stars": 2,
+                        "stars": 3,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1947,7 +1947,7 @@
                     "open_issues": 1,
                     "owner": "FIND-Lab",
                     "repo": "RAPIER",
-                    "stars": 67,
+                    "stars": 68,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2423,7 +2423,7 @@
                 "open_issues": 22,
                 "owner": "ymirsky",
                 "repo": "Kitsune-py",
-                "stars": 398,
+                "stars": 397,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2860,7 +2860,7 @@
             "open_issues": 3,
             "owner": "gnipping",
             "repo": "Awesome-ML-SP-Papers",
-            "stars": 367,
+            "stars": 368,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2881,7 +2881,7 @@
             "open_issues": 0,
             "owner": "wangtz19",
             "repo": "Awesome-NTA",
-            "stars": 197,
+            "stars": 198,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2904,11 +2904,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-15T09:02:10Z",
+            "last_commit": "2026-10-16T11:25:47Z",
             "open_issues": 58,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3149,
+            "stars": 3150,
             "topics": [
               "cpp",
               "dpdk",
@@ -2992,7 +2992,7 @@
             "open_issues": 12,
             "owner": "ahlashkari",
             "repo": "CICFlowMeter",
-            "stars": 713,
+            "stars": 714,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T11:44:51.296Z",
+    "last_updated": "2026-10-16T11:39:07.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",

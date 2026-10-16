@@ -192,7 +192,7 @@ Fingerprinting (SWF))(2023)
 ### Applied Pre-training/LLMs
 
 * [ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification](https://dl.acm.org/doi/abs/10.1145/3485447.3512217). Xinjie Lin. `WWW 2022`. [\[code\]](https://github.com/linwhitehat/et-bert) ⭐ 679 | 🐛 0 | 🌐 Python | 📅 2026-07-23 [\[Reproduce\]](https://gitee.com/xxdxxdxxd/et-bert/blob/master/README.md)
-* [NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba](https://arxiv.org/abs/2405.11449). Tongze Wang. `ICNP 2024`. [\[code\]](https://github.com/wangtz19/NetMamba) ⭐ 188 | 🐛 0 | 🌐 Python | 📅 2026-04-05
+* [NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba](https://arxiv.org/abs/2405.11449). Tongze Wang. `ICNP 2024`. [\[code\]](https://github.com/wangtz19/NetMamba) ⭐ 189 | 🐛 0 | 🌐 Python | 📅 2026-04-05
 * [Yet Another Traffic Classifier: A Masked Autoencoder Based Traffic Transformer with Multi-Level Flow Representation](https://ojs.aaai.org/index.php/AAAI/article/view/25674). Ruijie Zhao. `AAAI 2023`. [\[code\]](https://github.com/NSSL-SJTU/YaTC) ⭐ 157 | 🐛 2 | 🌐 Python | 📅 2024-04-29
 * [TrafficFormer: An Efficient Pre-trained Model for Traffic Data](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a102/22K50xTq93y). Guangmeng Zhou. `S&P 2025`. [\[code\]](https://github.com/IDP-code/TrafficFormer) ⭐ 114 | 🐛 9 | 🌐 Python | 📅 2025-01-18
 * [BTRFormer: Hierarchical Learning of Encrypted Traffic Using a Masked Autoencoder with Block-Based Traffic Representation](https://ieeexplore.ieee.org/abstract/document/11192383). Junnan Yin. `ICNP 2025`. [\[code\]](https://github.com/yyyjn/BTRFormer) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2025-10-21
@@ -321,7 +321,7 @@ Fingerprinting (SWF))(2023)
   * [Swallow: A Transfer-Robust Website Fingerprinting Attack via Consistent Feature Learning](https://dl.acm.org/doi/10.1145/3719027.3744795). Meng Shen. `CCS 2025`. [\[code\]](https://github.com/wujinhe0814/Swallow) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2026-03-22
   * [Beyond Single Tabs: A Transformative Few-Shot Approach to Multi-Tab Website Fingerprinting Attacks](https://dl.acm.org/doi/10.1145/3696410.3714811). Wenwen Meng. `WWW 2025`. [\[code\]](https://github.com/WW-Meng/FMWF) ⭐ 10 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-01-17
   * [CELLSHIFT: RTT-Aware Trace Transduction for Real-World Website Fingerprinting](https://www.ndss-symposium.org/ndss-paper/cellshift-rtt-aware-trace-transduction-for-real-world-website-fingerprinting/). Rob Jansen. `NDSS 2026`. [\[code\]](https://github.com/robgjansen/cellshift) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2025-08-26 [\[Snapshot\]](https://zenodo.org/records/15863906)
-  * [Towards Practical Few-shot Multi-tab Website Fingerprinting](https://www.usenix.org/conference/usenixsecurity26/presentation/liu-lin). Lin Liu. `USENIX Security 2026`. [\[code\]](https://github.com/nl77-seraph/MMF) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-05-27
+  * [Towards Practical Few-shot Multi-tab Website Fingerprinting](https://www.usenix.org/conference/usenixsecurity26/presentation/liu-lin). Lin Liu. `USENIX Security 2026`. [\[code\]](https://github.com/nl77-seraph/MMF) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-05-27
   * [Brewing Under Pressure: More Realistic Tor Flow Correlation Considering Low FPRs](TBD). Haeseung Jeon. `CCS 2026`.
   * [Descriptors of Exposure: Undermining Tor Anonymity Through Exploiting Descriptor Flood](https://doi.org/10.1109/SP63933.2026.00071). Chunmian Wang. `S&P 2026`.
   * [Enhancing Search Privacy on Tor: Advanced Deep Keyword Fingerprinting Attacks and BurstGuard Defense](https://dl.acm.org/doi/abs/10.1145/3708821.3733914). Chaiwon Hwang. `ASIA CCS 2025`.
@@ -385,7 +385,7 @@ Fingerprinting (SWF))(2023)
   * [Zero-relabelling mobile-app identification over drifted encrypted network traffic](https://doi.org/10.1016/j.comnet.2023.109728). Minghao Jiang. `Computer Networks 2023`.
   * [Accurate mobile-app fingerprinting using flow-level relationship with graph neural networks](https://www.sciencedirect.com/science/article/pii/S1389128622003577). Minghao Jiang. `Computer Networks 2022`.
 * Few-shot/Zero-shot/Imbalance
-  * [Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic](https://www.ndss-symposium.org/ndss-paper/low-quality-training-data-only-a-robust-framework-for-detecting-encrypted-malicious-network-traffic/). Yuqi Qing. `NDSS 2024`. [\[code\]](https://github.com/XXnormal/RAPIER) ⭐ 67 | 🐛 1 | 🌐 Python | 📅 2025-01-07
+  * [Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic](https://www.ndss-symposium.org/ndss-paper/low-quality-training-data-only-a-robust-framework-for-detecting-encrypted-malicious-network-traffic/). Yuqi Qing. `NDSS 2024`. [\[code\]](https://github.com/XXnormal/RAPIER) ⭐ 68 | 🐛 1 | 🌐 Python | 📅 2025-01-07
   * [Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning](https://dl.acm.org/doi/abs/10.1145/3319535.3354217). Payap Sirinam. `CCS 2019`. [\[code\]](https://github.com/triplet-fingerprinting/tf) ⭐ 57 | 🐛 5 | 🌐 Python | 📅 2021-12-31 (N-shot Learning)
   * [A Few Shots Traffic Classification with mini-FlowPic Augmentations](https://dl.acm.org/doi/10.1145/3517745.3561436). Eyal Horowicz. `IMC 2022`. [\[code\]](https://github.com/eyalho/mini-flowpic-traffic-classification) ⭐ 8 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2025-04-15
   * [CETP: A Novel Semi-Supervised Framework Based on Contrastive Pre-Training for Imbalanced Encrypted Traffic Classification](https://www.sciencedirect.com/science/article/abs/pii/S0167404824001949). Xinjie Lin. `Computers & Security (ComSec) 2024`.
@@ -433,7 +433,7 @@ Fingerprinting (SWF))(2023)
 
 ## Online Methods
 
-* [Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-3_Mirsky_paper.pdf). Yisroel Mirsky. `NDSS 2018`. [\[code\]](https://github.com/ymirsky/Kitsune-py) ⭐ 398 | 🐛 22 | 🌐 Python | 📅 2026-03-24
+* [Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-3_Mirsky_paper.pdf). Yisroel Mirsky. `NDSS 2018`. [\[code\]](https://github.com/ymirsky/Kitsune-py) ⭐ 397 | 🐛 22 | 🌐 Python | 📅 2026-03-24
 * [Detecting Unknown Encrypted Malicious Traffic in Real Time via Flow Interaction Graph Analysis](https://www.ndss-symposium.org/ndss-paper/detecting-unknown-encrypted-malicious-traffic-in-real-time-via-flow-interaction-graph-analysis/). Chuanpu Fu. `NDSS 2023`. [\[code\]](https://github.com/fuchuanpu/HyperVision) ⭐ 203 | 🐛 2 | 🌐 C++ | 📅 2024-05-06
 * [Brain-on-Switch: Towards Advanced Intelligent Network Data Plane via NN-Driven Traffic Analysis at Line-Speed](https://www.usenix.org/conference/nsdi24/presentation/yan). Jinzhu Yan. `NSDI 2024`. [\[code\]](https://github.com/InspiringGroup-Lab/Brain-on-Switch) ⭐ 46 | 🐛 1 | 🌐 C++ | 📅 2025-01-14
 * [FastTraffic: A lightweight method for encrypted traffic fast classification](https://www.sciencedirect.com/science/article/abs/pii/S1389128623004103). Yuwei Xu. `Computer Networks 2023`. [\[code\]](https://github.com/JieJayCao/FastTraffic) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2024-12-27
@@ -683,8 +683,8 @@ CISPA Helmholtz Center	德国	加密通信协议分析、网络匿名性
 
 # Blogs
 
-* [Awesome-ML-Security-and-Privacy-Papers](https://github.com/gnipping/Awesome-ML-SP-Papers) ⭐ 367 | 🐛 3 | 📅 2025-11-11
-* [Awesome-NTA](https://github.com/wangtz19/Awesome-NTA) ⭐ 197 | 🐛 0 | 📅 2026-04-27
+* [Awesome-ML-Security-and-Privacy-Papers](https://github.com/gnipping/Awesome-ML-SP-Papers) ⭐ 368 | 🐛 3 | 📅 2025-11-11
+* [Awesome-NTA](https://github.com/wangtz19/Awesome-NTA) ⭐ 198 | 🐛 0 | 📅 2026-04-27
 * [Icoding\_F2014](https://blog.csdn.net/jmh1996)
 * [Malware-Traffic-Analysis](https://www.malware-traffic-analysis.net/)
 
@@ -695,10 +695,10 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 
 # Tool Libraries and Frameworks
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,149 | 🐛 58 | 🌐 C++ | 📅 2026-10-15
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,150 | 🐛 58 | 🌐 C++ | 📅 2026-10-16
 * [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,458 | 🐛 11 | 🌐 C | 📅 2026-09-04
 * [Joy](https://github.com/cisco/joy) ⚠️ Archived
-* [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 713 | 🐛 12 | 🌐 Java | 📅 2023-12-04
+* [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 714 | 🐛 12 | 🌐 Java | 📅 2023-12-04
 * [mercury](https://github.com/cisco/mercury) ⭐ 519 | 🐛 16 | 🌐 C++ | 📅 2026-10-09
 * [flowcontainer](https://github.com/jmhIcoding/flowcontainer) ⭐ 233 | 🐛 9 | 🌐 Python | 📅 2023-07-31
 * [traffic\_classification\_utils](https://github.com/jmhIcoding/traffic_classification_utils) ⭐ 213 | 🐛 4 | 🌐 Python | 📅 2025-05-17
@@ -763,4 +763,4 @@ Thanks goes to these wonderful people!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
