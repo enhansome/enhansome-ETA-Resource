@@ -47,7 +47,7 @@
             "open_issues": 0,
             "owner": "zlabtraffic",
             "repo": "ZLab-Traffic",
-            "stars": 16,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-09-16T11:49:58.010Z"
@@ -68,7 +68,7 @@
             "open_issues": 4,
             "owner": "robshahla",
             "repo": "VisQUIC",
-            "stars": 27,
+            "stars": 28,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2119,7 +2119,7 @@
                     "open_issues": 3,
                     "owner": "09nat",
                     "repo": "NetMasquerade",
-                    "stars": 23,
+                    "stars": 24,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2904,11 +2904,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-16T11:55:17Z",
+            "last_commit": "2026-10-19T08:28:26Z",
             "open_issues": 59,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3157,
+            "stars": 3158,
             "topics": [
               "cpp",
               "dpdk",
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T11:24:48.270Z",
+    "last_updated": "2026-10-19T13:39:59.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
@@ -3206,7 +3206,7 @@
       "open_issues": 1,
       "owner": "linwhitehat",
       "repo": "ETA-Resource",
-      "stars": 398,
+      "stars": 400,
       "topics": [
         "awesome-list",
         "benchmark",
