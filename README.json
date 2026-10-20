@@ -47,7 +47,7 @@
             "open_issues": 0,
             "owner": "zlabtraffic",
             "repo": "ZLab-Traffic",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-09-16T11:49:58.010Z"
@@ -89,7 +89,7 @@
             "open_issues": 1,
             "owner": "linwhitehat",
             "repo": "NETD",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "dataset-generation",
               "encrypted-traffic-analysis",
@@ -830,7 +830,7 @@
                     "open_issues": 1,
                     "owner": "netsharecmu",
                     "repo": "NetShare",
-                    "stars": 100,
+                    "stars": 101,
                     "topics": [
                       "differential-privacy",
                       "differential-privacy-deep-learning",
@@ -2860,7 +2860,7 @@
             "open_issues": 3,
             "owner": "gnipping",
             "repo": "Awesome-ML-SP-Papers",
-            "stars": 368,
+            "stars": 367,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2881,7 +2881,7 @@
             "open_issues": 0,
             "owner": "wangtz19",
             "repo": "Awesome-NTA",
-            "stars": 198,
+            "stars": 199,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3013,7 +3013,7 @@
             "open_issues": 16,
             "owner": "cisco",
             "repo": "mercury",
-            "stars": 520,
+            "stars": 521,
             "topics": [
               "fingerprinting",
               "linux",
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T13:39:59.307Z",
+    "last_updated": "2026-10-20T11:51:56.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
