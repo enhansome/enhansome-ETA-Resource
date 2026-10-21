@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "CESNET",
             "repo": "cesnet-datazoo",
-            "stars": 52,
+            "stars": 53,
             "topics": [
               "computer-networks",
               "datasets",
@@ -2904,11 +2904,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-19T08:28:26Z",
-            "open_issues": 59,
+            "last_commit": "2026-10-21T07:44:11Z",
+            "open_issues": 68,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3158,
+            "stars": 3157,
             "topics": [
               "cpp",
               "dpdk",
@@ -2971,7 +2971,7 @@
             "open_issues": 30,
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1367,
+            "stars": 1366,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T11:51:56.934Z",
+    "last_updated": "2026-10-21T12:04:08.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
