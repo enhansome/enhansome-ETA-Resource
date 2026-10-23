@@ -481,7 +481,7 @@
                     "open_issues": 9,
                     "owner": "IDP-code",
                     "repo": "TrafficFormer",
-                    "stars": 114,
+                    "stars": 115,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1082,7 +1082,7 @@
                     "open_issues": 0,
                     "owner": "fuchuanpu",
                     "repo": "pVoxel",
-                    "stars": 23,
+                    "stars": 24,
                     "topics": [
                       "security",
                       "traffic-analysis"
@@ -1856,7 +1856,7 @@
                     "open_issues": 0,
                     "owner": "dongtsi",
                     "repo": "OWAD",
-                    "stars": 78,
+                    "stars": 79,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2066,7 +2066,7 @@
                     "open_issues": 1,
                     "owner": "sunskyXX",
                     "repo": "Rosetta",
-                    "stars": 60,
+                    "stars": 61,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2860,7 +2860,7 @@
             "open_issues": 3,
             "owner": "gnipping",
             "repo": "Awesome-ML-SP-Papers",
-            "stars": 367,
+            "stars": 366,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2904,11 +2904,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-22T11:22:37Z",
-            "open_issues": 71,
+            "last_commit": "2026-10-23T08:07:42Z",
+            "open_issues": 68,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3158,
+            "stars": 3159,
             "topics": [
               "cpp",
               "dpdk",
@@ -2992,7 +2992,7 @@
             "open_issues": 12,
             "owner": "ahlashkari",
             "repo": "CICFlowMeter",
-            "stars": 714,
+            "stars": 715,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T12:06:52.854Z",
+    "last_updated": "2026-10-23T11:50:46.750Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
