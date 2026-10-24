@@ -1322,7 +1322,7 @@
                         "open_issues": 1,
                         "owner": "FIND-Lab",
                         "repo": "Website-Fingerprinting-Library",
-                        "stars": 184,
+                        "stars": 185,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1364,7 +1364,7 @@
                         "open_issues": 1,
                         "owner": "msrocean",
                         "repo": "Tik_Tok",
-                        "stars": 60,
+                        "stars": 61,
                         "topics": [
                           "attacks",
                           "deep-learning",
@@ -1898,7 +1898,7 @@
                     "open_issues": 1,
                     "owner": "Xinhao-Deng",
                     "repo": "Adaptive-WF-Attack",
-                    "stars": 29,
+                    "stars": 30,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3082,7 +3082,7 @@
             "open_issues": 1,
             "owner": "FIND-Lab",
             "repo": "Website-Fingerprinting-Library",
-            "stars": 184,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T11:50:46.750Z",
+    "last_updated": "2026-10-24T11:18:08.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
