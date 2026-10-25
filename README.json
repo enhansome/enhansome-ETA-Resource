@@ -1416,7 +1416,7 @@
                         "open_issues": 0,
                         "owner": "SPIN-UMass",
                         "repo": "Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces",
-                        "stars": 33,
+                        "stars": 34,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1877,7 +1877,7 @@
                     "open_issues": 0,
                     "owner": "SPIN-UMass",
                     "repo": "Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2423,7 +2423,7 @@
                 "open_issues": 22,
                 "owner": "ymirsky",
                 "repo": "Kitsune-py",
-                "stars": 399,
+                "stars": 400,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2904,8 +2904,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-23T08:07:42Z",
-            "open_issues": 68,
+            "last_commit": "2026-10-25T10:48:19Z",
+            "open_issues": 66,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3159,
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T11:18:08.414Z",
+    "last_updated": "2026-10-25T11:47:50.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
