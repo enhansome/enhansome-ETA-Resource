@@ -177,7 +177,7 @@
             "open_issues": 0,
             "owner": "linwhitehat",
             "repo": "ET-BERT",
-            "stars": 680,
+            "stars": 681,
             "topics": [
               "burst-analysis",
               "encrypted-traffic-analysis",
@@ -404,7 +404,7 @@
                     "open_issues": 0,
                     "owner": "linwhitehat",
                     "repo": "ET-BERT",
-                    "stars": 680,
+                    "stars": 681,
                     "topics": [
                       "burst-analysis",
                       "encrypted-traffic-analysis",
@@ -460,7 +460,7 @@
                     "open_issues": 2,
                     "owner": "NSSL-SJTU",
                     "repo": "YaTC",
-                    "stars": 157,
+                    "stars": 158,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -481,7 +481,7 @@
                     "open_issues": 9,
                     "owner": "IDP-code",
                     "repo": "TrafficFormer",
-                    "stars": 115,
+                    "stars": 116,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -593,7 +593,7 @@
                     "open_issues": 9,
                     "owner": "ViktorAxelsen",
                     "repo": "MH-Net",
-                    "stars": 80,
+                    "stars": 81,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2904,8 +2904,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-25T10:48:19Z",
-            "open_issues": 66,
+            "last_commit": "2026-10-26T07:47:19Z",
+            "open_issues": 64,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3159,
@@ -3061,7 +3061,7 @@
             "open_issues": 4,
             "owner": "jmhIcoding",
             "repo": "traffic_classification_utils",
-            "stars": 213,
+            "stars": 214,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T11:47:50.237Z",
+    "last_updated": "2026-10-26T13:20:12.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
@@ -3206,7 +3206,7 @@
       "open_issues": 1,
       "owner": "linwhitehat",
       "repo": "ETA-Resource",
-      "stars": 401,
+      "stars": 403,
       "topics": [
         "awesome-list",
         "benchmark",
