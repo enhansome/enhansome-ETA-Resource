@@ -385,7 +385,7 @@ Fingerprinting (SWF))(2023)
   * [Zero-relabelling mobile-app identification over drifted encrypted network traffic](https://doi.org/10.1016/j.comnet.2023.109728). Minghao Jiang. `Computer Networks 2023`.
   * [Accurate mobile-app fingerprinting using flow-level relationship with graph neural networks](https://www.sciencedirect.com/science/article/pii/S1389128622003577). Minghao Jiang. `Computer Networks 2022`.
 * Few-shot/Zero-shot/Imbalance
-  * [Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic](https://www.ndss-symposium.org/ndss-paper/low-quality-training-data-only-a-robust-framework-for-detecting-encrypted-malicious-network-traffic/). Yuqi Qing. `NDSS 2024`. [\[code\]](https://github.com/XXnormal/RAPIER) ⭐ 68 | 🐛 1 | 🌐 Python | 📅 2025-01-07
+  * [Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic](https://www.ndss-symposium.org/ndss-paper/low-quality-training-data-only-a-robust-framework-for-detecting-encrypted-malicious-network-traffic/). Yuqi Qing. `NDSS 2024`. [\[code\]](https://github.com/XXnormal/RAPIER) ⭐ 69 | 🐛 1 | 🌐 Python | 📅 2025-01-07
   * [Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning](https://dl.acm.org/doi/abs/10.1145/3319535.3354217). Payap Sirinam. `CCS 2019`. [\[code\]](https://github.com/triplet-fingerprinting/tf) ⭐ 57 | 🐛 5 | 🌐 Python | 📅 2021-12-31 (N-shot Learning)
   * [A Few Shots Traffic Classification with mini-FlowPic Augmentations](https://dl.acm.org/doi/10.1145/3517745.3561436). Eyal Horowicz. `IMC 2022`. [\[code\]](https://github.com/eyalho/mini-flowpic-traffic-classification) ⭐ 8 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2025-04-15
   * [CETP: A Novel Semi-Supervised Framework Based on Contrastive Pre-Training for Imbalanced Encrypted Traffic Classification](https://www.sciencedirect.com/science/article/abs/pii/S0167404824001949). Xinjie Lin. `Computers & Security (ComSec) 2024`.
@@ -695,7 +695,7 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 
 # Tool Libraries and Frameworks
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,159 | 🐛 64 | 🌐 C++ | 📅 2026-10-26
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,159 | 🐛 61 | 🌐 C++ | 📅 2026-10-27
 * [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,458 | 🐛 11 | 🌐 C | 📅 2026-09-04
 * [Joy](https://github.com/cisco/joy) ⚠️ Archived
 * [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 715 | 🐛 12 | 🌐 Java | 📅 2023-12-04
@@ -763,4 +763,4 @@ Thanks goes to these wonderful people!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
