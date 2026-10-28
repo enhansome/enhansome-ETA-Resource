@@ -433,7 +433,7 @@ Fingerprinting (SWF))(2023)
 
 ## Online Methods
 
-* [Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-3_Mirsky_paper.pdf). Yisroel Mirsky. `NDSS 2018`. [\[code\]](https://github.com/ymirsky/Kitsune-py) ⭐ 400 | 🐛 22 | 🌐 Python | 📅 2026-03-24
+* [Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-3_Mirsky_paper.pdf). Yisroel Mirsky. `NDSS 2018`. [\[code\]](https://github.com/ymirsky/Kitsune-py) ⭐ 401 | 🐛 22 | 🌐 Python | 📅 2026-03-24
 * [Detecting Unknown Encrypted Malicious Traffic in Real Time via Flow Interaction Graph Analysis](https://www.ndss-symposium.org/ndss-paper/detecting-unknown-encrypted-malicious-traffic-in-real-time-via-flow-interaction-graph-analysis/). Chuanpu Fu. `NDSS 2023`. [\[code\]](https://github.com/fuchuanpu/HyperVision) ⭐ 203 | 🐛 2 | 🌐 C++ | 📅 2024-05-06
 * [Brain-on-Switch: Towards Advanced Intelligent Network Data Plane via NN-Driven Traffic Analysis at Line-Speed](https://www.usenix.org/conference/nsdi24/presentation/yan). Jinzhu Yan. `NSDI 2024`. [\[code\]](https://github.com/InspiringGroup-Lab/Brain-on-Switch) ⭐ 46 | 🐛 1 | 🌐 C++ | 📅 2025-01-14
 * [FastTraffic: A lightweight method for encrypted traffic fast classification](https://www.sciencedirect.com/science/article/abs/pii/S1389128623004103). Yuwei Xu. `Computer Networks 2023`. [\[code\]](https://github.com/JieJayCao/FastTraffic) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2024-12-27
@@ -695,10 +695,10 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 
 # Tool Libraries and Frameworks
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,159 | 🐛 61 | 🌐 C++ | 📅 2026-10-27
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,159 | 🐛 63 | 🌐 C++ | 📅 2026-10-28
 * [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,458 | 🐛 11 | 🌐 C | 📅 2026-09-04
 * [Joy](https://github.com/cisco/joy) ⚠️ Archived
-* [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 715 | 🐛 12 | 🌐 Java | 📅 2023-12-04
+* [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 716 | 🐛 12 | 🌐 Java | 📅 2023-12-04
 * [mercury](https://github.com/cisco/mercury) ⭐ 521 | 🐛 16 | 🌐 C++ | 📅 2026-10-09
 * [flowcontainer](https://github.com/jmhIcoding/flowcontainer) ⭐ 233 | 🐛 9 | 🌐 Python | 📅 2023-07-31
 * [traffic\_classification\_utils](https://github.com/jmhIcoding/traffic_classification_utils) ⭐ 214 | 🐛 4 | 🌐 Python | 📅 2025-05-17
@@ -763,4 +763,4 @@ Thanks goes to these wonderful people!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
