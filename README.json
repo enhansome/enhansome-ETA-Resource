@@ -886,7 +886,7 @@
                     "open_issues": 2,
                     "owner": "Secbrain",
                     "repo": "Trident",
-                    "stars": 47,
+                    "stars": 48,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -928,7 +928,7 @@
                     "open_issues": 5,
                     "owner": "fuchuanpu",
                     "repo": "TFusion",
-                    "stars": 36,
+                    "stars": 37,
                     "topics": []
                   },
                   "first_seen": "2026-08-30T12:02:15.577Z"
@@ -1040,7 +1040,7 @@
                     "open_issues": 2,
                     "owner": "fuchuanpu",
                     "repo": "HyperVision",
-                    "stars": 203,
+                    "stars": 204,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1061,7 +1061,7 @@
                     "open_issues": 1,
                     "owner": "fuchuanpu",
                     "repo": "Exosphere",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1082,7 +1082,7 @@
                     "open_issues": 0,
                     "owner": "fuchuanpu",
                     "repo": "pVoxel",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": [
                       "security",
                       "traffic-analysis"
@@ -2340,7 +2340,7 @@
                     "open_issues": 0,
                     "owner": "TrusteeML",
                     "repo": "trustee",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": [
                       "artificial-intelligence",
                       "explainable-ai",
@@ -2444,7 +2444,7 @@
                 "open_issues": 2,
                 "owner": "fuchuanpu",
                 "repo": "HyperVision",
-                "stars": 203,
+                "stars": 204,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2904,11 +2904,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-28T08:41:21Z",
-            "open_issues": 63,
+            "last_commit": "2026-10-29T08:42:23Z",
+            "open_issues": 60,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3159,
+            "stars": 3161,
             "topics": [
               "cpp",
               "dpdk",
@@ -2950,7 +2950,7 @@
             "open_issues": 11,
             "owner": "Internet-Architecture-and-Security",
             "repo": "PacketScope",
-            "stars": 1458,
+            "stars": 1457,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T13:14:06.464Z",
+    "last_updated": "2026-10-29T13:21:42.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
@@ -3202,7 +3202,7 @@
       "id": 444001545,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-10T06:19:27Z",
+      "last_commit": "2026-10-29T00:59:09Z",
       "open_issues": 1,
       "owner": "linwhitehat",
       "repo": "ETA-Resource",
@@ -3217,7 +3217,7 @@
         "survey"
       ]
     },
-    "original_repository_sha": "5cb46a44aa77c5bfff29030d879b713de82c02ec",
+    "original_repository_sha": "d75904abbc348eaf9d6d1dd33e74c832ce792c80",
     "enhanced_repository": "enhansome/enhansome-ETA-Resource",
     "enhanced_repository_description": null,
     "title": "Awesome Content with stars"
