@@ -47,7 +47,7 @@
             "open_issues": 0,
             "owner": "zlabtraffic",
             "repo": "ZLab-Traffic",
-            "stars": 18,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-09-16T11:49:58.010Z"
@@ -55,7 +55,7 @@
         {
           "node_type": "item",
           "title": "VisQUIC",
-          "description": "QUIC Traffic Captured from Different Webpages 2025 🔵 New",
+          "description": "QUIC Traffic Captured from Different Webpages 2025 🟡 No updates",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -76,7 +76,7 @@
         {
           "node_type": "item",
           "title": "NETD",
-          "description": "Dynamic Non-I.I.D. Encrypted Traffic Dataset 2025 🔵 New",
+          "description": "Dynamic Non-I.I.D. Encrypted Traffic Dataset 2025 🟡 No updates",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2860,7 +2860,7 @@
             "open_issues": 3,
             "owner": "gnipping",
             "repo": "Awesome-ML-SP-Papers",
-            "stars": 366,
+            "stars": 367,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2881,7 +2881,7 @@
             "open_issues": 0,
             "owner": "wangtz19",
             "repo": "Awesome-NTA",
-            "stars": 200,
+            "stars": 201,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2992,7 +2992,7 @@
             "open_issues": 12,
             "owner": "ahlashkari",
             "repo": "CICFlowMeter",
-            "stars": 716,
+            "stars": 717,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T13:21:42.420Z",
+    "last_updated": "2026-10-30T13:12:34.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
@@ -3202,7 +3202,7 @@
       "id": 444001545,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-29T00:59:09Z",
+      "last_commit": "2026-10-30T03:17:36Z",
       "open_issues": 1,
       "owner": "linwhitehat",
       "repo": "ETA-Resource",
@@ -3217,7 +3217,7 @@
         "survey"
       ]
     },
-    "original_repository_sha": "d75904abbc348eaf9d6d1dd33e74c832ce792c80",
+    "original_repository_sha": "f69e8558ff53fb7c81445b36897a4e8058a72f7d",
     "enhanced_repository": "enhansome/enhansome-ETA-Resource",
     "enhanced_repository_description": null,
     "title": "Awesome Content with stars"

@@ -103,10 +103,11 @@ This repository offers a curated collection of research and development resource
 | [ANT Datasets](https://ant.isi.edu/datasets/index.html)                                                                                      | Botnet, IoT, DNS, IP Geolocation                                                                                  | –    | 🟢 Regularly  |
 | [Information Security and Object Technology Research Lab Datasets](https://onlineacademiccommunity.uvic.ca/isot/datasets/)                   | IoT, Botnet, Cloud Security                                                                                       | –    | 🟢 Regularly  |
 | [CESNET-DataZoo](https://github.com/CESNET/cesnet-datazoo) ⭐ 53 \| 🐛 1 \| 🌐 Python \| 📅 2026-03-23                                        | QUIC,TLS                                                                                                          | –    | 🟢 Regularly  |
-| [ZLab-Traffic](https://github.com/zlabtraffic/ZLab-Traffic) ⭐ 18 \| 🐛 0 \| 📅 2026-09-02                                                    | Plaintext-Ciphertext Mapping Encrypted Traffic Dataset Covering Website Fingerprinting and Webpage Fingerprinting | 2026 | 🔵 New        |
-| [VisQUIC](https://github.com/robshahla/VisQUIC) ⭐ 28 \| 🐛 4 \| 🌐 Python \| 📅 2026-04-06                                                   | QUIC Traffic Captured from Different Webpages                                                                     | 2025 | 🔵 New        |
-| [CipherSpectrum](https://cspectrum.web.cse.unsw.edu.au)                                                                                      | TLS 1.3 Web-Traffic for 40 Domains                                                                                | 2025 | 🔵 New        |
-| [NETD](https://github.com/linwhitehat/NETD) ⭐ 18 \| 🐛 1 \| 🌐 Python \| 📅 2025-10-11                                                       | Dynamic Non-I.I.D. Encrypted Traffic Dataset                                                                      | 2025 | 🔵 New        |
+| [ZAPT](https://zaptdataset.top/datasets?tab=traffic)                                                                                         | APT                                                                                                               | 2026 | 🔵 New        |
+| [ZLab-Traffic](https://github.com/zlabtraffic/ZLab-Traffic) ⭐ 27 \| 🐛 0 \| 📅 2026-09-02                                                    | Plaintext-Ciphertext Mapping Encrypted Traffic Dataset Covering Website Fingerprinting and Webpage Fingerprinting | 2026 | 🔵 New        |
+| [VisQUIC](https://github.com/robshahla/VisQUIC) ⭐ 28 \| 🐛 4 \| 🌐 Python \| 📅 2026-04-06                                                   | QUIC Traffic Captured from Different Webpages                                                                     | 2025 | 🟡 No updates |
+| [CipherSpectrum](https://cspectrum.web.cse.unsw.edu.au)                                                                                      | TLS 1.3 Web-Traffic for 40 Domains                                                                                | 2025 | 🟡 No updates |
+| [NETD](https://github.com/linwhitehat/NETD) ⭐ 18 \| 🐛 1 \| 🌐 Python \| 📅 2025-10-11                                                       | Dynamic Non-I.I.D. Encrypted Traffic Dataset                                                                      | 2025 | 🟡 No updates |
 | [MobileTraffic](https://github.com/Abby-ZS/NUDT_MobileTraffic) ⭐ 59 \| 🐛 2 \| 📅 2024-01-15                                                 | 300+ Mobile Apps                                                                                                  | 2024 | 🟡 No updates |
 | [Network Multiflow Fingerprinting Datasets](https://github.com/shashadehuajiang/trace_classifier) ⭐ 55 \| 🐛 7 \| 🌐 Python \| 📅 2024-03-16 | UAV, IoT Device ID, ISD, KWS, SWF                                                                                 | 2023 | 🟡 No updates |
 | [Itc-Net-Blend-60](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4661706)                                                              | Android Apps in Diverse Environments                                                                              | 2023 | 🟡 No updates |
@@ -683,8 +684,8 @@ CISPA Helmholtz Center	德国	加密通信协议分析、网络匿名性
 
 # Blogs
 
-* [Awesome-ML-Security-and-Privacy-Papers](https://github.com/gnipping/Awesome-ML-SP-Papers) ⭐ 366 | 🐛 3 | 📅 2025-11-11
-* [Awesome-NTA](https://github.com/wangtz19/Awesome-NTA) ⭐ 200 | 🐛 0 | 📅 2026-04-27
+* [Awesome-ML-Security-and-Privacy-Papers](https://github.com/gnipping/Awesome-ML-SP-Papers) ⭐ 367 | 🐛 3 | 📅 2025-11-11
+* [Awesome-NTA](https://github.com/wangtz19/Awesome-NTA) ⭐ 201 | 🐛 0 | 📅 2026-04-27
 * [Icoding\_F2014](https://blog.csdn.net/jmh1996)
 * [Malware-Traffic-Analysis](https://www.malware-traffic-analysis.net/)
 
@@ -698,7 +699,7 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 * [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,161 | 🐛 60 | 🌐 C++ | 📅 2026-10-29
 * [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,457 | 🐛 11 | 🌐 C | 📅 2026-09-04
 * [Joy](https://github.com/cisco/joy) ⚠️ Archived
-* [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 716 | 🐛 12 | 🌐 Java | 📅 2023-12-04
+* [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 717 | 🐛 12 | 🌐 Java | 📅 2023-12-04
 * [mercury](https://github.com/cisco/mercury) ⭐ 521 | 🐛 16 | 🌐 C++ | 📅 2026-10-09
 * [flowcontainer](https://github.com/jmhIcoding/flowcontainer) ⭐ 233 | 🐛 9 | 🌐 Python | 📅 2023-07-31
 * [traffic\_classification\_utils](https://github.com/jmhIcoding/traffic_classification_utils) ⭐ 214 | 🐛 4 | 🌐 Python | 📅 2025-05-17
@@ -763,4 +764,4 @@ Thanks goes to these wonderful people!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
