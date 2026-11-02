@@ -47,7 +47,7 @@
             "open_issues": 0,
             "owner": "zlabtraffic",
             "repo": "ZLab-Traffic",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-09-16T11:49:58.010Z"
@@ -827,7 +827,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause-Clear",
                     "last_commit": "2023-10-08T03:14:20Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "netsharecmu",
                     "repo": "NetShare",
                     "stars": 101,
@@ -1322,7 +1322,7 @@
                         "open_issues": 1,
                         "owner": "FIND-Lab",
                         "repo": "Website-Fingerprinting-Library",
-                        "stars": 185,
+                        "stars": 186,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2905,7 +2905,7 @@
             "language": "C++",
             "license": "Unlicense",
             "last_commit": "2026-11-01T11:38:31Z",
-            "open_issues": 64,
+            "open_issues": 68,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3161,
@@ -3082,7 +3082,7 @@
             "open_issues": 1,
             "owner": "FIND-Lab",
             "repo": "Website-Fingerprinting-Library",
-            "stars": 185,
+            "stars": 186,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T13:38:22.919Z",
+    "last_updated": "2026-11-02T16:19:24.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",

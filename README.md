@@ -103,7 +103,7 @@ This repository offers a curated collection of research and development resource
 | [ANT Datasets](https://ant.isi.edu/datasets/index.html)                                                                                      | Botnet, IoT, DNS, IP Geolocation                                                                                  | –    | 🟢 Regularly  |
 | [Information Security and Object Technology Research Lab Datasets](https://onlineacademiccommunity.uvic.ca/isot/datasets/)                   | IoT, Botnet, Cloud Security                                                                                       | –    | 🟢 Regularly  |
 | [CESNET-DataZoo](https://github.com/CESNET/cesnet-datazoo) ⭐ 53 \| 🐛 1 \| 🌐 Python \| 📅 2026-03-23                                        | QUIC,TLS                                                                                                          | –    | 🟢 Regularly  |
-| [ZLab-Traffic](https://github.com/zlabtraffic/ZLab-Traffic) ⭐ 29 \| 🐛 0 \| 📅 2026-09-02                                                    | Plaintext-Ciphertext Mapping Encrypted Traffic Dataset Covering Website Fingerprinting and Webpage Fingerprinting | 2026 | 🔵 New        |
+| [ZLab-Traffic](https://github.com/zlabtraffic/ZLab-Traffic) ⭐ 30 \| 🐛 0 \| 📅 2026-09-02                                                    | Plaintext-Ciphertext Mapping Encrypted Traffic Dataset Covering Website Fingerprinting and Webpage Fingerprinting | 2026 | 🔵 New        |
 | [VisQUIC](https://github.com/robshahla/VisQUIC) ⭐ 28 \| 🐛 4 \| 🌐 Python \| 📅 2026-04-06                                                   | QUIC Traffic Captured from Different Webpages                                                                     | 2025 | 🟡 No updates |
 | [CipherSpectrum](https://cspectrum.web.cse.unsw.edu.au)                                                                                      | TLS 1.3 Web-Traffic for 40 Domains                                                                                | 2025 | 🟡 No updates |
 | [NETD](https://github.com/linwhitehat/NETD) ⭐ 18 \| 🐛 1 \| 🌐 Python \| 📅 2025-10-11                                                       | Dynamic Non-I.I.D. Encrypted Traffic Dataset                                                                      | 2025 | 🟡 No updates |
@@ -228,7 +228,7 @@ Fingerprinting (SWF))(2023)
 
 ### Applied ML/DL
 
-* [Practical GAN-based synthetic IP header trace generation using NetShare](https://dl.acm.org/doi/10.1145/3544216.3544251). Yucheng Yin. `SIGCOMM 2022`. \[[code](https://github.com/netsharecmu/NetShare) ⭐ 101 | 🐛 1 | 🌐 Python | 📅 2023-10-08]
+* [Practical GAN-based synthetic IP header trace generation using NetShare](https://dl.acm.org/doi/10.1145/3544216.3544251). Yucheng Yin. `SIGCOMM 2022`. \[[code](https://github.com/netsharecmu/NetShare) ⭐ 101 | 🐛 2 | 🌐 Python | 📅 2023-10-08]
 * [Datacenter Network Deserves Be!er Traffic Models](https://conferences.sigcomm.org/hotnets/2023/papers/hotnets23_huang.pdf). Sijiang Huang. `HotNets 2023`.
 
 ## Network Intrusion Detection
@@ -310,7 +310,7 @@ Fingerprinting (SWF))(2023)
   * [Context-aware Website Fingerprinting over Encrypted Proxies](https://ieeexplore.ieee.org/abstract/document/9488676). Xiaobo Ma. `INFOCOM 2021`.
 * Tor
   * [Deep Fingerprinting: Undermining Website Fingerprinting Defenses with Deep Learning](https://dl.acm.org/doi/abs/10.1145/3243734.3243768). Payap Sirinam. `CCS 2018`. [\[code\]](https://github.com/deep-fingerprinting/df) ⭐ 204 | 🐛 13 | 🌐 Python | 📅 2023-03-25
-  * [Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis](https://arxiv.org/pdf/2407.00918). Xinhao Deng. `CCS 2024`. [\[code\]](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2026-07-06
+  * [Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis](https://arxiv.org/pdf/2407.00918). Xinhao Deng. `CCS 2024`. [\[code\]](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) ⭐ 186 | 🐛 1 | 🌐 Python | 📅 2026-07-06
   * [Automated Website Fingerprinting through Deep Learning](https://tor-wf-dl.distrinet-research.be/Rimmer2018-DLWF.pdf). Vera Rimmer. `NDSS 2018`. [\[code\]](https://github.com/DistriNet/DLWF) ⭐ 118 | 🐛 2 | 🌐 Python | 📅 2023-10-09
   * [Tik-Tok: The Utility of Packet Timing in Website Fingerprinting Attacks](https://petsymposium.org/popets/2020/popets-2020-0043.pdf). Mohammad Saidur Rahman. `PETS 2019`. [\[code\]](https://github.com/msrocean/Tik_Tok) ⭐ 61 | 🐛 1 | 🌐 Python | 📅 2026-06-16
   * [Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning](https://dl.acm.org/doi/10.1145/3319535.3354217). Payap Sirinam. `CCS 2019`. [\[code\]](https://github.com/triplet-fingerprinting/tf) ⭐ 57 | 🐛 5 | 🌐 Python | 📅 2021-12-31
@@ -695,14 +695,14 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 
 # Tool Libraries and Frameworks
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,161 | 🐛 64 | 🌐 C++ | 📅 2026-11-01
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,161 | 🐛 68 | 🌐 C++ | 📅 2026-11-01
 * [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,457 | 🐛 11 | 🌐 C | 📅 2026-09-04
 * [Joy](https://github.com/cisco/joy) ⚠️ Archived
 * [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 716 | 🐛 12 | 🌐 Java | 📅 2023-12-04
 * [mercury](https://github.com/cisco/mercury) ⭐ 521 | 🐛 16 | 🌐 C++ | 📅 2026-10-09
 * [flowcontainer](https://github.com/jmhIcoding/flowcontainer) ⭐ 233 | 🐛 9 | 🌐 Python | 📅 2023-07-31
 * [traffic\_classification\_utils](https://github.com/jmhIcoding/traffic_classification_utils) ⭐ 214 | 🐛 4 | 🌐 Python | 📅 2025-05-17
-* [Website-Fingerprinting-Library (WFlib)](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2026-07-06
+* [Website-Fingerprinting-Library (WFlib)](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) ⭐ 186 | 🐛 1 | 🌐 Python | 📅 2026-07-06
 * [Encrypted-Traffic-Classification-Models](https://github.com/JieJayCao/Encrypted-Traffic-Classification-Models) ⭐ 101 | 🐛 1 | 🌐 Python | 📅 2024-12-14
 * [NTC-Enigma](https://github.com/nime-sha256/ntc-enigma) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2025-05-15
 * [LLMShark](https://github.com/ajcasagrande/llmshark) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2025-06-12
@@ -763,4 +763,4 @@ Thanks goes to these wonderful people!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
