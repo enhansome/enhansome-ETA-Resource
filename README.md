@@ -221,7 +221,7 @@ Fingerprinting (SWF))(2023)
 
 ### Applied PT/LLMs
 
-* [NetLLM: Adapting Large Language Models for Networking](https://dl.acm.org/doi/abs/10.1145/3651890.3672268). Duo Wu. `SIGCOMM 2024`. [\[code\]](https://github.com/duowuyms/NetLLM) ⭐ 208 | 🐛 13 | 🌐 Python | 📅 2024-12-07
+* [NetLLM: Adapting Large Language Models for Networking](https://dl.acm.org/doi/abs/10.1145/3651890.3672268). Duo Wu. `SIGCOMM 2024`. [\[code\]](https://github.com/duowuyms/NetLLM) ⭐ 210 | 🐛 13 | 🌐 Python | 📅 2024-12-07
 * [NetDiffusion: Network Data Augmentation Through Protocol-Constrained Traffic Generation](https://dl.acm.org/doi/10.1145/3639037). Xi Jiang. `SIGMETRICS 2023`. \[[code](https://github.com/noise-lab/NetDiffusion_Generator) ⭐ 88 | 🐛 3 | 🌐 Python | 📅 2025-09-20]
 * [Making Logic a First-Class Citizen in Generative ML for Networking](https://www.usenix.org/conference/nsdi26/presentation/he). Hongyu Hè. `NSDI 2026`. [\[code\]](https://github.com/HongyuHe/NetNomos) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-05-09
 * [Resolving Packets from Counters: Enabling Multi-scale Network Traffic Super Resolution via Composable Large Traffic Model](https://www.usenix.org/conference/nsdi25/presentation/wang-xizheng-resolving). Xizheng Wang. `NSDI 2025`. [\[code\]](https://github.com/wxzisk/ZoomSynth_NSDI2025) ⭐ 19 | 🐛 3 | 🌐 Python | 📅 2024-02-08
@@ -283,7 +283,7 @@ Fingerprinting (SWF))(2023)
 
 ### General Fingerprinting
 
-* [STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting](https://arxiv.org/abs/2512.17667).  Yifei Cheng. `INFOCOM 2026`. [\[code\]](https://github.com/2654400439/STAR-Website-Fingerprinting) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2026-07-30
+* [STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting](https://arxiv.org/abs/2512.17667).  Yifei Cheng. `INFOCOM 2026`. [\[code\]](https://github.com/2654400439/STAR-Website-Fingerprinting) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-07-30
 * [HOLMES & WATSON: A Robust and Lightweight HTTPS Website Fingerprinting through HTTP Version Parallelism](https://dl.acm.org/doi/10.1145/3696410.3714578). Yifei Cheng. `WWW 2025`. [\[code\]](https://github.com/2654400439/H123-Website-Fingerprinting) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2025-05-30
 * [Time will Tell: Large-scale De-anonymization of Hidden I2P Services via Live Behavior Alignment](https://www.ndss-symposium.org/ndss2026/accepted-papers/). Hongze Wang. `NDSS 2026`.
 * [Motion in the Clear: Reconstructing VR User Behavior from Network Traffic](https://www.usenix.org/conference/usenixsecurity26/presentation/lee-jiho). JiHo Lee. `USENIX Security 2026`. [\[code\]](https://zenodo.org/records/20343460)
@@ -360,9 +360,10 @@ Fingerprinting (SWF))(2023)
   * [Walls Have Ears: Traffic-based Side-channel Attack in Video Streaming](https://ieeexplore.ieee.org/abstract/document/8486211). Jiaxi Gu. `IEEE INFOCOM 2018`.
 * LLMs Privacy Analysis
   * [Whisper Leak: A novel side-channel attack on remote language models](https://arxiv.org/abs/2511.03675). Microsoft Defender Security Research Team. `Microsoft Security 2025`. [\[code\]](https://github.com/yo-yo-yo-jbo/whisper_leak) ⭐ 84 | 🐛 0 | 🌐 Python | 📅 2025-11-07 [\[Report\]](https://www.microsoft.com/en-us/security/blog/2025/11/07/whisper-leak-a-novel-side-channel-cyberattack-on-remote-language-models/)
-  * [What Was Your Prompt? A Remote Keylogging Attack on AI Assistants](https://www.usenix.org/conference/usenixsecurity24/presentation/weiss). Roy Weiss. `USENIX Security 2024`. [\[code\]](https://github.com/royweiss1/GPT_Keylogger) ⭐ 67 | 🐛 0 | 🌐 Python | 📅 2025-02-05
+  * [What Was Your Prompt? A Remote Keylogging Attack on AI Assistants](https://www.usenix.org/conference/usenixsecurity24/presentation/weiss). Roy Weiss. `USENIX Security 2024`. [\[code\]](https://github.com/royweiss1/GPT_Keylogger) ⭐ 68 | 🐛 0 | 🌐 Python | 📅 2025-02-05
   * [Network-Level Prompt and Trait Leakage in Local Research Agents](https://www.usenix.org/conference/usenixsecurity26/presentation/jeong). Hyejun Jeong. `USENIX Security 2026`. [\[code\]](https://github.com/umass-aisec/wra) ⭐ 9 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-12-18
   * [From Length to Content: Token-Length Side-Channel Attacks on Merged LLM API Outputs](https://www.usenix.org/conference/usenixsecurity26/presentation/li-sijia). Sijia Li. `USENIX Security 2026`. [\[code\]](https://zenodo.org/records/20554369)
+  * [IOValve: Leakage-Free I/O Sandbox for Large-Scale Untrusted Data Processing](https://dl.acm.org/doi/10.1145/3719027.3765121). Sangho Lee. `CCS 2025`.
   * [Big Help or Big Brother? Auditing Tracking, Profiling, and Personalization in Generative AI Assistants](https://www.usenix.org/conference/usenixsecurity25/presentation/vekaria?utm_source=chatgpt.com). Yash Vekaria. `USENIX Security 2025`. [\[code\]](https://zenodo.org/records/15643498)
 * Side-Channel Vulnerability
   * [SCAD: Towards a Universal and Automated Network Side-Channel Vulnerability Detection](https://ieeexplore.ieee.org/abstract/document/11023468/keywords#keywords). Keyu Man. `S&P 2025`.
@@ -439,7 +440,7 @@ Fingerprinting (SWF))(2023)
 * [FastTraffic: A lightweight method for encrypted traffic fast classification](https://www.sciencedirect.com/science/article/abs/pii/S1389128623004103). Yuwei Xu. `Computer Networks 2023`. [\[code\]](https://github.com/JieJayCao/FastTraffic) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2024-12-27
 * [HorusEye: A Realtime IoT Malicious Traffic Detection Framework using Programmable Switches](https://www.usenix.org/conference/usenixsecurity23/presentation/dong-yutao). Yutao Dong. `USENIX Security 2023`. [\[code\]](https://github.com/vicTorKd/HorusEye) ⭐ 29 | 🐛 0 | 🌐 P4 | 📅 2023-08-06
 * [Leo: Online ML-based Traffic Classification at Multi-Terabit Line Rate](https://www.usenix.org/conference/nsdi24/presentation/jafri). Syed Usman Jafri. `NSDI 2024`. [\[code\]](https://github.com/Purdue-ISL/Leo) ⭐ 22 | 🐛 0 | 🌐 P4 | 📅 2026-06-13
-* [IIsy: Hybrid In-Network Classification Using Programmable Switches](https://ieeexplore.ieee.org/document/10439067). Changgang Zheng. `ToN 2024`. [\[code\]](https://github.com/In-Network-Machine-Learning/IIsy) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2024-06-13
+* [IIsy: Hybrid In-Network Classification Using Programmable Switches](https://ieeexplore.ieee.org/document/10439067). Changgang Zheng. `ToN 2024`. [\[code\]](https://github.com/In-Network-Machine-Learning/IIsy) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2024-06-13
 * [Synecdoche: Efficient and Accurate In-Network Traffic Classification via Direct Packet Sequential Pattern Matching](https://ieeexplore.ieee.org/document/11571501). Minyuan Xiao. `INFOCOM 2026`. [\[code\]](https://github.com/swampx/Synecdoche) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-01-15
 * [RIDS: Towards Advanced IDS via RNN Model and Programmable Switches Co-Designed Approaches](https://ieeexplore.ieee.org/document/10621290). Ziming Zhao. `INFOCOM 2024`. [\[code\]](https://github.com/Secbrain/RIDS/) ⭐ 11 | 🐛 0 | 🌐 C | 📅 2023-10-07
 * [NetVigil: Robust and Low-Cost Anomaly Detection for East-West Data Center Security](https://www.usenix.org/system/files/nsdi24-hsieh.pdf). Kevin Hsieh. `NSDI 2024`. [\[code\]](https://github.com/microsoft/Yatesbury) ⚠️ Archived
@@ -695,10 +696,10 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 
 # Tool Libraries and Frameworks
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,161 | 🐛 68 | 🌐 C++ | 📅 2026-11-01
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,162 | 🐛 68 | 🌐 C++ | 📅 2026-11-01
 * [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,457 | 🐛 11 | 🌐 C | 📅 2026-09-04
 * [Joy](https://github.com/cisco/joy) ⚠️ Archived
-* [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 716 | 🐛 12 | 🌐 Java | 📅 2023-12-04
+* [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 715 | 🐛 12 | 🌐 Java | 📅 2023-12-04
 * [mercury](https://github.com/cisco/mercury) ⭐ 521 | 🐛 16 | 🌐 C++ | 📅 2026-10-09
 * [flowcontainer](https://github.com/jmhIcoding/flowcontainer) ⭐ 233 | 🐛 9 | 🌐 Python | 📅 2023-07-31
 * [traffic\_classification\_utils](https://github.com/jmhIcoding/traffic_classification_utils) ⭐ 214 | 🐛 4 | 🌐 Python | 📅 2025-05-17
@@ -763,4 +764,4 @@ Thanks goes to these wonderful people!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._

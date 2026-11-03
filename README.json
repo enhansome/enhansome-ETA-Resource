@@ -733,7 +733,7 @@
                     "open_issues": 13,
                     "owner": "duowuyms",
                     "repo": "NetLLM",
-                    "stars": 208,
+                    "stars": 210,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1141,7 +1141,7 @@
                     "open_issues": 0,
                     "owner": "2654400439",
                     "repo": "STAR-Website-Fingerprinting",
-                    "stars": 18,
+                    "stars": 19,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1755,7 +1755,7 @@
                         "open_issues": 0,
                         "owner": "royweiss1",
                         "repo": "GPT_Keylogger",
-                        "stars": 67,
+                        "stars": 68,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2553,7 +2553,7 @@
                 "open_issues": 0,
                 "owner": "In-Network-Machine-Learning",
                 "repo": "IIsy",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2908,7 +2908,7 @@
             "open_issues": 68,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3161,
+            "stars": 3162,
             "topics": [
               "cpp",
               "dpdk",
@@ -2971,7 +2971,7 @@
             "open_issues": 30,
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1366,
+            "stars": 1365,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2992,7 +2992,7 @@
             "open_issues": 12,
             "owner": "ahlashkari",
             "repo": "CICFlowMeter",
-            "stars": 716,
+            "stars": 715,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T16:19:24.866Z",
+    "last_updated": "2026-11-03T14:28:45.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
@@ -3202,7 +3202,7 @@
       "id": 444001545,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-30T13:44:05Z",
+      "last_commit": "2026-11-03T02:49:31Z",
       "open_issues": 1,
       "owner": "linwhitehat",
       "repo": "ETA-Resource",
@@ -3217,7 +3217,7 @@
         "survey"
       ]
     },
-    "original_repository_sha": "81d64a6aef6bdd03fd2c6ded8972b317ecc42cc2",
+    "original_repository_sha": "b51d08292029050ec5f16fe164419cf4f475a828",
     "enhanced_repository": "enhansome/enhansome-ETA-Resource",
     "enhanced_repository_description": null,
     "title": "Awesome Content with stars"
