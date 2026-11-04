@@ -114,7 +114,7 @@
             "open_issues": 2,
             "owner": "Abby-ZS",
             "repo": "NUDT_MobileTraffic",
-            "stars": 59,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -827,7 +827,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause-Clear",
                     "last_commit": "2023-10-08T03:14:20Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "netsharecmu",
                     "repo": "NetShare",
                     "stars": 101,
@@ -1286,7 +1286,7 @@
                         "open_issues": 13,
                         "owner": "deep-fingerprinting",
                         "repo": "df",
-                        "stars": 204,
+                        "stars": 205,
                         "topics": [
                           "automated-feature-engineering",
                           "cnn-classification",
@@ -1816,7 +1816,7 @@
                     "open_issues": 2,
                     "owner": "whyisyoung",
                     "repo": "CADE",
-                    "stars": 147,
+                    "stars": 148,
                     "topics": [
                       "artificial-intelligence",
                       "autoencoder",
@@ -2168,6 +2168,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Cease at the Ultimate Goodness: Towards Efficient Website Fingerprinting Defense via Iterative Mutual Information Minimization",
+                  "description": ". Rong Wang. . [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1084810956,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-01-20T07:15:31Z",
+                    "open_issues": 1,
+                    "owner": "Junowww",
+                    "repo": "FRUGAL-ndss",
+                    "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T04:45:06.265Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Robustness Matters: Pre-Training Can Enhance the Performance of Encrypted Traffic Analysis",
                   "description": ". Luming Yang. .[code]",
                   "children": [],
@@ -2186,27 +2207,6 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Cease at the Ultimate Goodness: Towards Efficient Website Fingerprinting Defense via Iterative Mutual Information Minimization",
-                  "description": ". Rong Wang. . [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 1084810956,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-01-20T07:15:31Z",
-                    "open_issues": 1,
-                    "owner": "Junowww",
-                    "repo": "FRUGAL-ndss",
-                    "stars": 2,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T04:45:06.265Z"
                 },
                 {
                   "node_type": "item",
@@ -2553,7 +2553,7 @@
                 "open_issues": 0,
                 "owner": "In-Network-Machine-Learning",
                 "repo": "IIsy",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2571,7 +2571,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-01-15T13:37:37Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "swampx",
                 "repo": "Synecdoche",
                 "stars": 11,
@@ -2716,7 +2716,7 @@
                 "open_issues": 0,
                 "owner": "tls-downgrade",
                 "repo": "email-security",
-                "stars": 1,
+                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-08-29T04:45:06.265Z"
@@ -2881,7 +2881,7 @@
             "open_issues": 0,
             "owner": "wangtz19",
             "repo": "Awesome-NTA",
-            "stars": 201,
+            "stars": 202,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2908,7 +2908,7 @@
             "open_issues": 68,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3162,
+            "stars": 3163,
             "topics": [
               "cpp",
               "dpdk",
@@ -2971,7 +2971,7 @@
             "open_issues": 30,
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1365,
+            "stars": 1366,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3013,7 +3013,7 @@
             "open_issues": 16,
             "owner": "cisco",
             "repo": "mercury",
-            "stars": 521,
+            "stars": 522,
             "topics": [
               "fingerprinting",
               "linux",
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T14:28:45.517Z",
+    "last_updated": "2026-11-04T14:43:24.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
@@ -3206,7 +3206,7 @@
       "open_issues": 1,
       "owner": "linwhitehat",
       "repo": "ETA-Resource",
-      "stars": 403,
+      "stars": 404,
       "topics": [
         "awesome-list",
         "benchmark",
