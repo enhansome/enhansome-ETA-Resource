@@ -102,7 +102,7 @@ This repository offers a curated collection of research and development resource
 | [Canadian Institute for Cybersecurity Datasets](https://www.unb.ca/cic/datasets/)                                                            | IoT, LLM, DNS, IDS, DoS, Darknet, Tor, VPN, Botnet, Malware                                                       | –    | 🟢 Regularly  |
 | [ANT Datasets](https://ant.isi.edu/datasets/index.html)                                                                                      | Botnet, IoT, DNS, IP Geolocation                                                                                  | –    | 🟢 Regularly  |
 | [Information Security and Object Technology Research Lab Datasets](https://onlineacademiccommunity.uvic.ca/isot/datasets/)                   | IoT, Botnet, Cloud Security                                                                                       | –    | 🟢 Regularly  |
-| [CESNET-DataZoo](https://github.com/CESNET/cesnet-datazoo) ⭐ 53 \| 🐛 1 \| 🌐 Python \| 📅 2026-03-23                                        | QUIC,TLS                                                                                                          | –    | 🟢 Regularly  |
+| [CESNET-DataZoo](https://github.com/CESNET/cesnet-datazoo) ⭐ 53 \| 🐛 0 \| 🌐 Python \| 📅 2026-03-23                                        | QUIC,TLS                                                                                                          | –    | 🟢 Regularly  |
 | [ZLab-Traffic](https://github.com/zlabtraffic/ZLab-Traffic) ⭐ 30 \| 🐛 0 \| 📅 2026-09-02                                                    | Plaintext-Ciphertext Mapping Encrypted Traffic Dataset Covering Website Fingerprinting and Webpage Fingerprinting | 2026 | 🔵 New        |
 | [VisQUIC](https://github.com/robshahla/VisQUIC) ⭐ 28 \| 🐛 4 \| 🌐 Python \| 📅 2026-04-06                                                   | QUIC Traffic Captured from Different Webpages                                                                     | 2025 | 🟡 No updates |
 | [CipherSpectrum](https://cspectrum.web.cse.unsw.edu.au)                                                                                      | TLS 1.3 Web-Traffic for 40 Domains                                                                                | 2025 | 🟡 No updates |
@@ -222,7 +222,7 @@ Fingerprinting (SWF))(2023)
 ### Applied PT/LLMs
 
 * [NetLLM: Adapting Large Language Models for Networking](https://dl.acm.org/doi/abs/10.1145/3651890.3672268). Duo Wu. `SIGCOMM 2024`. [\[code\]](https://github.com/duowuyms/NetLLM) ⭐ 210 | 🐛 13 | 🌐 Python | 📅 2024-12-07
-* [NetDiffusion: Network Data Augmentation Through Protocol-Constrained Traffic Generation](https://dl.acm.org/doi/10.1145/3639037). Xi Jiang. `SIGMETRICS 2023`. \[[code](https://github.com/noise-lab/NetDiffusion_Generator) ⭐ 88 | 🐛 3 | 🌐 Python | 📅 2025-09-20]
+* [NetDiffusion: Network Data Augmentation Through Protocol-Constrained Traffic Generation](https://dl.acm.org/doi/10.1145/3639037). Xi Jiang. `SIGMETRICS 2023`. \[[code](https://github.com/noise-lab/NetDiffusion_Generator) ⭐ 89 | 🐛 3 | 🌐 Python | 📅 2025-09-20]
 * [Making Logic a First-Class Citizen in Generative ML for Networking](https://www.usenix.org/conference/nsdi26/presentation/he). Hongyu Hè. `NSDI 2026`. [\[code\]](https://github.com/HongyuHe/NetNomos) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-05-09
 * [Resolving Packets from Counters: Enabling Multi-scale Network Traffic Super Resolution via Composable Large Traffic Model](https://www.usenix.org/conference/nsdi25/presentation/wang-xizheng-resolving). Xizheng Wang. `NSDI 2025`. [\[code\]](https://github.com/wxzisk/ZoomSynth_NSDI2025) ⭐ 19 | 🐛 3 | 🌐 Python | 📅 2024-02-08
 
@@ -283,7 +283,7 @@ Fingerprinting (SWF))(2023)
 
 ### General Fingerprinting
 
-* [STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting](https://arxiv.org/abs/2512.17667).  Yifei Cheng. `INFOCOM 2026`. [\[code\]](https://github.com/2654400439/STAR-Website-Fingerprinting) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-07-30
+* [STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting](https://arxiv.org/abs/2512.17667).  Yifei Cheng. `INFOCOM 2026`. [\[code\]](https://github.com/2654400439/STAR-Website-Fingerprinting) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-07-30
 * [HOLMES & WATSON: A Robust and Lightweight HTTPS Website Fingerprinting through HTTP Version Parallelism](https://dl.acm.org/doi/10.1145/3696410.3714578). Yifei Cheng. `WWW 2025`. [\[code\]](https://github.com/2654400439/H123-Website-Fingerprinting) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2025-05-30
 * [Time will Tell: Large-scale De-anonymization of Hidden I2P Services via Live Behavior Alignment](https://www.ndss-symposium.org/ndss2026/accepted-papers/). Hongze Wang. `NDSS 2026`.
 * [Motion in the Clear: Reconstructing VR User Behavior from Network Traffic](https://www.usenix.org/conference/usenixsecurity26/presentation/lee-jiho). JiHo Lee. `USENIX Security 2026`. [\[code\]](https://zenodo.org/records/20343460)
@@ -360,7 +360,7 @@ Fingerprinting (SWF))(2023)
   * [Walls Have Ears: Traffic-based Side-channel Attack in Video Streaming](https://ieeexplore.ieee.org/abstract/document/8486211). Jiaxi Gu. `IEEE INFOCOM 2018`.
 * LLMs Privacy Analysis
   * [Whisper Leak: A novel side-channel attack on remote language models](https://arxiv.org/abs/2511.03675). Microsoft Defender Security Research Team. `Microsoft Security 2025`. [\[code\]](https://github.com/yo-yo-yo-jbo/whisper_leak) ⭐ 84 | 🐛 0 | 🌐 Python | 📅 2025-11-07 [\[Report\]](https://www.microsoft.com/en-us/security/blog/2025/11/07/whisper-leak-a-novel-side-channel-cyberattack-on-remote-language-models/)
-  * [What Was Your Prompt? A Remote Keylogging Attack on AI Assistants](https://www.usenix.org/conference/usenixsecurity24/presentation/weiss). Roy Weiss. `USENIX Security 2024`. [\[code\]](https://github.com/royweiss1/GPT_Keylogger) ⭐ 68 | 🐛 0 | 🌐 Python | 📅 2025-02-05
+  * [What Was Your Prompt? A Remote Keylogging Attack on AI Assistants](https://www.usenix.org/conference/usenixsecurity24/presentation/weiss). Roy Weiss. `USENIX Security 2024`. [\[code\]](https://github.com/royweiss1/GPT_Keylogger) ⭐ 67 | 🐛 0 | 🌐 Python | 📅 2025-02-05
   * [Network-Level Prompt and Trait Leakage in Local Research Agents](https://www.usenix.org/conference/usenixsecurity26/presentation/jeong). Hyejun Jeong. `USENIX Security 2026`. [\[code\]](https://github.com/umass-aisec/wra) ⭐ 9 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-12-18
   * [From Length to Content: Token-Length Side-Channel Attacks on Merged LLM API Outputs](https://www.usenix.org/conference/usenixsecurity26/presentation/li-sijia). Sijia Li. `USENIX Security 2026`. [\[code\]](https://zenodo.org/records/20554369)
   * [IOValve: Leakage-Free I/O Sandbox for Large-Scale Untrusted Data Processing](https://dl.acm.org/doi/10.1145/3719027.3765121). Sangho Lee. `CCS 2025`.
@@ -394,7 +394,7 @@ Fingerprinting (SWF))(2023)
   * [Few-shot encrypted traffic classification via multi-task representation enhanced meta-learning](https://www.sciencedirect.com/science/article/pii/S1389128623001767). Chen Yang. `Computer Networks 2023`.
 * Open-set
   * [TrafficGPT: An LLM Approach for Open-Set Encrypted Traffic Classification](https://dl.acm.org/doi/abs/10.1145/3674213.3674217). Yasod Ginige. `AINTEC 2024`. [\[code\]](https://github.com/YasodGinige/TrafficGPT) ⭐ 62 | 🐛 2 | 🌐 Python | 📅 2025-11-05
-  * [Trafficllm: Llms for Improved Open-Set Encrypted Traffic Analysis](https://www.sciencedirect.com/science/article/pii/S1389128625008138). Yasod Ginige. `Computer Networks 2025`. [\[code\]](https://github.com/YasodGinige/TrafficLLM) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-05-14
+  * [Trafficllm: Llms for Improved Open-Set Encrypted Traffic Analysis](https://www.sciencedirect.com/science/article/pii/S1389128625008138). Yasod Ginige. `Computer Networks 2025`. [\[code\]](https://github.com/YasodGinige/TrafficLLM) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-05-14
   * [Reliable Open-Set Network Traﬃc Classification](https://ieeexplore.ieee.org/abstract/document/10900396). Xueman Wang. `TIFS 2025`.
   * [Knowing the unknowns: Network traffic detection with open-set semi-supervised learning](https://www.sciencedirect.com/science/article/abs/pii/S1389128624004626). Rui Chen. `Computer Networks 2024`.
   * [Identifying malicious traffic under concept drift based on intraclass consistency enhanced variational autoencoder](http://scis.scichina.com/en/2024/182302.pdf). Xiang Luo. `SCIENCE CHINA Information Sciences (SCIS) 2024`.
@@ -764,4 +764,4 @@ Thanks goes to these wonderful people!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
