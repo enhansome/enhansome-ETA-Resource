@@ -302,7 +302,7 @@ Fingerprinting (SWF))(2023)
   * [AppSniffer: Towards Robust Mobile App Fingerprinting Against VPN](https://dl.acm.org/doi/10.1145/3543507.3583473). Sanghak Oh. `WWW 2023`. [\[code\]](https://github.com/network-traffic/AppSniffer) ⭐ 33 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-10-07
   * [DecETT: Accurate App Fingerprinting Under Encrypted Tunnels via Dual Decouple-based Semantic Enhancement](https://openreview.net/forum?id=y5tQ9BX5NW#discussion). Zheyuan Gu. `WWW 2025`. [\[code\]](https://github.com/DecETT/DecETT) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2024-10-29
   * [Website Fingerprinting on Encrypted Proxies: A Flow-Context-Aware Approach and Countermeasures](https://ieeexplore.ieee.org/abstract/document/10345509). Xiaobo Ma. `ToN 2024`. [\[code\]](https://github.com/sevensmith/context-aware-wfp) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2020-02-15
-  * [Causality Correlation and Context Learning Aided  Robust Lightweight Multi-Tab Website  Fingerprinting Over Encrypted Tunnel](https://ieeexplore.ieee.org/abstract/document/10621235). Siyang Chen. `INFOCOM 2024`. [\[code\]](https://github.com/chenxiailian/robustweb) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2023-07-29 [\[data\]](https://drive.google.com/file/d/1_NvHBp4Z96UuWw5LwEEcb-WfMrOrEoDP/view?usp=drive_linkS)
+  * [Causality Correlation and Context Learning Aided  Robust Lightweight Multi-Tab Website  Fingerprinting Over Encrypted Tunnel](https://ieeexplore.ieee.org/abstract/document/10621235). Siyang Chen. `INFOCOM 2024`. [\[code\]](https://github.com/chenxiailian/robustweb) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2023-07-29 [\[data\]](https://drive.google.com/file/d/1_NvHBp4Z96UuWw5LwEEcb-WfMrOrEoDP/view?usp=drive_linkS)
   * [The Discriminative Power of Cross-layer RTTs in Fingerprinting Proxy Traffic](https://www.ndss-symposium.org/ndss-paper/the-discriminative-power-of-cross-layer-rtts-in-fingerprinting-proxy-traffic/). Diwen Xue. `NDSS 2025`.
   * [Fingerprinting Obfuscated Proxy Traffic with Encapsulated TLS Handshakes](https://www.usenix.org/conference/usenixsecurity24/presentation/xue-fingerprinting). Diwen Xue. `USENIX Security 2024`.
   * [ProxyKiller: An Anonymous Proxy Traffic Attack Model Based on Traffic Behavior Graphs](https://link.springer.com/chapter/10.1007/978-3-031-70890-9_9#Tab4). Hongbo Xu. `ESORICS 2024`.
@@ -317,9 +317,9 @@ Fingerprinting (SWF))(2023)
   * [Realistic Website Fingerprinting By Augmenting Network Trace](https://arxiv.org/pdf/2309.10147). Alireza Bahramali. `CCS 2023`. [\[code\]](https://github.com/SPIN-UMass/Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces) ⭐ 34 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-09-20
   * [Robust Multi-tab Website Fingerprinting Attacks in the Wild](https://ieeexplore.ieee.org/document/10179464). Xinhao Deng. `S&P 2023`. [\[code\]](https://github.com/Xinhao-Deng/Multitab-WF-Datasets) ⭐ 32 | 🐛 1 | 📅 2025-01-26
   * [Countmamba: A Generalized Website Fingerprinting Attack via Coarse-Grained Representation and Fine-Grained Prediction](https://ieeexplore.ieee.org/abstract/document/11023397). Xianwen Deng. `S&P 2025`. [\[code\]](https://github.com/SJTU-dxw/CountMamba-WF) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2025-09-08
-  * [Transformer-based Model for Multi-tab Website Fingerprinting Attack](https://dl.acm.org/doi/abs/10.1145/3576915.3623107). Zhaoxin Jin. `CCS 2023`. [\[code\]](https://github.com/jzx-bupt/TMWF) ⭐ 29 | 🐛 4 | 🌐 Python | 📅 2023-11-22
+  * [Transformer-based Model for Multi-tab Website Fingerprinting Attack](https://dl.acm.org/doi/abs/10.1145/3576915.3623107). Zhaoxin Jin. `CCS 2023`. [\[code\]](https://github.com/jzx-bupt/TMWF) ⭐ 30 | 🐛 4 | 🌐 Python | 📅 2023-11-22
   * [Swallow: A Transfer-Robust Website Fingerprinting Attack via Consistent Feature Learning](https://dl.acm.org/doi/10.1145/3719027.3744795). Meng Shen. `CCS 2025`. [\[code\]](https://github.com/wujinhe0814/Swallow) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2026-03-22
-  * [Beyond Single Tabs: A Transformative Few-Shot Approach to Multi-Tab Website Fingerprinting Attacks](https://dl.acm.org/doi/10.1145/3696410.3714811). Wenwen Meng. `WWW 2025`. [\[code\]](https://github.com/WW-Meng/FMWF) ⭐ 10 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-01-17
+  * [Beyond Single Tabs: A Transformative Few-Shot Approach to Multi-Tab Website Fingerprinting Attacks](https://dl.acm.org/doi/10.1145/3696410.3714811). Wenwen Meng. `WWW 2025`. [\[code\]](https://github.com/WW-Meng/FMWF) ⭐ 11 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-01-17
   * [CELLSHIFT: RTT-Aware Trace Transduction for Real-World Website Fingerprinting](https://www.ndss-symposium.org/ndss-paper/cellshift-rtt-aware-trace-transduction-for-real-world-website-fingerprinting/). Rob Jansen. `NDSS 2026`. [\[code\]](https://github.com/robgjansen/cellshift) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2025-08-26 [\[Snapshot\]](https://zenodo.org/records/15863906)
   * [Towards Practical Few-shot Multi-tab Website Fingerprinting](https://www.usenix.org/conference/usenixsecurity26/presentation/liu-lin). Lin Liu. `USENIX Security 2026`. [\[code\]](https://github.com/nl77-seraph/MMF) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-05-27
   * [Brewing Under Pressure: More Realistic Tor Flow Correlation Considering Low FPRs](TBD). Haeseung Jeon. `CCS 2026`.
@@ -401,7 +401,7 @@ Fingerprinting (SWF))(2023)
   * [Robust open-set classification for encrypted traffic fingerprinting](https://www.sciencedirect.com/science/article/pii/S138912862300436X). Thilini Dahanayaka. `Computer Networks 2023`.
   * [Autonomous Unknown-Application Filtering and Labeling for DL-based Traffic Classifier Update](https://ieeexplore.ieee.org/abstract/document/9155292). Jielun Zhang. `INFOCOM 2020`
 * Defense and Adversarial Techniques
-  * [Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation](https://www.usenix.org/conference/usenixsecurity23/presentation/xie). Renjie Xie. `USENIX Security 2023`. [\[code\]](https://github.com/sunskyXX/Rosetta) ⭐ 61 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-09-06
+  * [Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation](https://www.usenix.org/conference/usenixsecurity23/presentation/xie). Renjie Xie. `USENIX Security 2023`. [\[code\]](https://github.com/sunskyXX/Rosetta) ⭐ 62 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-09-06
   * [Robustifying ML-powered Network Classifiers with PANTS](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-9-jin-minhao.pdf). Minhao Jin. `USENIX Security 2025`. [\[code\]](https://github.com/jinminhao/PANTS) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-08-16 [\[Blog\]](https://blog.ai.princeton.edu/2025/03/28/robustifying-ml-powered-network-classifiers-with-pants/)
   * [A Hard-Label Black-Box Evasion Attack against ML-based Malicious Traffic Detection Systems](https://www.ndss-symposium.org/ndss-paper/a-hard-label-black-box-evasion-attack-against-ml-based-malicious-traffic-detection-systems/). Zixuan Liu. `NDSS 2026`. [\[code\]](https://github.com/09nat/NetMasquerade) ⭐ 24 | 🐛 3 | 🌐 Python | 📅 2026-08-18
   * [AdvTG: An Adversarial Traffic Generation Framework to Deceive DL-Based Malicious Traffic Detection Models](https://openreview.net/forum?id=sYZvdIh9ro#discussion). Peishuai Sun. `WWW 2025`. [\[code\]](https://github.com/TrafficDetection-art/AdvTG) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2026-08-03
@@ -423,7 +423,7 @@ Fingerprinting (SWF))(2023)
   * [GEAD: Rules Refine the Riddle: Global Explanation for Deep Learning-Based Anomaly Detection in Security Applications](https://dl.acm.org/doi/10.1145/3658644.3670375). Dongqi Han. `CCS 2024`. [\[code\]](https://github.com/dongtsi/GEAD) ⭐ 93 | 🐛 0 | 🌐 Python | 📅 2025-08-20
   * [xNIDS: Explaining Deep Learning-based Network Intrusion Detection Systems for Active Intrusion Responses](https://www.usenix.org/conference/usenixsecurity23/presentation/wei-feng). Feng Wei. `USENIX Security 2023`. [\[code\]](https://github.com/CactiLab/code-xNIDS) ⭐ 61 | 🐛 0 | 🌐 Python | 📅 2024-08-27
   * [The Sweet Danger of Sugar: Debunking Representation Learning for Encrypted Traffic Classification](https://dl.acm.org/doi/10.1145/3718958.3750498). Yuqi Zhao. `SIGCOMM 2025`. [\[code\]](https://github.com/SmartData-Polito/Debunk_Traffic_Representation) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2025-09-10
-  * [AI/ML for Network Security: The Emperor has no Clothes](https://dl.acm.org/doi/10.1145/3548606.3560609). Arthur S. Jacobs. `CCS 2022`. [\[code\]](https://github.com/TrusteeML/trustee) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2026-08-24
+  * [AI/ML for Network Security: The Emperor has no Clothes](https://dl.acm.org/doi/10.1145/3548606.3560609). Arthur S. Jacobs. `CCS 2022`. [\[code\]](https://github.com/TrusteeML/trustee) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2026-08-24
   * [Understanding Web Fingerprinting with a Protocol-Centric Approach](https://dl.acm.org/doi/10.1145/3678890.3678910). Bogdan Cebere. `RAID 2024`. [\[code\]](https://github.com/bcebere/Understanding-and-Explaining-Web-Fingerprinting-with-a-Protocol-Centric-Approach) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-10-03
   * [Is the Data Really Noisy? Rethinking Traffic Filtering for Encrypted Traffic Classification](https://doi.org/10.1109/TDSC.2026.3725472). Chungang Lin. `TDSC 2026`. [\[code\]](https://github.com/lincgcg/TraCare-ICT) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-09-02
   * [Explainable Anomaly Detection in Network Traffic Using Normalizing Flows](https://xplorestaging.ieee.org/document/11201273). Lior Shafir. `ToN 2025`.
@@ -696,7 +696,7 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 
 # Tool Libraries and Frameworks
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,163 | 🐛 68 | 🌐 C++ | 📅 2026-11-01
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,164 | 🐛 68 | 🌐 C++ | 📅 2026-11-01
 * [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,457 | 🐛 11 | 🌐 C | 📅 2026-09-04
 * [Joy](https://github.com/cisco/joy) ⚠️ Archived
 * [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 715 | 🐛 12 | 🌐 Java | 📅 2023-12-04
@@ -764,4 +764,4 @@ Thanks goes to these wonderful people!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
