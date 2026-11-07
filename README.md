@@ -696,7 +696,7 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 
 # Tool Libraries and Frameworks
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,164 | 🐛 68 | 🌐 C++ | 📅 2026-11-01
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,164 | 🐛 70 | 🌐 C++ | 📅 2026-11-01
 * [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,457 | 🐛 11 | 🌐 C | 📅 2026-09-04
 * [Joy](https://github.com/cisco/joy) ⚠️ Archived
 * [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 715 | 🐛 12 | 🌐 Java | 📅 2023-12-04
@@ -764,4 +764,4 @@ Thanks goes to these wonderful people!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
