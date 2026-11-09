@@ -177,7 +177,7 @@
             "open_issues": 0,
             "owner": "linwhitehat",
             "repo": "ET-BERT",
-            "stars": 682,
+            "stars": 683,
             "topics": [
               "burst-analysis",
               "encrypted-traffic-analysis",
@@ -404,7 +404,7 @@
                     "open_issues": 0,
                     "owner": "linwhitehat",
                     "repo": "ET-BERT",
-                    "stars": 682,
+                    "stars": 683,
                     "topics": [
                       "burst-analysis",
                       "encrypted-traffic-analysis",
@@ -827,7 +827,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause-Clear",
                     "last_commit": "2023-10-08T03:14:20Z",
-                    "open_issues": 3,
+                    "open_issues": 2,
                     "owner": "netsharecmu",
                     "repo": "NetShare",
                     "stars": 101,
@@ -1162,7 +1162,7 @@
                     "open_issues": 0,
                     "owner": "2654400439",
                     "repo": "H123-Website-Fingerprinting",
-                    "stars": 18,
+                    "stars": 19,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1286,7 +1286,7 @@
                         "open_issues": 13,
                         "owner": "deep-fingerprinting",
                         "repo": "df",
-                        "stars": 205,
+                        "stars": 206,
                         "topics": [
                           "automated-feature-engineering",
                           "cnn-classification",
@@ -1423,6 +1423,27 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "Countmamba: A Generalized Website Fingerprinting Attack via Coarse-Grained Representation and Fine-Grained Prediction",
+                      "description": ". Xianwen Deng. . [code]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 879531543,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2025-09-08T01:03:32Z",
+                        "open_issues": 0,
+                        "owner": "SJTU-dxw",
+                        "repo": "CountMamba-WF",
+                        "stars": 32,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T18:50:58.398Z"
+                    },
+                    {
+                      "node_type": "item",
                       "title": "Robust Multi-tab Website Fingerprinting Attacks in the Wild",
                       "description": ". Xinhao Deng. . [code]",
                       "children": [],
@@ -1442,27 +1463,6 @@
                           "security-and-privacy",
                           "website-fingerprinting"
                         ]
-                      },
-                      "first_seen": "2026-08-28T18:50:58.398Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Countmamba: A Generalized Website Fingerprinting Attack via Coarse-Grained Representation and Fine-Grained Prediction",
-                      "description": ". Xianwen Deng. . [code]",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": null,
-                        "homepage": null,
-                        "id": 879531543,
-                        "language": "Python",
-                        "license": null,
-                        "last_commit": "2025-09-08T01:03:32Z",
-                        "open_issues": 0,
-                        "owner": "SJTU-dxw",
-                        "repo": "CountMamba-WF",
-                        "stars": 31,
-                        "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
                     },
@@ -2423,7 +2423,7 @@
                 "open_issues": 22,
                 "owner": "ymirsky",
                 "repo": "Kitsune-py",
-                "stars": 401,
+                "stars": 400,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2881,7 +2881,7 @@
             "open_issues": 0,
             "owner": "wangtz19",
             "repo": "Awesome-NTA",
-            "stars": 202,
+            "stars": 203,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2905,10 +2905,10 @@
             "language": "C++",
             "license": "Unlicense",
             "last_commit": "2026-11-01T11:38:31Z",
-            "open_issues": 70,
+            "open_issues": 69,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3165,
+            "stars": 3166,
             "topics": [
               "cpp",
               "dpdk",
@@ -2950,7 +2950,7 @@
             "open_issues": 11,
             "owner": "Internet-Architecture-and-Security",
             "repo": "PacketScope",
-            "stars": 1457,
+            "stars": 1456,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T13:39:56.839Z",
+    "last_updated": "2026-11-09T16:39:41.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
