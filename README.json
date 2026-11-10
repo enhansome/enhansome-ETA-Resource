@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "CESNET",
             "repo": "cesnet-datazoo",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "computer-networks",
               "datasets",
@@ -481,7 +481,7 @@
                     "open_issues": 9,
                     "owner": "IDP-code",
                     "repo": "TrafficFormer",
-                    "stars": 117,
+                    "stars": 118,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -733,7 +733,7 @@
                     "open_issues": 13,
                     "owner": "duowuyms",
                     "repo": "NetLLM",
-                    "stars": 210,
+                    "stars": 209,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2486,7 +2486,7 @@
                 "open_issues": 0,
                 "owner": "JieCaoSec",
                 "repo": "FastTraffic",
-                "stars": 32,
+                "stars": 33,
                 "topics": [
                   "encrypted-traffic-analysis",
                   "encrypted-traffic-classification",
@@ -2860,7 +2860,7 @@
             "open_issues": 3,
             "owner": "gnipping",
             "repo": "Awesome-ML-SP-Papers",
-            "stars": 367,
+            "stars": 368,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2905,7 +2905,7 @@
             "language": "C++",
             "license": "Unlicense",
             "last_commit": "2026-11-01T11:38:31Z",
-            "open_issues": 69,
+            "open_issues": 70,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3166,
@@ -2950,7 +2950,7 @@
             "open_issues": 11,
             "owner": "Internet-Architecture-and-Security",
             "repo": "PacketScope",
-            "stars": 1456,
+            "stars": 1457,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2971,7 +2971,7 @@
             "open_issues": 30,
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1366,
+            "stars": 1367,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T16:39:41.631Z",
+    "last_updated": "2026-11-10T15:03:18.683Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
