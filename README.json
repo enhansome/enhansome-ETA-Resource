@@ -47,7 +47,7 @@
             "open_issues": 0,
             "owner": "zlabtraffic",
             "repo": "ZLab-Traffic",
-            "stars": 30,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-09-16T11:49:58.010Z"
@@ -177,7 +177,7 @@
             "open_issues": 0,
             "owner": "linwhitehat",
             "repo": "ET-BERT",
-            "stars": 683,
+            "stars": 682,
             "topics": [
               "burst-analysis",
               "encrypted-traffic-analysis",
@@ -404,7 +404,7 @@
                     "open_issues": 0,
                     "owner": "linwhitehat",
                     "repo": "ET-BERT",
-                    "stars": 683,
+                    "stars": 682,
                     "topics": [
                       "burst-analysis",
                       "encrypted-traffic-analysis",
@@ -481,7 +481,7 @@
                     "open_issues": 9,
                     "owner": "IDP-code",
                     "repo": "TrafficFormer",
-                    "stars": 118,
+                    "stars": 117,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -593,7 +593,7 @@
                     "open_issues": 9,
                     "owner": "ViktorAxelsen",
                     "repo": "MH-Net",
-                    "stars": 81,
+                    "stars": 80,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -907,7 +907,7 @@
                     "open_issues": 2,
                     "owner": "xinchen930",
                     "repo": "AOC-IDS",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2294,7 +2294,7 @@
                     "open_issues": 0,
                     "owner": "CactiLab",
                     "repo": "code-xNIDS",
-                    "stars": 61,
+                    "stars": 62,
                     "topics": [
                       "deep-learning",
                       "explainable-ai",
@@ -2904,11 +2904,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-11-01T11:38:31Z",
-            "open_issues": 70,
+            "last_commit": "2026-11-11T09:07:52Z",
+            "open_issues": 68,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3166,
+            "stars": 3168,
             "topics": [
               "cpp",
               "dpdk",
@@ -3103,7 +3103,7 @@
             "open_issues": 1,
             "owner": "JieCaoSec",
             "repo": "Encrypted-Traffic-Classification-Models",
-            "stars": 101,
+            "stars": 100,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T15:03:18.683Z",
+    "last_updated": "2026-11-11T14:34:55.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
