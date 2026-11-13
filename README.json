@@ -177,7 +177,7 @@
             "open_issues": 0,
             "owner": "linwhitehat",
             "repo": "ET-BERT",
-            "stars": 683,
+            "stars": 684,
             "topics": [
               "burst-analysis",
               "encrypted-traffic-analysis",
@@ -404,7 +404,7 @@
                     "open_issues": 0,
                     "owner": "linwhitehat",
                     "repo": "ET-BERT",
-                    "stars": 683,
+                    "stars": 684,
                     "topics": [
                       "burst-analysis",
                       "encrypted-traffic-analysis",
@@ -502,7 +502,7 @@
                     "open_issues": 1,
                     "owner": "yyyjn",
                     "repo": "BTRFormer",
-                    "stars": 11,
+                    "stars": 12,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -593,7 +593,7 @@
                     "open_issues": 9,
                     "owner": "ViktorAxelsen",
                     "repo": "MH-Net",
-                    "stars": 80,
+                    "stars": 81,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1286,7 +1286,7 @@
                         "open_issues": 13,
                         "owner": "deep-fingerprinting",
                         "repo": "df",
-                        "stars": 206,
+                        "stars": 207,
                         "topics": [
                           "automated-feature-engineering",
                           "cnn-classification",
@@ -1755,7 +1755,7 @@
                         "open_issues": 0,
                         "owner": "royweiss1",
                         "repo": "GPT_Keylogger",
-                        "stars": 67,
+                        "stars": 68,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1898,7 +1898,7 @@
                     "open_issues": 1,
                     "owner": "Xinhao-Deng",
                     "repo": "Adaptive-WF-Attack",
-                    "stars": 30,
+                    "stars": 31,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2904,7 +2904,7 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-11-12T08:20:19Z",
+            "last_commit": "2026-11-13T09:45:01Z",
             "open_issues": 68,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
@@ -2950,7 +2950,7 @@
             "open_issues": 11,
             "owner": "Internet-Architecture-and-Security",
             "repo": "PacketScope",
-            "stars": 1457,
+            "stars": 1456,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T15:26:48.780Z",
+    "last_updated": "2026-11-13T14:44:07.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
