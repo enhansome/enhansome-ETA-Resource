@@ -103,7 +103,7 @@ This repository offers a curated collection of research and development resource
 | [ANT Datasets](https://ant.isi.edu/datasets/index.html)                                                                                      | Botnet, IoT, DNS, IP Geolocation                                                                                  | –    | 🟢 Regularly  |
 | [Information Security and Object Technology Research Lab Datasets](https://onlineacademiccommunity.uvic.ca/isot/datasets/)                   | IoT, Botnet, Cloud Security                                                                                       | –    | 🟢 Regularly  |
 | [CESNET-DataZoo](https://github.com/CESNET/cesnet-datazoo) ⭐ 55 \| 🐛 0 \| 🌐 Python \| 📅 2026-03-23                                        | QUIC,TLS                                                                                                          | –    | 🟢 Regularly  |
-| [ZLab-Traffic](https://github.com/zlabtraffic/ZLab-Traffic) ⭐ 33 \| 🐛 0 \| 📅 2026-11-08                                                    | Plaintext-Ciphertext Mapping Encrypted Traffic Dataset Covering Website Fingerprinting and Webpage Fingerprinting | 2026 | 🔵 New        |
+| [ZLab-Traffic](https://github.com/zlabtraffic/ZLab-Traffic) ⭐ 37 \| 🐛 0 \| 📅 2026-11-08                                                    | Plaintext-Ciphertext Mapping Encrypted Traffic Dataset Covering Website Fingerprinting and Webpage Fingerprinting | 2026 | 🔵 New        |
 | [VisQUIC](https://github.com/robshahla/VisQUIC) ⭐ 28 \| 🐛 4 \| 🌐 Python \| 📅 2026-04-06                                                   | QUIC Traffic Captured from Different Webpages                                                                     | 2025 | 🟡 No updates |
 | [CipherSpectrum](https://cspectrum.web.cse.unsw.edu.au)                                                                                      | TLS 1.3 Web-Traffic for 40 Domains                                                                                | 2025 | 🟡 No updates |
 | [NETD](https://github.com/linwhitehat/NETD) ⭐ 18 \| 🐛 1 \| 🌐 Python \| 📅 2025-10-11                                                       | Dynamic Non-I.I.D. Encrypted Traffic Dataset                                                                      | 2025 | 🟡 No updates |
@@ -192,11 +192,12 @@ Fingerprinting (SWF))(2023)
 ### Applied Pre-training/LLMs
 
 * [ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification](https://dl.acm.org/doi/abs/10.1145/3485447.3512217). Xinjie Lin. `WWW 2022`. [\[code\]](https://github.com/linwhitehat/et-bert) ⭐ 684 | 🐛 0 | 🌐 Python | 📅 2026-07-23 [\[Reproduce\]](https://gitee.com/xxdxxdxxd/et-bert/blob/master/README.md)
-* [NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba](https://arxiv.org/abs/2405.11449). Tongze Wang. `ICNP 2024`. [\[code\]](https://github.com/wangtz19/NetMamba) ⭐ 190 | 🐛 0 | 🌐 Python | 📅 2026-04-05
+* [NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba](https://arxiv.org/abs/2405.11449). Tongze Wang. `ICNP 2024`. [\[code\]](https://github.com/wangtz19/NetMamba) ⭐ 189 | 🐛 0 | 🌐 Python | 📅 2026-04-05
 * [Yet Another Traffic Classifier: A Masked Autoencoder Based Traffic Transformer with Multi-Level Flow Representation](https://ojs.aaai.org/index.php/AAAI/article/view/25674). Ruijie Zhao. `AAAI 2023`. [\[code\]](https://github.com/NSSL-SJTU/YaTC) ⭐ 158 | 🐛 2 | 🌐 Python | 📅 2024-04-29
 * [TrafficFormer: An Efficient Pre-trained Model for Traffic Data](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a102/22K50xTq93y). Guangmeng Zhou. `S&P 2025`. [\[code\]](https://github.com/IDP-code/TrafficFormer) ⭐ 118 | 🐛 9 | 🌐 Python | 📅 2025-01-18
 * [BTRFormer: Hierarchical Learning of Encrypted Traffic Using a Masked Autoencoder with Block-Based Traffic Representation](https://ieeexplore.ieee.org/abstract/document/11192383). Junnan Yin. `ICNP 2025`. [\[code\]](https://github.com/yyyjn/BTRFormer) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2025-10-21
 * [Versatile yet Efficient Network Traffic Analysis: Offloading Network Foundation Model to SmartNIC](https://arxiv.org/abs/2508.02001). Chungang Lin. `NDSS 2027`. [\[code\]](https://github.com/lincgcg/Nepco) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-13
+* [PROTEUS: A Context-Aware Flow Representation with Pre-training Model for Out-of-Distribution Encrypted Traffic Classification](TBD). Wenqi Dong. `KDD 2027`.
 * [Tracegram: Framing Trace-Level Traffic Analysis with Temporally-Aware Multiple Instance Learning](https://www.usenix.org/conference/usenixsecurity26/presentation/qu). Jian Qu. `USENIX Security 2026`. [\[code\]](https://zenodo.org/records/17978903)
 * [TraGe: A Generic Packet Representation for Traffic Classification Based on Header-Payload Differences](https://arxiv.org/abs/2506.14151). Chungang Lin. `IWQoS 2025`.
 * [MM4flow: A Pre-trained Multi-modal Model for Versatile Network Traffic Analysis](https://dl.acm.org/doi/10.1145/3719027.3744804). Luming Yang. `CCS 2025`.
@@ -221,7 +222,7 @@ Fingerprinting (SWF))(2023)
 
 ### Applied PT/LLMs
 
-* [NetLLM: Adapting Large Language Models for Networking](https://dl.acm.org/doi/abs/10.1145/3651890.3672268). Duo Wu. `SIGCOMM 2024`. [\[code\]](https://github.com/duowuyms/NetLLM) ⭐ 209 | 🐛 13 | 🌐 Python | 📅 2024-12-07
+* [NetLLM: Adapting Large Language Models for Networking](https://dl.acm.org/doi/abs/10.1145/3651890.3672268). Duo Wu. `SIGCOMM 2024`. [\[code\]](https://github.com/duowuyms/NetLLM) ⭐ 208 | 🐛 13 | 🌐 Python | 📅 2024-12-07
 * [NetDiffusion: Network Data Augmentation Through Protocol-Constrained Traffic Generation](https://dl.acm.org/doi/10.1145/3639037). Xi Jiang. `SIGMETRICS 2023`. \[[code](https://github.com/noise-lab/NetDiffusion_Generator) ⭐ 89 | 🐛 3 | 🌐 Python | 📅 2025-09-20]
 * [Making Logic a First-Class Citizen in Generative ML for Networking](https://www.usenix.org/conference/nsdi26/presentation/he). Hongyu Hè. `NSDI 2026`. [\[code\]](https://github.com/HongyuHe/NetNomos) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-05-09
 * [Resolving Packets from Counters: Enabling Multi-scale Network Traffic Super Resolution via Composable Large Traffic Model](https://www.usenix.org/conference/nsdi25/presentation/wang-xizheng-resolving). Xizheng Wang. `NSDI 2025`. [\[code\]](https://github.com/wxzisk/ZoomSynth_NSDI2025) ⭐ 19 | 🐛 3 | 🌐 Python | 📅 2024-02-08
@@ -469,6 +470,7 @@ Fingerprinting (SWF))(2023)
   * [6VecLM: Language Modeling in Vector Space for IPv6 Target Generation](https://link.springer.com/chapter/10.1007%2F978-3-030-67667-4_12). Tianyu Cui. `ECML/PKDD 2020`. [\[code\]](https://github.com/CuiTianyu961030/6VecLM) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2020-06-25
   * [IPv6 Prefix Target Generation through Pattern and Distribution Learning using Vision-Transformer and Guided-Diffusion](https://ieeexplore.ieee.org/document/11044676). Yaochen Ren. `INFOCOM 2025`.
 * Quality of Service
+  * [Horizon: A Hyper-Edge Observability Engine for Live Streaming Networks](https://dl.acm.org/doi/10.1145/3789240.3829153). Ziqian Liu. `SIGCOMM 2026`
   * [Network Traffic Statistical Upper Limit Prediction From Flow Features for Traffic Fluctuations](https://xplorestaging.ieee.org/document/11143543). Erina Takeshita. `ToN 2025`.
 
 <!--
@@ -637,8 +639,9 @@ Southeast University/China
 * [Qian Wang](http://nisplab.whu.edu.cn/people.html) (Wuhan University/China)
 * [Shuguang Cui](https://sse.cuhk.edu.cn/en/faculty/cuishuguang) (The Chinese University of Hong Kong/China)
 * [Feng Li](https://funglee.github.io/) (Shandong University/China)
-* [Zhihong Tian](https://scholar.google.com/citations?user=oy9xqxcAAAAJ\&hl=en) (Guangzhou University)
-* [Qiao Xiang](https://qiaoxiang.me/) (Xiamen University)
+* [Zhihong Tian](https://scholar.google.com/citations?user=oy9xqxcAAAAJ\&hl=en) (Guangzhou University/China)
+* [Qiao Xiang](https://qiaoxiang.me/) (Xiamen University/China)
+* [Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/) (The Hong Kong Polytechnic University/China)
 
 </details>
 
@@ -647,7 +650,7 @@ Southeast University/China
 Overseas
 </summary>
 
-* [Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) (University of Waterloo/Canada)
+* [Xuemin (Sherman) Shen](https://uwaterloo.ca/electrical-computer-engineering/profile/sshen) (University of Waterloo/Canada)
 * [Xiaofeng Wang](https://homes.luddy.indiana.edu/xw7/) (Indiana University Bloomington/United States)
 * [Tao Wang](https://www.cs.sfu.ca/~taowang/) (Simon Fraser University/Canada)
 * [Ivan Martinovic](https://www.cs.ox.ac.uk/people/ivan.martinovic/) (University of Oxford/United Kingdom)
@@ -696,7 +699,7 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 
 # Tool Libraries and Frameworks
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,170 | 🐛 68 | 🌐 C++ | 📅 2026-11-13
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,172 | 🐛 68 | 🌐 C++ | 📅 2026-11-13
 * [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) ⭐ 1,456 | 🐛 11 | 🌐 C | 📅 2026-09-04
 * [Joy](https://github.com/cisco/joy) ⚠️ Archived
 * [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) ⭐ 715 | 🐛 12 | 🌐 Java | 📅 2023-12-04
@@ -764,4 +767,4 @@ Thanks goes to these wonderful people!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

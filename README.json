@@ -47,7 +47,7 @@
             "open_issues": 0,
             "owner": "zlabtraffic",
             "repo": "ZLab-Traffic",
-            "stars": 33,
+            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-09-16T11:49:58.010Z"
@@ -433,7 +433,7 @@
                     "open_issues": 0,
                     "owner": "wangtz19",
                     "repo": "NetMamba",
-                    "stars": 190,
+                    "stars": 189,
                     "topics": [
                       "mae",
                       "mamba",
@@ -733,7 +733,7 @@
                     "open_issues": 13,
                     "owner": "duowuyms",
                     "repo": "NetLLM",
-                    "stars": 209,
+                    "stars": 208,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2908,7 +2908,7 @@
             "open_issues": 68,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3170,
+            "stars": 3172,
             "topics": [
               "cpp",
               "dpdk",
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T14:44:07.370Z",
+    "last_updated": "2026-11-14T13:40:43.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
@@ -3202,7 +3202,7 @@
       "id": 444001545,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-11-03T02:49:31Z",
+      "last_commit": "2026-11-14T03:20:24Z",
       "open_issues": 1,
       "owner": "linwhitehat",
       "repo": "ETA-Resource",
@@ -3217,7 +3217,7 @@
         "survey"
       ]
     },
-    "original_repository_sha": "b51d08292029050ec5f16fe164419cf4f475a828",
+    "original_repository_sha": "f53aba74f4cfe6b642bdeed73afd03de3cfea7af",
     "enhanced_repository": "enhansome/enhansome-ETA-Resource",
     "enhanced_repository_description": null,
     "title": "Awesome Content with stars"
