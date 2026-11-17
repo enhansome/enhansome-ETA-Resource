@@ -47,7 +47,7 @@
             "open_issues": 0,
             "owner": "zlabtraffic",
             "repo": "ZLab-Traffic",
-            "stars": 38,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-09-16T11:49:58.010Z"
@@ -593,7 +593,7 @@
                     "open_issues": 9,
                     "owner": "ViktorAxelsen",
                     "repo": "MH-Net",
-                    "stars": 81,
+                    "stars": 82,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2423,7 +2423,7 @@
                 "open_issues": 23,
                 "owner": "ymirsky",
                 "repo": "Kitsune-py",
-                "stars": 400,
+                "stars": 401,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2904,11 +2904,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-11-16T03:03:45Z",
-            "open_issues": 67,
+            "last_commit": "2026-11-17T10:14:30Z",
+            "open_issues": 66,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3173,
+            "stars": 3174,
             "topics": [
               "cpp",
               "dpdk",
@@ -2992,7 +2992,7 @@
             "open_issues": 12,
             "owner": "ahlashkari",
             "repo": "CICFlowMeter",
-            "stars": 718,
+            "stars": 719,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T16:08:26.307Z",
+    "last_updated": "2026-11-17T16:15:42.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
