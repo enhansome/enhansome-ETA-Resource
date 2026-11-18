@@ -1734,7 +1734,7 @@
                         "open_issues": 0,
                         "owner": "yo-yo-yo-jbo",
                         "repo": "whisper_leak",
-                        "stars": 84,
+                        "stars": 85,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2486,7 +2486,7 @@
                 "open_issues": 0,
                 "owner": "JieCaoSec",
                 "repo": "FastTraffic",
-                "stars": 33,
+                "stars": 34,
                 "topics": [
                   "encrypted-traffic-analysis",
                   "encrypted-traffic-classification",
@@ -2881,7 +2881,7 @@
             "open_issues": 0,
             "owner": "wangtz19",
             "repo": "Awesome-NTA",
-            "stars": 203,
+            "stars": 204,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2904,7 +2904,7 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-11-17T10:14:30Z",
+            "last_commit": "2026-11-17T20:50:16Z",
             "open_issues": 66,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T16:15:42.632Z",
+    "last_updated": "2026-11-18T15:50:35.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
@@ -3206,7 +3206,7 @@
       "open_issues": 1,
       "owner": "linwhitehat",
       "repo": "ETA-Resource",
-      "stars": 405,
+      "stars": 406,
       "topics": [
         "awesome-list",
         "benchmark",
