@@ -177,7 +177,7 @@
             "open_issues": 0,
             "owner": "linwhitehat",
             "repo": "ET-BERT",
-            "stars": 685,
+            "stars": 687,
             "topics": [
               "burst-analysis",
               "encrypted-traffic-analysis",
@@ -326,7 +326,7 @@
                 "open_issues": 1,
                 "owner": "aiforsec",
                 "repo": "SECURE",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
@@ -404,7 +404,7 @@
                     "open_issues": 0,
                     "owner": "linwhitehat",
                     "repo": "ET-BERT",
-                    "stars": 685,
+                    "stars": 687,
                     "topics": [
                       "burst-analysis",
                       "encrypted-traffic-analysis",
@@ -2423,7 +2423,7 @@
                 "open_issues": 23,
                 "owner": "ymirsky",
                 "repo": "Kitsune-py",
-                "stars": 401,
+                "stars": 402,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2860,7 +2860,7 @@
             "open_issues": 3,
             "owner": "gnipping",
             "repo": "Awesome-ML-SP-Papers",
-            "stars": 369,
+            "stars": 370,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2904,11 +2904,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-11-17T20:50:16Z",
-            "open_issues": 66,
+            "last_commit": "2026-11-19T09:23:06Z",
+            "open_issues": 64,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3174,
+            "stars": 3175,
             "topics": [
               "cpp",
               "dpdk",
@@ -2992,7 +2992,7 @@
             "open_issues": 12,
             "owner": "ahlashkari",
             "repo": "CICFlowMeter",
-            "stars": 719,
+            "stars": 720,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T15:50:35.007Z",
+    "last_updated": "2026-11-19T15:54:17.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
@@ -3206,7 +3206,7 @@
       "open_issues": 1,
       "owner": "linwhitehat",
       "repo": "ETA-Resource",
-      "stars": 406,
+      "stars": 407,
       "topics": [
         "awesome-list",
         "benchmark",
