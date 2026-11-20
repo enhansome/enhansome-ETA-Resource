@@ -89,7 +89,7 @@
             "open_issues": 1,
             "owner": "linwhitehat",
             "repo": "NETD",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "dataset-generation",
               "encrypted-traffic-analysis",
@@ -2860,7 +2860,7 @@
             "open_issues": 3,
             "owner": "gnipping",
             "repo": "Awesome-ML-SP-Papers",
-            "stars": 370,
+            "stars": 369,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2904,7 +2904,7 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-11-19T09:23:06Z",
+            "last_commit": "2026-11-20T09:54:11Z",
             "open_issues": 64,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
@@ -2971,7 +2971,7 @@
             "open_issues": 30,
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1367,
+            "stars": 1366,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2992,7 +2992,7 @@
             "open_issues": 12,
             "owner": "ahlashkari",
             "repo": "CICFlowMeter",
-            "stars": 720,
+            "stars": 719,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T15:54:17.541Z",
+    "last_updated": "2026-11-20T15:38:00.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
