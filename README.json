@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "CESNET",
             "repo": "cesnet-datazoo",
-            "stars": 55,
+            "stars": 56,
             "topics": [
               "computer-networks",
               "datasets",
@@ -1322,7 +1322,7 @@
                         "open_issues": 1,
                         "owner": "FIND-Lab",
                         "repo": "Website-Fingerprinting-Library",
-                        "stars": 186,
+                        "stars": 187,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3082,7 +3082,7 @@
             "open_issues": 1,
             "owner": "FIND-Lab",
             "repo": "Website-Fingerprinting-Library",
-            "stars": 186,
+            "stars": 187,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T15:38:00.052Z",
+    "last_updated": "2026-11-21T14:48:12.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
