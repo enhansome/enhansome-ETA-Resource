@@ -433,7 +433,7 @@
                     "open_issues": 0,
                     "owner": "wangtz19",
                     "repo": "NetMamba",
-                    "stars": 189,
+                    "stars": 190,
                     "topics": [
                       "mae",
                       "mamba",
@@ -460,7 +460,7 @@
                     "open_issues": 2,
                     "owner": "NSSL-SJTU",
                     "repo": "YaTC",
-                    "stars": 158,
+                    "stars": 159,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2904,8 +2904,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-11-22T10:20:43Z",
-            "open_issues": 62,
+            "last_commit": "2026-11-22T19:52:12Z",
+            "open_issues": 63,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3175,
@@ -2992,7 +2992,7 @@
             "open_issues": 12,
             "owner": "ahlashkari",
             "repo": "CICFlowMeter",
-            "stars": 719,
+            "stars": 718,
             "topics": []
           },
           "first_seen": "2026-08-28T18:50:58.398Z"
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T14:44:16.064Z",
+    "last_updated": "2026-11-23T18:30:09.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
