@@ -1040,7 +1040,7 @@
                     "open_issues": 2,
                     "owner": "fuchuanpu",
                     "repo": "HyperVision",
-                    "stars": 204,
+                    "stars": 203,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1734,7 +1734,7 @@
                         "open_issues": 0,
                         "owner": "yo-yo-yo-jbo",
                         "repo": "whisper_leak",
-                        "stars": 85,
+                        "stars": 86,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:50:58.398Z"
@@ -1919,7 +1919,7 @@
                     "open_issues": 1,
                     "owner": "FIND-Lab",
                     "repo": "MAML-Training-ETC",
-                    "stars": 25,
+                    "stars": 26,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2444,7 +2444,7 @@
                 "open_issues": 2,
                 "owner": "fuchuanpu",
                 "repo": "HyperVision",
-                "stars": 204,
+                "stars": 203,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.398Z"
@@ -2904,11 +2904,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-11-22T19:52:12Z",
+            "last_commit": "2026-11-25T09:04:57Z",
             "open_issues": 66,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3176,
+            "stars": 3177,
             "topics": [
               "cpp",
               "dpdk",
@@ -3013,7 +3013,7 @@
             "open_issues": 16,
             "owner": "cisco",
             "repo": "mercury",
-            "stars": 522,
+            "stars": 523,
             "topics": [
               "fingerprinting",
               "linux",
@@ -3194,7 +3194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T17:58:18.050Z",
+    "last_updated": "2026-11-25T17:26:46.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "Materials about Encrypted Traffic Analysis",
@@ -3202,7 +3202,7 @@
       "id": 444001545,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-11-14T03:20:24Z",
+      "last_commit": "2026-11-25T01:39:16Z",
       "open_issues": 1,
       "owner": "linwhitehat",
       "repo": "ETA-Resource",
@@ -3217,7 +3217,7 @@
         "survey"
       ]
     },
-    "original_repository_sha": "f53aba74f4cfe6b642bdeed73afd03de3cfea7af",
+    "original_repository_sha": "343ab087f9d37f3a02ce44a5b52c33e1e9bf5c6d",
     "enhanced_repository": "enhansome/enhansome-ETA-Resource",
     "enhanced_repository_description": null,
     "title": "Awesome Content with stars"
